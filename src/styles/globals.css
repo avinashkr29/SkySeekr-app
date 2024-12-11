@@ -115,6 +115,75 @@ body {
     transform: translateY(-5px);
 }
 
+/* Screenshot Showcase Section */
+.screenshot-showcase {
+    position: relative;
+    overflow: hidden;
+    background: var(--background-color);
+    padding: calc(var(--spacing-unit) * 8) 0;
+    width: 100%;
+    margin-top: calc(var(--spacing-unit) * -4);
+}
+
+.screenshot-track {
+    display: flex;
+    width: calc(280px * 12);
+    animation: scroll 30s linear infinite;
+}
+
+.screenshot-track:hover {
+    animation-play-state: paused;
+}
+
+.screenshot-item {
+    width: 280px; /* Keep original width */
+    height: 580px; /* Increased height to account for iPhone frame */
+    padding: 0 calc(var(--spacing-unit) * 2);
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+}
+
+.screenshot-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* Keep contain to prevent any cropping */
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.screenshot-item:hover {
+    transform: translateY(-5px);
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(calc(-280px * 6));
+    }
+}
+
+.screenshot-showcase::before,
+.screenshot-showcase::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 200px;
+    height: 100%;
+    z-index: 2;
+}
+
+.screenshot-showcase::before {
+    left: 0;
+    background: linear-gradient(to right, var(--background-color) 0%, transparent 100%);
+}
+
+.screenshot-showcase::after {
+    right: 0;
+    background: linear-gradient(to left, var(--background-color) 0%, transparent 100%);
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .hero {
@@ -124,6 +193,29 @@ body {
     .features-grid {
         grid-template-columns: 1fr;
         gap: calc(var(--spacing-unit) * 3);
+    }
+    
+    .screenshot-showcase {
+        padding: calc(var(--spacing-unit) * 4) 0;
+    }
+    
+    .screenshot-item {
+        width: 300px;
+        height: 620px; /* Adjusted to maintain aspect ratio */
+        padding: 0 var(--spacing-unit);
+    }
+    
+    .screenshot-track {
+        width: calc(300px * 12); /* Match the screenshot-item width */
+    }
+    
+    @keyframes scroll {
+        0% {
+            transform: translateX(0);
+        }
+        100% {
+            transform: translateX(calc(-300px * 6)); /* Match the screenshot-item width */
+        }
     }
 }
 
