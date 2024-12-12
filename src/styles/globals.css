@@ -162,11 +162,11 @@ body {
     position: relative;
     overflow: hidden;
     background: var(--background-color);
-    padding: calc(var(--spacing-unit) * 16) 0;  /* Increases space between hero section and screenshots. */
+    padding: calc(var(--spacing-unit) * 8) 0;
     width: 100%;
-    margin-top: calc(var(--spacing-unit) * -4);
     cursor: grab;
-    touch-action: pan-y pinch-zoom;
+    touch-action: pan-x pan-y;
+    max-height: 100vh;
 }
 
 .screenshot-showcase.grabbing {
@@ -230,13 +230,13 @@ body {
 /* Mobile responsive styles */
 @media (max-width: 768px) {
     .screenshot-item {
-        width: 220px;  /* Reduced from 300px */
-        height: 460px; /* Reduced proportionally from 620px */
+        width: 300px;
+        height: 620px;
         padding: 0 var(--spacing-unit);
     }
     
     .screenshot-track {
-        width: calc(220px * 12); /* Adjust total width for new screenshot size */
+        width: calc(00px * 12);
     }
 }
 
