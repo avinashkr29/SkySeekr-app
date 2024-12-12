@@ -162,7 +162,7 @@ body {
     position: relative;
     overflow: hidden;
     background: var(--background-color);
-    padding: calc(var(--spacing-unit) * 8) 0;
+    padding: calc(var(--spacing-unit) * 16) 0;  /* Increases space between hero section and screenshots. */
     width: 100%;
     margin-top: calc(var(--spacing-unit) * -4);
     cursor: grab;
@@ -184,9 +184,10 @@ body {
 }
 
 .screenshot-item {
+    padding: 0; /* Remove all padding */
+    margin: 0 calc(var(--spacing-unit) * 2); /* Add horizontal margin instead */
     width: 280px;
     height: 580px;
-    padding: 0 calc(var(--spacing-unit) * 2);
     flex-shrink: 0;
     transition: transform 0.3s ease;
 }
