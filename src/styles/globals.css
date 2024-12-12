@@ -230,13 +230,13 @@ body {
 /* Mobile responsive styles */
 @media (max-width: 768px) {
     .screenshot-item {
-        width: 300px;
-        height: 620px;
+        width: 220px;  /* Reduced from 300px */
+        height: 460px; /* Reduced proportionally from 620px */
         padding: 0 var(--spacing-unit);
     }
     
     .screenshot-track {
-        width: calc(300px * 12);
+        width: calc(220px * 12); /* Adjust total width for new screenshot size */
     }
 }
 
