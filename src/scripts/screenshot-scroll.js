@@ -5,28 +5,64 @@ document.addEventListener('DOMContentLoaded', function() {
     let startPosition = 0;
     let currentTranslate = 0;
     let previousTranslate = 0;
-    let animationID = 0;
+    let animationID = null;
+    let isAnimating = true;
+    const scrollSpeed = 1; // Constant scroll speed
 
-    // Prevent animation on load
+    // Remove any existing animation
     track.style.animation = 'none';
-    
-    // Re-enable animation after a brief delay
-    setTimeout(() => {
-        track.style.animation = 'scroll 30s linear infinite';
-    }, 100);
+
+    // Calculate the total width of the track content
+    const calculateTrackWidth = () => {
+        const trackItems = track.children;
+        let totalWidth = 0;
+        for (let item of trackItems) {
+            totalWidth += item.offsetWidth;
+        }
+        return totalWidth;
+    };
+
+    // Function to handle continuous scrolling
+    function animate() {
+        if (isAnimating && !isDragging) {
+            currentTranslate -= scrollSpeed;
+            
+            // Reset position when reaching the end
+            const trackWidth = calculateTrackWidth();
+            if (Math.abs(currentTranslate) >= trackWidth / 2) {
+                currentTranslate = 0;
+            }
+            
+            previousTranslate = currentTranslate;
+            setSliderPosition();
+        }
+        
+        // Only request new frame if animation is still running
+        if (isAnimating && !isDragging) {
+            animationID = requestAnimationFrame(animate);
+        }
+    }
 
     function touchStart(event) {
-        track.style.animation = 'none';
+        if (event.type === 'touchstart') {
+            event.preventDefault();
+        }
+        
+        isAnimating = false;
         startPosition = getPositionX(event);
         isDragging = true;
         showcase.classList.add('grabbing');
         
-        // Stop any existing animation
-        cancelAnimationFrame(animationID);
+        // Cancel any existing animation
+        if (animationID !== null) {
+            cancelAnimationFrame(animationID);
+            animationID = null;
+        }
     }
 
     function touchMove(event) {
         if (!isDragging) return;
+        
         event.preventDefault();
         const currentPosition = getPositionX(event);
         const diff = currentPosition - startPosition;
@@ -37,21 +73,19 @@ document.addEventListener('DOMContentLoaded', function() {
     function touchEnd() {
         isDragging = false;
         showcase.classList.remove('grabbing');
-        
-        // Save the final position
         previousTranslate = currentTranslate;
         
-        // Optional: Add momentum scrolling here
-        // For demonstration, we'll just resume the animation
-        setTimeout(() => {
-            if (!showcase.matches(':hover')) {
-                track.style.animation = 'scroll 30s linear infinite';
-            }
-        }, 50);
+        // Only resume animation if not hovering and not already animating
+        if (!showcase.matches(':hover') && !isAnimating) {
+            isAnimating = true;
+            animationID = requestAnimationFrame(animate);
+        }
     }
 
     function getPositionX(event) {
-        return event.type.includes('mouse') ? event.pageX : event.touches[0].clientX;
+        return event.type.includes('mouse') 
+            ? event.pageX 
+            : event.touches[0].clientX;
     }
 
     function setSliderPosition() {
@@ -65,23 +99,31 @@ document.addEventListener('DOMContentLoaded', function() {
     showcase.addEventListener('mouseleave', touchEnd);
 
     // Touch events
-    showcase.addEventListener('touchstart', touchStart);
-    showcase.addEventListener('touchmove', touchMove);
+    showcase.addEventListener('touchstart', touchStart, { passive: false });
+    showcase.addEventListener('touchmove', touchMove, { passive: false });
     showcase.addEventListener('touchend', touchEnd);
     showcase.addEventListener('touchcancel', touchEnd);
 
-    // Prevent context menu on right click
+    // Prevent context menu
     showcase.addEventListener('contextmenu', e => e.preventDefault());
 
     // Stop animation on hover
     showcase.addEventListener('mouseenter', () => {
-        track.style.animation = 'none';
+        isAnimating = false;
+        if (animationID !== null) {
+            cancelAnimationFrame(animationID);
+            animationID = null;
+        }
     });
 
     // Resume animation when not dragging
     showcase.addEventListener('mouseleave', () => {
-        if (!isDragging) {
-            track.style.animation = 'scroll 30s linear infinite';
+        if (!isDragging && !isAnimating) {
+            isAnimating = true;
+            animationID = requestAnimationFrame(animate);
         }
     });
+
+    // Start initial animation
+    animationID = requestAnimationFrame(animate);
 });
