@@ -17,10 +17,11 @@
                 <h2>SkySeekr</h2>
             </div>
             <div class="nav-links">
-                <a href="#features">Features</a>
-                <a href="https://apps.apple.com/in/app/skyseekr/id6736524307">Download</a>
-                <a href="#contact">Contact</a>
-                <a href="#privacy">Privacy</a>
+                <button id="langToggle" class="lang-toggle">日本語</button>
+                <a href="#features" data-i18n="nav.features">Features</a>
+                <a href="https://apps.apple.com/in/app/skyseekr/id6736524307" data-i18n="nav.download">Download</a>
+                <a href="#contact" data-i18n="nav.contact">Contact</a>
+                <a href="#privacy" data-i18n="nav.privacy">Privacy</a>
             </div>
         </div>
     </nav>
@@ -29,16 +30,15 @@
     <section class="hero">
         <div class="container hero-content animate-fade-in">
             <h1>SkySeekr</h1>
-            <p class="hero-subtitle">AR for the adventurous soul</p>
-            <p class="hero-description">
+            <p class="hero-subtitle" data-i18n="hero.subtitle">AR for the adventurous soul</p>
+            <p class="hero-description" data-i18n="hero.description">
                 Unlock the secrets of the sky with augmented reality.
                 Discover landmarks, track celestial bodies, and explore the world around you.
             </p>
             <div class="hero-buttons">
-                <a href="https://apps.apple.com/in/app/skyseekr/id6736524307" class="btn btn-primary">Download Now</a>
-                <a href="#learn-more" class="btn btn-secondary">Learn More</a>
+                <a href="https://apps.apple.com/in/app/skyseekr/id6736524307" class="btn btn-primary" data-i18n="hero.downloadNow">Download Now</a>
+                <a href="#learn-more" class="btn btn-secondary" data-i18n="hero.learnMore">Learn More</a>
             </div>
-            <!-- Add QR Code section -->
             <div class="qr-code-container">
                 <img src="public/images/content/qr_skyseekr.png" alt="Download QR Code" class="qr-code">
             </div>
@@ -46,7 +46,6 @@
     </section>
 
     <section class="screenshot-showcase">
-        <!-- Screenshot section content remains the same -->
         <div class="screenshot-track">
             <!-- First set of images -->
             <div class="screenshot-item">
@@ -90,135 +89,171 @@
     </section>
 
     <!-- Benefits Section -->
-<section id="learn-more" class="learn-more">
-    <div class="container">
-        <h2>How SkySeekr Enhances Your Experience</h2>
-        <div class="features-grid">
-            <!-- Outdoor Enthusiasts Section -->
-            <div class="feature-card">
-                <i class="fas fa-hiking fa-2x"></i>
-                <h3>For Outdoor Enthusiasts & Hikers</h3>
-                <ul style="list-style: none; padding: 0; margin-top: 1rem;">
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Never get lost at viewpoints</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Discover hidden landmarks</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Plan routes effectively</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Share discoveries with fellow hikers</li>
-                </ul>
+    <section id="learn-more" class="learn-more">
+        <div class="container">
+            <h2 data-i18n="benefits.title">How SkySeekr Enhances Your Experience</h2>
+            <div class="features-grid">
+                <!-- Outdoor Enthusiasts Section -->
+                <div class="feature-card">
+                    <i class="fas fa-hiking fa-2x"></i>
+                    <h3 data-i18n="benefits.outdoorTitle">For Outdoor Enthusiasts & Hikers</h3>
+                    <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.outdoorList.0">Never get lost at viewpoints</span>
+                        </li>
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.outdoorList.1">Discover hidden landmarks</span>
+                        </li>
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.outdoorList.2">Plan routes effectively</span>
+                        </li>
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.outdoorList.3">Share discoveries with fellow hikers</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Astronomy Section -->
+                <div class="feature-card">
+                    <i class="fas fa-star fa-2x"></i>
+                    <h3 data-i18n="benefits.astronomyTitle">For Astronomy Enthusiasts & Students</h3>
+                    <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.astronomyList.0">Interactive astronomy learning</span>
+                        </li>
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.astronomyList.1">Real-world geography lessons</span>
+                        </li>
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.astronomyList.2">Engaging educational tool</span>
+                        </li>
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.astronomyList.3">No need for expensive equipment</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Travelers Section -->
+                <div class="feature-card">
+                    <i class="fas fa-camera fa-2x"></i>
+                    <h3 data-i18n="benefits.travelersTitle">For Travelers & Tourists</h3>
+                    <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.travelersList.0">Instant landmark identification</span>
+                        </li>
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.travelersList.1">Create memorable experiences</span>
+                        </li>
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.travelersList.2">Smart trip planning</span>
+                        </li>
+                        <li style="margin-bottom: 0.8rem;">
+                            <i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>
+                            <span data-i18n="benefits.travelersList.3">Discover local points of interest</span>
+                        </li>
+                    </ul>
+                </div>
             </div>
 
-            <!-- Astronomy Section -->
-            <div class="feature-card">
-                <i class="fas fa-star fa-2x"></i>
-                <h3>For Astronomy Enthusiasts & Students</h3>
-                <ul style="list-style: none; padding: 0; margin-top: 1rem;">
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Interactive astronomy learning</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Real-world geography lessons</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Engaging educational tool</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>No need for expensive equipment</li>
-                </ul>
-            </div>
-
-            <!-- Travelers Section -->
-            <div class="feature-card">
-                <i class="fas fa-camera fa-2x"></i>
-                <h3>For Travelers & Tourists</h3>
-                <ul style="list-style: none; padding: 0; margin-top: 1rem;">
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Instant landmark identification</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Create memorable experiences</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Smart trip planning</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check" style="color: var(--primary-color); margin-right: 8px;"></i>Discover local points of interest</li>
-                </ul>
+            <div style="text-align: center; margin-top: 3rem;">
+                <p style="max-width: 800px; margin: 0 auto; font-size: 1.1rem;" data-i18n="benefits.description">
+                    SkySeekr transforms your smartphone into a powerful tool for exploration and discovery. 
+                    Whether you're hiking through mountains, studying the night sky, or exploring a new city, 
+                    our AR technology makes every experience more informative and engaging.
+                </p>
+                <div class="hero-buttons" style="margin-top: 2rem;">
+                    <a href="https://apps.apple.com/in/app/skyseekr/id6736524307" class="btn btn-primary" data-i18n="benefits.startExploring">Start Exploring Now</a>
+                </div>
             </div>
         </div>
+    </section>
 
-        <div style="text-align: center; margin-top: 3rem;">
-            <p style="max-width: 800px; margin: 0 auto; font-size: 1.1rem;">
-                SkySeekr transforms your smartphone into a powerful tool for exploration and discovery. 
-                Whether you're hiking through mountains, studying the night sky, or exploring a new city, 
-                our AR technology makes every experience more informative and engaging.
-            </p>
-            <div class="hero-buttons" style="margin-top: 2rem;">
-                <a href="https://apps.apple.com/in/app/skyseekr/id6736524307" class="btn btn-primary">Start Exploring Now</a>
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <h2 data-i18n="features.title">Key Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <i class="fas fa-mountain fa-2x"></i>
+                    <h3 data-i18n="features.landmarkSpotter.title">Landmark Spotter</h3>
+                    <p data-i18n="features.landmarkSpotter.description">Identify mountains and landmarks in real-time using advanced AR technology</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-star fa-2x"></i>
+                    <h3 data-i18n="features.planetSpotter.title">Planet Spotter</h3>
+                    <p data-i18n="features.planetSpotter.description">Find and observe planets, the Sun, and the Moon in real-time</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-map-marked-alt fa-2x"></i>
+                    <h3 data-i18n="features.customPackages.title">Custom Packages</h3>
+                    <p data-i18n="features.customPackages.description">Create and manage your own sets of landmarks for personalized exploration</p>
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<!-- Features Section -->
-<section id="features" class="features">
-    <div class="container">
-        <h2>Key Features</h2>
-        <div class="features-grid">
-            <div class="feature-card">
-                <i class="fas fa-mountain fa-2x"></i>
-                <h3>Landmark Spotter</h3>
-                <p>Identify mountains and landmarks in real-time using advanced AR technology</p>
-            </div>
-            <div class="feature-card">
-                <i class="fas fa-star fa-2x"></i>
-                <h3>Planet Spotter</h3>
-                <p>Find and observe planets, the Sun, and the Moon in real-time</p>
-            </div>
-            <div class="feature-card">
-                <i class="fas fa-map-marked-alt fa-2x"></i>
-                <h3>Custom Packages</h3>
-                <p>Create and manage your own sets of landmarks for personalized exploration</p>
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 data-i18n="contact.title">Contact Us</h2>
+            <div class="contact-content">
+                <p data-i18n="contact.description">Have questions or feedback? We'd love to hear from you!</p>
+                <div class="contact-methods">
+                    <a href="mailto:harmonyastroapp@gmail.com" class="contact-method">
+                        <i class="fas fa-envelope fa-2x"></i>
+                        <span data-i18n="contact.emailUs">Email Us</span>
+                    </a>
+                    <a href="https://twitter.com/" class="contact-method">
+                        <i class="fab fa-twitter fa-2x"></i>
+                        <span data-i18n="contact.followUs">Follow Us</span>
+                    </a>
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<!-- Contact Section -->
-<section id="contact" class="contact">
-    <div class="container">
-        <h2>Contact Us</h2>
-        <div class="contact-content">
-            <p>Have questions or feedback? We'd love to hear from you!</p>
-            <div class="contact-methods">
-                <a href="mailto:harmonyastroapp@gmail.com" class="contact-method">
-                    <i class="fas fa-envelope fa-2x"></i>
-                    <span>Email Us</span>
-                </a>
-                <a href="https://twitter.com/" class="contact-method">
-                    <i class="fab fa-twitter fa-2x"></i>
-                    <span>Follow Us</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
 
 <!-- Privacy Policy Section -->
 <section id="privacy" class="privacy">
     <div class="container">
-        <h2>Privacy Policy</h2>
+        <h2 data-i18n="privacy.title">Privacy Policy</h2>
         <div class="privacy-content">
-            <h3>Your Privacy Matters</h3>
-            <p>At SkySeekr, we take your privacy seriously. Here's what you need to know about how we handle your data:</p>
+            <h3 data-i18n="privacy.subtitle">Your Privacy Matters</h3>
+            <p data-i18n="privacy.intro">At SkySeekr, we take your privacy seriously. Here's what you need to know about how we handle your data:</p>
+            
             <div class="privacy-details">
-                <h4>Data Collection</h4>
-                <p>We collect minimal data necessary for app functionality, including:</p>
+                <h4 data-i18n="privacy.dataCollection.title">Data Collection</h4>
+                <p data-i18n="privacy.dataCollection.description">We collect minimal data necessary for app functionality, including:</p>
                 <ul>
-                    <li>Location data (only when using the app)</li>
-                    <li>Device orientation data</li>
-                    <li>Camera access (only when using AR features)</li>
+                    <li data-i18n="privacy.dataCollection.items.0">Location data (only when using the app)</li>
+                    <li data-i18n="privacy.dataCollection.items.1">Device orientation data</li>
+                    <li data-i18n="privacy.dataCollection.items.2">Camera access (only when using AR features)</li>
                 </ul>
                 
-                <h4>Data Usage</h4>
-                <p>Your data is used solely for providing AR features and improving app functionality. We never sell your personal information to third parties.</p>
+                <h4 data-i18n="privacy.dataUsage.title">Data Usage</h4>
+                <p data-i18n="privacy.dataUsage.description">Your data is used solely for providing AR features and improving app functionality. We never sell your personal information to third parties.</p>
                 
-                <h4>Data Protection</h4>
-                <p>We implement industry-standard security measures to protect your data.</p>
+                <h4 data-i18n="privacy.dataProtection.title">Data Protection</h4>
+                <p data-i18n="privacy.dataProtection.description">We implement industry-standard security measures to protect your data.</p>
                 
-                <h4>Your Rights</h4>
-                <p>You have the right to:</p>
+                <h4 data-i18n="privacy.rights.title">Your Rights</h4>
+                <p data-i18n="privacy.rights.description">You have the right to:</p>
                 <ul>
-                    <li>Access your data</li>
-                    <li>Request data deletion</li>
-                    <li>Opt out of data collection</li>
+                    <li data-i18n="privacy.rights.items.0">Access your data</li>
+                    <li data-i18n="privacy.rights.items.1">Request data deletion</li>
+                    <li data-i18n="privacy.rights.items.2">Opt out of data collection</li>
                 </ul>
-                
-                <p>For more information about our privacy practices, please contact us at harmonyastroapp@gmail.com</p>
             </div>
         </div>
     </div>
@@ -229,17 +264,18 @@
     <div class="container">
         <div class="footer-content">
             <div class="footer-links">
-                <a href="#features">Features</a>
-                <a href="#learn-more">Learn More</a>
-                <a href="#privacy">Privacy Policy</a>
-                <a href="#contact">Contact</a>
+                <a href="#features" data-i18n="nav.features">Features</a>
+                <a href="#learn-more" data-i18n="hero.learnMore">Learn More</a>
+                <a href="#privacy" data-i18n="nav.privacy">Privacy Policy</a>
+                <a href="#contact" data-i18n="nav.contact">Contact</a>
             </div>
-            <p>&copy; 2024 SkySeekr. All rights reserved.</p>
+            <p data-i18n="footer.copyright">&copy; 2024 SkySeekr. All rights reserved.</p>
         </div>
     </div>
 </footer>
 <!-- Add this before closing body tag -->
 <script src="src/scripts/screenshot-scroll.js"></script>
+<script src="src/scripts/translations.js"></script>
 </body>
 </html>
 </body>
