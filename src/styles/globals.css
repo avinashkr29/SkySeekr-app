@@ -405,3 +405,26 @@ footer {
     }
 
 }
+
+.lang-toggle {
+    background-color: transparent;
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.lang-toggle:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+/* Ensure the language toggle button aligns well with other nav items */
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
