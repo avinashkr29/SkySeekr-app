@@ -21,17 +21,17 @@
       "expirationDate": "2025-03-15T12:00:00Z",
       "images": [
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/lunar-eclipse-phases.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/lunar-eclipse-phases.jpg",
           "type": "main",
           "altText": "Diagram showing the phases of the lunar eclipse"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/lunar-eclipse-map.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/lunar-eclipse-map.jpg",
           "type": "map",
           "altText": "World map showing eclipse visibility"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/lunar-eclipse-red-moon.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/lunar-eclipse-red-moon.jpg",
           "type": "photo",
           "altText": "Photo of the Moon during totality with reddish color"
         }
@@ -69,12 +69,12 @@
       "expirationDate": "2025-03-21T12:00:00Z",
       "images": [
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/comet-tsuchinshan-main.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/comet-tsuchinshan-main.jpg",
           "type": "main",
           "altText": "Comet Tsuchinshan-ATLAS with visible tail"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/comet-viewing-chart.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/comet-viewing-chart.jpg",
           "type": "map",
           "altText": "Star chart showing where to find the comet"
         }
@@ -107,12 +107,12 @@
       "expirationDate": "2025-03-14T12:00:00Z",
       "images": [
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/perseid-meteors.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/perseid-meteors.jpg",
           "type": "main",
           "altText": "Multiple Perseid meteors streaking across the night sky"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/perseid-radiant.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/perseid-radiant.jpg",
           "type": "map",
           "altText": "Star chart showing the Perseid radiant in Perseus"
         }
@@ -145,12 +145,12 @@
       "expirationDate": "2025-03-15T12:00:00Z",
       "images": [
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/mars-jupiter-conjunction.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/mars-jupiter-conjunction.jpg",
           "type": "main",
           "altText": "Mars and Jupiter appearing close together near horizon"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/planets-finder-chart.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/planets-finder-chart.jpg",
           "type": "map",
           "altText": "Star chart showing location of the planetary conjunction"
         }
@@ -183,12 +183,12 @@
       "expirationDate": "2025-03-15T12:00:00Z",
       "images": [
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/geminid-meteors.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/geminid-meteors.jpg",
           "type": "main",
           "altText": "Multiple Geminid meteors against a starry background"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/phaethon-orbit.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/phaethon-orbit.jpg",
           "type": "map",
           "altText": "Diagram showing the orbit of asteroid 3200 Phaethon"
         }
@@ -221,12 +221,12 @@
       "credit": "Adapted from \"Ring of Fire Solar Eclipse Comes to the Americas\" by The Editors of Sky & Telescope (October 2023)",
       "images": [
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/annular-eclipse-main.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/annular-eclipse-main.jpg",
           "type": "main",
           "altText": "Ring of fire annular solar eclipse"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/annular-eclipse-path.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/annular-eclipse-path.jpg",
           "type": "map",
           "altText": "Map showing the path of the annular eclipse"
         }
@@ -264,17 +264,17 @@
       "credit": "Adapted from \"Countdown Begins for the Great North American Solar Eclipse\" by The Editors of Sky & Telescope (April 2023) and \"It's Showtime! April's Total Solar Eclipse Is Upon Us!\" by The Editors of Sky & Telescope (March 2024)",
       "images": [
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/total-eclipse-corona.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/total-eclipse-corona.jpg",
           "type": "main",
           "altText": "Sun's corona visible during total solar eclipse"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/total-eclipse-path.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/total-eclipse-path.jpg",
           "type": "map",
           "altText": "Map showing the path of the total eclipse"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/eclipse-diamond-ring.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse-diamond-ring.jpg",
           "type": "photo",
           "altText": "Diamond ring effect at beginning of totality"
         }
@@ -312,12 +312,12 @@
       "credit": "Adapted from events data from NASA's Spot The Station program",
       "images": [
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/iss-night-sky.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/iss-night-sky.jpg",
           "type": "main",
           "altText": "International Space Station streak across the night sky"
         },
         {
-          "url": "https://github.com/avinashkr29/SkySeekr-app/blob/main/events/images/iss-path-chart.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/iss-path-chart.jpg",
           "type": "map",
           "altText": "Star chart showing ISS path across the night sky"
         }
