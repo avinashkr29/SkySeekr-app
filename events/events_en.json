@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "language": "en",
+  "lastUpdated": "2025-03-08T14:30:00Z",
+  "configuration": {
+    "refreshIntervalHours": 24,
+    "maxEventsToShow": 10,
+    "defaultCategory": "all"
+  },
+  "events": [
+    {
+      "id": "event-001",
+      "title": "Lunar Eclipse",
+      "description": "A partial lunar eclipse will be visible from North America. The Moon will enter Earth's shadow at 10:30 PM EST, creating a stunning celestial display as part of the shadow covers the lunar surface. This event is visible to the naked eye and no special equipment is needed, though binoculars will enhance the view.",
+      "shortDescription": "Partial lunar eclipse visible tonight",
+      "dateTime": "2025-03-15T22:30:00Z",
+      "endDateTime": "2025-03-16T02:15:00Z",
+      "category": "eclipse",
+      "priority": 1,
+      "expirationDate": "2025-03-16T12:00:00Z",
+      "images": [
+        {
+          "url": "https://yourusername.github.io/events/images/lunar-eclipse-main.jpg",
+          "type": "main",
+          "altText": "Diagram of lunar eclipse phases"
+        },
+        {
+          "url": "https://yourusername.github.io/events/images/lunar-eclipse-photo.jpg",
+          "type": "photo",
+          "altText": "Photo from previous lunar eclipse"
+        },
+        {
+          "url": "https://yourusername.github.io/events/images/viewing-locations.jpg",
+          "type": "map",
+          "altText": "Map of best viewing locations"
+        }
+      ],
+      "links": [
+        {
+          "text": "View eclipse details",
+          "url": "https://www.timeanddate.com/eclipse/lunar/2025",
+          "isExternal": true
+        },
+        {
+          "text": "Track with Planet Spotter",
+          "url": "planetspotter://track?body=10&event=lunar-eclipse-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "event-002",
+      "title": "Jupiter-Venus Conjunction",
+      "description": "Jupiter and Venus will appear less than 0.5° apart in the evening sky, creating a spectacular bright pair shortly after sunset. Look to the western horizon about 30 minutes after the sun sets. This rare planetary alignment will be one of the closest conjunctions of these two bright planets visible this year.",
+      "shortDescription": "Close pairing of Jupiter and Venus tonight",
+      "dateTime": "2025-03-12T19:45:00Z",
+      "endDateTime": "2025-03-12T21:30:00Z",
+      "category": "conjunction",
+      "priority": 2,
+      "expirationDate": "2025-03-13T12:00:00Z",
+      "images": [
+        {
+          "url": "https://yourusername.github.io/events/images/jupiter-venus-conjunction.jpg",
+          "type": "main",
+          "altText": "Jupiter and Venus appearing close together"
+        }
+      ],
+      "links": [
+        {
+          "text": "Learn about planetary conjunctions",
+          "url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-march-8-16/",
+          "isExternal": true
+        },
+        {
+          "text": "View with AR",
+          "url": "planetspotter://ar?bodies=2,5&event=jupiter-venus-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "event-003",
+      "title": "International Space Station Flyover",
+      "description": "The ISS will be visible passing overhead for approximately 6 minutes, reaching a maximum altitude of 57° above the horizon. The space station will appear as a bright, fast-moving star moving from west to northeast. The ISS orbits Earth at 17,500 mph at an altitude of approximately 250 miles.",
+      "shortDescription": "ISS visible tonight for 6 minutes",
+      "dateTime": "2025-03-10T20:15:00Z",
+      "endDateTime": "2025-03-10T20:21:00Z",
+      "category": "satellites",
+      "priority": 3,
+      "expirationDate": "2025-03-11T12:00:00Z",
+      "images": [
+        {
+          "url": "https://yourusername.github.io/events/images/iss-flyover.jpg",
+          "type": "main",
+          "altText": "International Space Station streak across night sky"
+        },
+        {
+          "url": "https://yourusername.github.io/events/images/iss-path-map.jpg",
+          "type": "map",
+          "altText": "Map showing ISS path across your location"
+        }
+      ],
+      "links": [
+        {
+          "text": "Live ISS tracking",
+          "url": "https://spotthestation.nasa.gov/",
+          "isExternal": true
+        },
+        {
+          "text": "Set reminder",
+          "url": "planetspotter://reminder?event=iss-flyover-mar10",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "event-004",
+      "title": "Messier Marathon Weekend",
+      "description": "This weekend offers ideal conditions for a Messier Marathon - an attempt to observe all 110 Messier objects in a single night. With the new moon and clear forecast, enthusiasts have the perfect opportunity to view galaxies, nebulae and star clusters cataloged by Charles Messier in the 18th century.",
+      "shortDescription": "Perfect weekend for Messier object hunting",
+      "dateTime": "2025-03-14T20:00:00Z",
+      "endDateTime": "2025-03-15T05:00:00Z",
+      "category": "deepsky",
+      "priority": 4,
+      "expirationDate": "2025-03-15T12:00:00Z",
+      "images": [
+        {
+          "url": "https://yourusername.github.io/events/images/messier-objects.jpg",
+          "type": "main",
+          "altText": "Collection of Messier objects"
+        }
+      ],
+      "links": [
+        {
+          "text": "Messier Marathon guide",
+          "url": "https://www.skyatnightmagazine.com/advice/skills/messier-marathon-astronomy/",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": true,
+      "isHighlighted": false
+    },
+    {
+      "id": "event-005",
+      "title": "Saturn Returns to Morning Sky",
+      "description": "After being hidden behind the Sun, Saturn is now visible again in the pre-dawn eastern sky. Early risers can spot the ringed planet low on the horizon about an hour before sunrise. This marks the beginning of Saturn's new apparition that will last throughout the rest of the year.",
+      "shortDescription": "Saturn visible in early morning",
+      "dateTime": "2025-03-09T05:30:00Z",
+      "endDateTime": "2025-03-09T06:30:00Z",
+      "category": "planets",
+      "priority": 5,
+      "expirationDate": "2025-03-20T12:00:00Z",
+      "images": [
+        {
+          "url": "https://yourusername.github.io/events/images/saturn-morning.jpg",
+          "type": "main",
+          "altText": "Saturn rising before dawn"
+        }
+      ],
+      "links": [
+        {
+          "text": "Track Saturn",
+          "url": "planetspotter://track?body=6&event=saturn-morning-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Events",
+      "icon": "star.fill"
+    },
+    {
+      "id": "eclipse",
+      "name": "Eclipses",
+      "icon": "moon.circle.fill"
+    },
+    {
+      "id": "conjunction",
+      "name": "Conjunctions",
+      "icon": "circle.dashed"
+    },
+    {
+      "id": "satellites",
+      "name": "Satellites",
+      "icon": "network"
+    },
+    {
+      "id": "meteor",
+      "name": "Meteor Showers",
+      "icon": "sparkles"
+    },
+    {
+      "id": "deepsky",
+      "name": "Deep Sky Objects",
+      "icon": "sparkle.magnifyingglass"
+    },
+    {
+      "id": "planets",
+      "name": "Planets",
+      "icon": "globe"
+    }
+  ]
+}
