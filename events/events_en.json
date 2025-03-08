@@ -34,45 +34,6 @@
           "url": "https://avinashkr29.github.io/events/images/lunar-eclipse-red-moon.jpg",
           "type": "photo",
           "altText": "Photo of the Moon during totality with reddish color"
-        },
-        {
-      "id": "event-006",
-      "title": "Annular Solar Eclipse",
-      "description": "A breathtaking \"ring of fire\" solar eclipse will grace the skies. During this annular eclipse, the Moon will cross directly in front of the Sun but, because it's at a farther point in its orbit, it will appear slightly smaller than the Sun. This creates a dazzling ring of sunlight around the Moon's dark silhouette. The science behind this spectacular event involves the Moon's elliptical orbit around Earth - sometimes it's closer (perigee) and sometimes farther (apogee). During an annular eclipse, the Moon is near apogee, so it can't quite cover the Sun's entire disk. The eclipse path will be approximately 125 miles wide, and those within this path will experience the full ring effect for up to 5 minutes. Remember that solar eclipses are dangerous to view directly - you must use proper eye protection like ISO-certified eclipse glasses throughout the entire event, as the Sun is never completely covered. Even outside the path of annularity, most of North America will experience a partial solar eclipse, where the Moon covers a portion of the Sun.",
-      "shortDescription": "Witness the spectacular 'ring of fire' around the Moon",
-      "dateTime": "2025-03-29T14:08:00Z",
-      "endDateTime": "2025-03-29T17:10:00Z",
-      "category": "eclipse",
-      "priority": 2,
-      "expirationDate": "2025-03-30T12:00:00Z",
-      "credit": "Adapted from \"Ring of Fire Solar Eclipse Comes to the Americas\" by The Editors of Sky & Telescope (October 2023)",
-      "images": [
-        {
-          "url": "https://yourusername.github.io/events/images/annular-eclipse-main.jpg",
-          "type": "main",
-          "altText": "Ring of fire annular solar eclipse"
-        },
-        {
-          "url": "https://yourusername.github.io/events/images/annular-eclipse-path.jpg",
-          "type": "map",
-          "altText": "Map showing the path of the annular eclipse"
-        }
-      ],
-      "links": [
-        {
-          "text": "Eclipse eye safety guide",
-          "url": "https://skyandtelescope.org/astronomy-resources/solar-eclipse-safety-guide",
-          "isExternal": true
-        },
-        {
-          "text": "Find local eclipse times",
-          "url": "https://www.timeanddate.com/eclipse/solar/2025",
-          "isExternal": true
-        },
-        {
-          "text": "Set viewing reminder",
-          "url": "planetspotter://reminder?event=annular-eclipse-2025",
-          "isAppLink": true
         }
       ],
       "links": [
