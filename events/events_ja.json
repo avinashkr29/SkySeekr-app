@@ -1,0 +1,389 @@
+{
+  "version": 1,
+  "language": "en",
+  "lastUpdated": "2025-03-08T14:30:00Z",
+  "configuration": {
+    "refreshIntervalHours": 24,
+    "maxEventsToShow": 10,
+    "defaultCategory": "all"
+  },
+  "events": [
+    {
+      "id": "event-001",
+      "title": "Total Lunar Eclipse",
+      "description": "A spectacular total lunar eclipse will be visible across all of North and South America. During a lunar eclipse, Earth positions itself directly between the Sun and the full Moon, casting our planet's shadow onto the lunar surface. This eclipse will last for 66 minutes of totality, where the Moon turns a captivating copper-red color. This reddish glow happens because Earth's atmosphere bends and filters sunlight, allowing only the redder wavelengths to reach the Moon - essentially projecting all Earth's sunrises and sunsets onto the lunar surface at once! The eclipse begins with the partial phase at 5:09 UT when the Moon first enters Earth's dark shadow (umbra), with totality occurring from 6:26 to 7:32 UT. This is the first total lunar eclipse visible from this region since 2022.",
+      "credit": "Adapted from \"Prepare for the March 13-14 Total Lunar Eclipse\" by The Editors of Sky & Telescope (March 2025)",
+      "shortDescription": "Watch the Moon turn red during this total lunar eclipse",
+      "dateTime": "2025-03-14T05:09:00Z",
+      "endDateTime": "2025-03-14T09:30:00Z",
+      "category": "eclipse",
+      "priority": 1,
+      "expirationDate": "2025-03-15T12:00:00Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/lunar-eclipse-phases.jpg",
+          "type": "main",
+          "altText": "Diagram showing the phases of the lunar eclipse"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/lunar-eclipse-map.jpg",
+          "type": "map",
+          "altText": "World map showing eclipse visibility"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/lunar-eclipse-red-moon.jpg",
+          "type": "photo",
+          "altText": "Photo of the Moon during totality with reddish color"
+        }
+      ],
+      "links": [
+        {
+          "text": "View eclipse details and timing",
+          "url": "https://www.timeanddate.com/eclipse/lunar/2025",
+          "isExternal": true
+        },
+        {
+          "text": "Learn about the Danjon scale",
+          "url": "https://skyandtelescope.org/astronomy-resources/danjon-scale-lunar-eclipse-brightness/",
+          "isExternal": true
+        },
+        {
+          "text": "Track with PlanetSpotter",
+          "url": "planetspotter://track?body=10&event=lunar-eclipse-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "event-002",
+      "title": "Comet Tsuchinshan-ATLAS Appears",
+      "description": "Comet Tsuchinshan-ATLAS will be visible in evening skies, offering a rare chance to view a bright comet with the naked eye. This ancient visitor has been traveling toward our Sun for tens of thousands of years from the distant Oort Cloud, a region of icy objects at the edge of our solar system. As the comet approaches the Sun, its ices (water, carbon dioxide, and other compounds) vaporize, creating the glowing head (coma) and characteristic tail that can stretch millions of miles. Look for it low in the western sky about 40 minutes after sunset. The comet will appear higher and more visible each subsequent night, reaching peak visibility around March 15-18. Venus will serve as a convenient reference point - the comet will be about 2½ fist-widths (held at arm's length) to Venus's right. You'll see it as a fuzzy star with a tail pointing upward from the horizon. Binoculars will enhance the view considerably.",
+      "credit": "Adapted from \"Bright Comet Tsuchinshan-ATLAS Climbs into Evening View\" by The Editors of Sky & Telescope (October 2024)",
+      "shortDescription": "Bright naked-eye comet visible in evening sky",
+      "dateTime": "2025-03-11T19:30:00Z",
+      "endDateTime": "2025-03-20T21:30:00Z",
+      "category": "comets",
+      "priority": 2,
+      "expirationDate": "2025-03-21T12:00:00Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/comet-tsuchinshan-main.jpg",
+          "type": "main",
+          "altText": "Comet Tsuchinshan-ATLAS with visible tail"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/comet-viewing-chart.jpg",
+          "type": "map",
+          "altText": "Star chart showing where to find the comet"
+        }
+      ],
+      "links": [
+        {
+          "text": "Comet viewing guide",
+          "url": "https://skyandtelescope.org/observing/comet-tsuchinshan-atlas-guide",
+          "isExternal": true
+        },
+        {
+          "text": "Set viewing reminder",
+          "url": "planetspotter://reminder?event=comet-tsuchinshan-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "event-003",
+      "title": "Perseid Meteor Shower",
+      "description": "The Perseid meteor shower, one of the year's most spectacular celestial events, will peak around March 12th. These shooting stars are actually tiny particles of dust and rock (most no larger than a grain of sand) shed by Comet Swift-Tuttle as it orbits the Sun. When Earth passes through this stream of debris each year, the particles enter our atmosphere at an incredible speed of 37 miles per second (133,200 mph)! As they burn up from friction with air molecules 50-80 miles above the ground, they create the bright streaks we see as meteors. Under dark skies, you may spot one meteor per minute during the peak. The shower's radiant (the point from which meteors appear to originate) is in the constellation Perseus, which rises in the northeast after sunset and climbs higher as the night progresses. The best viewing will be after midnight when the first-quarter Moon sets, leaving dark skies perfect for meteor watching. Find a comfortable spot away from lights, lie back, and allow 20 minutes for your eyes to adapt to darkness.",
+      "credit": "Adapted from \"Prepare for the Perseids and a Pretty Planetary Pairing\" by The Editors of Sky & Telescope (August 2024) and \"A Banner Year for the Perseid Meteor Shower\" by The Editors of Sky & Telescope (August 2023)",
+      "shortDescription": "Watch up to 60 meteors per hour during this annual sky show",
+      "dateTime": "2025-03-12T19:00:00Z",
+      "endDateTime": "2025-03-13T10:00:00Z",
+      "category": "meteor",
+      "priority": 3,
+      "expirationDate": "2025-03-14T12:00:00Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/perseid-meteors.jpg",
+          "type": "main",
+          "altText": "Multiple Perseid meteors streaking across the night sky"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/perseid-radiant.jpg",
+          "type": "map",
+          "altText": "Star chart showing the Perseid radiant in Perseus"
+        }
+      ],
+      "links": [
+        {
+          "text": "Meteor shower viewing tips",
+          "url": "https://skyandtelescope.org/astronomy-resources/meteor-shower-viewing-guide",
+          "isExternal": true
+        },
+        {
+          "text": "Find dark sky locations",
+          "url": "planetspotter://darkskies?event=perseids-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "event-004",
+      "title": "Mars-Jupiter Close Conjunction",
+      "description": "Mars and Jupiter will appear extremely close together in the morning sky, separated by less than half a degree (less than the width of your little finger held at arm's length). This cosmic meetup, called a conjunction, happens because the planets align from our Earth-based perspective as they follow their different orbits around the Sun. While they appear to nearly touch in our sky, the planets remain physically separated by hundreds of millions of miles in space! Look for this striking pair in the east-northeast before sunrise. Jupiter will shine as a brilliant white point of light, while Mars will appear as a distinctly reddish \"star\" nearby. The ruddy color of Mars comes from iron oxide (rust) that covers much of its surface. The Pleiades star cluster will be visible nearby, and the orange star Aldebaran will add to the colorful scene. Binoculars will enhance the view and might reveal Jupiter's four largest moons. This conjunction offers a great opportunity to identify these two prominent planets if you're new to stargazing.",
+      "credit": "Adapted from \"Prepare for the Perseids and a Pretty Planetary Pairing\" by The Editors of Sky & Telescope (August 2024)",
+      "shortDescription": "Mars and Jupiter appear extremely close in morning sky",
+      "dateTime": "2025-03-14T05:00:00Z",
+      "endDateTime": "2025-03-14T06:30:00Z",
+      "category": "conjunction",
+      "priority": 4,
+      "expirationDate": "2025-03-15T12:00:00Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/mars-jupiter-conjunction.jpg",
+          "type": "main",
+          "altText": "Mars and Jupiter appearing close together near horizon"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/planets-finder-chart.jpg",
+          "type": "map",
+          "altText": "Star chart showing location of the planetary conjunction"
+        }
+      ],
+      "links": [
+        {
+          "text": "Learn about planetary conjunctions",
+          "url": "https://skyandtelescope.org/astronomy-resources/planetary-conjunctions-explained",
+          "isExternal": true
+        },
+        {
+          "text": "View with enhanced AR",
+          "url": "planetspotter://ar?bodies=4,5&event=mars-jupiter-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "event-005",
+      "title": "Geminid Meteor Shower",
+      "description": "The Geminid meteor shower, often considered the most reliable and spectacular meteor display of the year, will peak tonight. Unlike most meteor showers that originate from comets, the Geminids come from an unusual asteroid called 3200 Phaethon, sometimes described as a \"rock comet.\" This 3-mile-wide object has an orbit that brings it extremely close to the Sun every 1.4 years, causing its surface to heat to about 1300°F (700°C). This extreme heating causes the asteroid to shed rocky material that spreads along its orbit. When Earth crosses this debris stream each year, the particles hit our atmosphere at 22 miles per second (79,000 mph), creating bright meteors. The shower's radiant lies near the bright star Castor in the constellation Gemini. With clear, dark skies, you might see a meteor every minute or two from late evening until dawn. This year's shower coincides with a new Moon, providing ideal dark sky conditions. For best viewing, find a dark location away from lights, give your eyes at least 20 minutes to adapt to darkness, and look straight up to see the greatest number of meteors.",
+      "credit": "Adapted from \"A Great Year for the Geminids\" by The Editors of Sky & Telescope (December 2023)",
+      "shortDescription": "Watch one of the year's best meteor showers under dark skies",
+      "dateTime": "2025-03-13T21:00:00Z",
+      "endDateTime": "2025-03-14T12:00:00Z",
+      "category": "meteor",
+      "priority": 5,
+      "expirationDate": "2025-03-15T12:00:00Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/geminid-meteors.jpg",
+          "type": "main",
+          "altText": "Multiple Geminid meteors against a starry background"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/phaethon-orbit.jpg",
+          "type": "map",
+          "altText": "Diagram showing the orbit of asteroid 3200 Phaethon"
+        }
+      ],
+      "links": [
+        {
+          "text": "Geminid meteor shower guide",
+          "url": "https://skyandtelescope.org/observing/geminid-meteor-shower-guide",
+          "isExternal": true
+        },
+        {
+          "text": "Set viewing reminder",
+          "url": "planetspotter://reminder?event=geminids-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "event-006",
+      "title": "Annular Solar Eclipse",
+      "description": "A breathtaking \"ring of fire\" solar eclipse will grace the skies. During this annular eclipse, the Moon will cross directly in front of the Sun but, because it's at a farther point in its orbit, it will appear slightly smaller than the Sun. This creates a dazzling ring of sunlight around the Moon's dark silhouette. The science behind this spectacular event involves the Moon's elliptical orbit around Earth - sometimes it's closer (perigee) and sometimes farther (apogee). During an annular eclipse, the Moon is near apogee, so it can't quite cover the Sun's entire disk. The eclipse path will be approximately 125 miles wide, and those within this path will experience the full ring effect for up to 5 minutes. Remember that solar eclipses are dangerous to view directly - you must use proper eye protection like ISO-certified eclipse glasses throughout the entire event, as the Sun is never completely covered. Even outside the path of annularity, most of North America will experience a partial solar eclipse, where the Moon covers a portion of the Sun.",
+      "shortDescription": "Witness the spectacular 'ring of fire' around the Moon",
+      "dateTime": "2025-03-29T14:08:00Z",
+      "endDateTime": "2025-03-29T17:10:00Z",
+      "category": "eclipse",
+      "priority": 2,
+      "expirationDate": "2025-03-30T12:00:00Z",
+      "credit": "Adapted from \"Ring of Fire Solar Eclipse Comes to the Americas\" by The Editors of Sky & Telescope (October 2023)",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/annular-eclipse-main.jpg",
+          "type": "main",
+          "altText": "Ring of fire annular solar eclipse"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/annular-eclipse-path.jpg",
+          "type": "map",
+          "altText": "Map showing the path of the annular eclipse"
+        }
+      ],
+      "links": [
+        {
+          "text": "Eclipse eye safety guide",
+          "url": "https://skyandtelescope.org/astronomy-resources/solar-eclipse-safety-guide",
+          "isExternal": true
+        },
+        {
+          "text": "Find local eclipse times",
+          "url": "https://www.timeanddate.com/eclipse/solar/2025",
+          "isExternal": true
+        },
+        {
+          "text": "Set viewing reminder",
+          "url": "planetspotter://reminder?event=annular-eclipse-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "event-007",
+      "title": "Total Solar Eclipse",
+      "description": "Experience day turning into night during this magnificent total solar eclipse! This awe-inspiring event happens when the Moon passes directly between Earth and the Sun, completely blocking the Sun's bright face for several minutes. Unlike an annular eclipse, during totality the Moon is close enough to Earth in its orbit to completely cover the Sun, revealing the Sun's ethereal outer atmosphere – the corona – which is normally invisible due to the Sun's overwhelming brightness. The corona appears as a shimmering, pearly white crown with delicate structures shaped by the Sun's magnetic field. During totality, the temperature drops noticeably, stars and planets become visible in the darkened sky, and nature responds as if night has suddenly fallen – birds may stop singing and nocturnal animals might become active. Viewers might also see ruby-red prominences – massive eruptions of glowing hydrogen gas – around the Moon's silhouette. IMPORTANT SAFETY NOTE: It's only safe to look directly at the Sun during the brief minutes of totality. At all other times, including partial phases, proper eye protection is absolutely essential. This eclipse will be visible along a path about 115 miles wide, while areas outside this path will experience a partial solar eclipse.",
+      "shortDescription": "Witness the Sun's corona during this breathtaking total eclipse",
+      "dateTime": "2025-03-20T14:15:00Z",
+      "endDateTime": "2025-03-20T17:30:00Z",
+      "category": "eclipse",
+      "priority": 1,
+      "expirationDate": "2025-03-21T12:00:00Z",
+      "credit": "Adapted from \"Countdown Begins for the Great North American Solar Eclipse\" by The Editors of Sky & Telescope (April 2023) and \"It's Showtime! April's Total Solar Eclipse Is Upon Us!\" by The Editors of Sky & Telescope (March 2024)",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/total-eclipse-corona.jpg",
+          "type": "main",
+          "altText": "Sun's corona visible during total solar eclipse"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/total-eclipse-path.jpg",
+          "type": "map",
+          "altText": "Map showing the path of the total eclipse"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse-diamond-ring.jpg",
+          "type": "photo",
+          "altText": "Diamond ring effect at beginning of totality"
+        }
+      ],
+      "links": [
+        {
+          "text": "Eclipse eye safety information",
+          "url": "https://eclipse.aas.org/eye-safety",
+          "isExternal": true
+        },
+        {
+          "text": "Find local eclipse times",
+          "url": "https://www.timeanddate.com/eclipse/solar/2025-total",
+          "isExternal": true
+        },
+        {
+          "text": "View with eclipse AR",
+          "url": "planetspotter://ar?event=total-eclipse-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "event-008",
+      "title": "International Space Station Flyover",
+      "description": "The International Space Station (ISS) will make a bright, visible pass over your location. Orbiting approximately 250 miles (400 km) above Earth at a speed of 17,500 mph (28,000 km/h), the ISS appears as a brilliant, non-twinkling point of light that moves steadily across the sky. The space station is the largest human-made object in space, with its solar arrays spanning over 240 feet (73 meters), making it bigger than a football field. It reflects sunlight, which is why we can see it from Earth even at night. During this flyover, the ISS will reach a maximum altitude of 57° above the horizon and will be visible for approximately 6 minutes as it travels from west to northeast. The brightness of the ISS varies depending on its position relative to the observer and the Sun, but it often outshines any star in the night sky! The station serves as a space environment research laboratory where crews conduct experiments in biology, physics, astronomy, and other fields. This multinational project involves five space agencies: NASA (USA), Roscosmos (Russia), JAXA (Japan), ESA (Europe), and CSA (Canada), with astronauts typically staying aboard for six-month missions.",
+      "shortDescription": "Watch the bright space station cross the night sky",
+      "dateTime": "2025-03-16T20:15:00Z",
+      "endDateTime": "2025-03-16T20:21:00Z",
+      "category": "satellites",
+      "priority": 3,
+      "expirationDate": "2025-03-17T12:00:00Z",
+      "credit": "Adapted from events data from NASA's Spot The Station program",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/iss-night-sky.jpg",
+          "type": "main",
+          "altText": "International Space Station streak across the night sky"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/iss-path-chart.jpg",
+          "type": "map",
+          "altText": "Star chart showing ISS path across the night sky"
+        }
+      ],
+      "links": [
+        {
+          "text": "Live ISS tracking",
+          "url": "https://spotthestation.nasa.gov/",
+          "isExternal": true
+        },
+        {
+          "text": "Learn about life on the ISS",
+          "url": "https://www.nasa.gov/mission_pages/station/main/",
+          "isExternal": true
+        },
+        {
+          "text": "Set viewing reminder",
+          "url": "planetspotter://reminder?event=iss-flyover-mar16",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Events",
+      "icon": "star.fill"
+    },
+    {
+      "id": "eclipse",
+      "name": "Eclipses",
+      "icon": "moon.circle.fill"
+    },
+    {
+      "id": "conjunction",
+      "name": "Conjunctions",
+      "icon": "circle.dashed"
+    },
+    {
+      "id": "meteor",
+      "name": "Meteor Showers",
+      "icon": "sparkles"
+    },
+    {
+      "id": "comets",
+      "name": "Comets",
+      "icon": "star.leadinghalf.filled"
+    },
+    {
+      "id": "deepsky",
+      "name": "Deep Sky Objects",
+      "icon": "sparkle.magnifyingglass"
+    },
+    {
+      "id": "planets",
+      "name": "Planets",
+      "icon": "globe"
+    },
+    {
+      "id": "satellites",
+      "name": "Satellites",
+      "icon": "network"
+    }
+  ],
+  "acknowledgement": "Event descriptions adapted from materials published by Sky & Telescope magazine (www.skyandtelescope.org) and the American Astronomical Society (www.aas.org). These adaptations are used for educational purposes with proper attribution to the original sources. Images and specific timing information should be verified with local astronomical resources."
+}
