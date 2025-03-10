@@ -17,7 +17,7 @@
       "dateTime": "2025-03-14T05:09:00Z",
       "endDateTime": "2025-03-14T09:30:00Z",
       "category": "eclipse",
-      "priority": 1,
+      "priority": 3,
       "expirationDate": "2025-03-15T12:00:00Z",
       "images": [
         {
@@ -65,7 +65,7 @@
       "dateTime": "2025-03-11T19:30:00Z",
       "endDateTime": "2025-03-20T21:30:00Z",
       "category": "comets",
-      "priority": 2,
+      "priority": 1,
       "expirationDate": "2025-03-21T12:00:00Z",
       "images": [
         {
@@ -103,7 +103,7 @@
       "dateTime": "2025-03-12T19:00:00Z",
       "endDateTime": "2025-03-13T10:00:00Z",
       "category": "meteor",
-      "priority": 3,
+      "priority": 2,
       "expirationDate": "2025-03-14T12:00:00Z",
       "images": [
         {
@@ -216,7 +216,7 @@
       "dateTime": "2025-03-29T14:08:00Z",
       "endDateTime": "2025-03-29T17:10:00Z",
       "category": "eclipse",
-      "priority": 2,
+      "priority": 8,
       "expirationDate": "2025-03-30T12:00:00Z",
       "credit": "Adapted from \"Ring of Fire Solar Eclipse Comes to the Americas\" by The Editors of Sky & Telescope (October 2023)",
       "images": [
@@ -259,7 +259,7 @@
       "dateTime": "2025-03-20T14:15:00Z",
       "endDateTime": "2025-03-20T17:30:00Z",
       "category": "eclipse",
-      "priority": 1,
+      "priority": 7,
       "expirationDate": "2025-03-21T12:00:00Z",
       "credit": "Adapted from \"Countdown Begins for the Great North American Solar Eclipse\" by The Editors of Sky & Telescope (April 2023) and \"It's Showtime! April's Total Solar Eclipse Is Upon Us!\" by The Editors of Sky & Telescope (March 2024)",
       "images": [
@@ -307,7 +307,7 @@
       "dateTime": "2025-03-16T20:15:00Z",
       "endDateTime": "2025-03-16T20:21:00Z",
       "category": "satellites",
-      "priority": 3,
+      "priority": 6,
       "expirationDate": "2025-03-17T12:00:00Z",
       "credit": "Adapted from events data from NASA's Spot The Station program",
       "images": [
