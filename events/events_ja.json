@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "language": "ja",
+  "lastUpdated": "2025-03-14T12:00:00Z",
+  "configuration": {
+    "refreshIntervalHours": 24,
+    "maxEventsToShow": 10,
+    "defaultCategory": "all"
+  },
+  "events": [
+    {
+      "id": "article-001",
+      "title": "今週の空の見どころ、3月7日～16日",
+      "description": "3月7日（金）\n\n今晩、上弦（半月の形）を過ぎた月が、火星と双子星のカストルとポルックスの近くに輝いています。夜が進むにつれて、地球の自転に伴い、それらすべてが空を時計回りに回転しているように見えます。\n\n3月8日（土）\n\n今夜、月は火星と双子星に近づきます。時間が経つにつれて、月が背景の星々と比較してどのように位置を変えるか観察してみましょう。月は軌道上を東に向かって約1時間に自身の幅だけ移動します。\n\n夏時間は3月9日日曜日の午前2時に始まります。時計を1時間進めることを忘れないでください（「春を先取り」）。\n\n3月9日（日）\n\n春はまだ数週間先ですが、明るい春の星アークトゥルスはすでに午後9時頃に東北東に昇っています。見つけるには、北東の高い位置にある北斗七星を探し、その柄の曲線を下方と右側に沿ってたどります。\n\n3月10日（月）\n\n星座ジェミニ［双子座］の火星、ポルックス、カストルは、日没後、中緯度北部［北米北部や中央ヨーロッパのような地域］に住んでいる場合、ほぼ真上を通過します。火星は三つの中で最も明るく、赤みがかった色をしています。\n\n3月11日（火）\n\n今夜、月は明るい星レグルスの近くに見えます。一晩中、それらが近づいていくのを観察してください。早朝までには、わずか1°（腕を伸ばして小指の幅ほど）離れた位置になります。\n\nアルゴルという星は東部夏時間の午後11時37分頃に最も暗くなります。アルゴルは、地球から見ると互いに食を起こす二つの星が実際にあるため、定期的に明るさが変わる特別な星です。\n\n3月12日（水）\n\n明るいシリウス（夜空で最も明るい星）は、暗くなるとちょうど南に位置しています。シリウスは冬の大三角形の底点を形成しています。三角形の他の二つの星は、オレンジ色のベテルギウス（シリウスの右上）とプロキオン（シリウスの左上）です。\n\n3月13日（木）\n\n今夜、北米と南米、西ヨーロッパ、西アフリカから見える皆既月食があります。\n\n北米の人々にとって、この食は夜遅くに起こります。部分食（地球の影が月を覆い始める時）は東部夏時間の金曜日午前1時09分に始まります。皆既食（月が完全に地球の影に入る時）は東部夏時間の午前2時26分に始まり、午前2時59分に中央に達し、午前3時32分に終わります。部分食は東部夏時間の午前4時48分に終了します。\n\n3月14日（金）\n\n満月は今日、薄明の時間に昇ります。暗くなった後、それが高く昇るにつれて、その下に明るい星スピカが現れるのを探してください。\n\nアルゴルは今夜も東部夏時間の午後8時26分頃に最も暗くなります。\n\n3月15日（土）\n\n今夜、月（今は欠け始めています）は薄明の終わり頃に昇り、腕を伸ばした時に拳一つ分以下の距離に星スピカがあります。\n\n3月16日（日）\n\n月は引き続き欠けていき、今は完全な暗闇の約1時間後に昇り、スピカがそれに続いて空に昇っていきます。\n提供元：スカイ＆テレスコープ",
+      "credit": "アラン・マクロバート著（2025年3月7日）",
+      "shortDescription": "3月7日から16日までの星と惑星観察の週間ガイド",
+      "dateTime": "2025-03-07T00:00:00Z",
+      "endDateTime": "2025-03-16T23:59:59Z",
+      "category": "guide",
+      "priority": 1,
+      "expirationDate": "2025-03-17T12:00:00Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_1.jpg",
+          "type": "main",
+          "altText": "第1週の空"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_2.jpg",
+          "type": "map",
+          "altText": "第2週の空"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_3.jpg",
+          "type": "photo",
+          "altText": "第3週の空"
+        }
+      ],
+      "links": [
+        {
+          "text": "記事全文を見る",
+          "url": "https://skyandtelescope.org/observing/this-weeks-sky-at-a-glance-march-7-16-2025",
+          "isExternal": true
+        },
+        {
+          "text": "観察リマインダーを設定",
+          "url": "planetspotter://calendar?week=mar7-16-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "article-002",
+      "title": "金星が宵の明星から明けの明星に変わる",
+      "description": "金星はまもなく私たちの夕方の視界から消えようとしています。最近この明るい惑星を見ていないなら、時間がなくなってきています！3月12日には、金星は太陽からわずか18°の距離（これを離角と呼びます）にあり、毎日1°以上のペースで太陽に近づいています。金星が移動するにつれ、水星に近づいて見えるでしょう。これら二つの内惑星は3月12日に最も接近し（5.5°離れた状態）ます。\n\n3月23日、金星は地球と太陽の間を通過し（これを内合と呼びます）、その後朝の空に移動して「宵の明星」ではなく「明けの明星」になります。古代ローマ人は朝に見える金星を「ルシファー」、夕方に見える金星を「ベスパー」と呼んでいました。\n\n通常、金星は合の周辺で約1週間、太陽の輝きに隠れています。この間、注意深い観察者は、太陽を直接見ないように十分注意しながら、望遠鏡を使って日中に金星を見つけようとするかもしれません。金星が地球に最も近づくと、望遠鏡では最も大きく見え、非常に薄い三日月の形を示します。\n\n合の周辺、つまり金星が太陽とほぼ同じ方向に見えるとき、金星の大気を通して太陽光が曲がるため、金星の三日月の先端（または尖端）は180°を超えて広がることがあります。金星が2.5％未満の照明の時（3月16日から29日まで）にこれらの拡張を探してください。金星は3月22日から23日にはわずか1.0％の照明になります。\n\n金星は3月18日に太陽の通り道（黄道）の最も北側の点に到達し、8.5°北に位置しています。これが合の直前に起こるため、金星は太陽の北をかなり離れて通過し、日中に見つけやすく（そして安全に）なります。\n\n視力がとても鋭ければ、望遠鏡なしでも金星の三日月の形を見ることができるかもしれません。人間の目は60秒角（または1分角）程度の小さな詳細を区別できます。金星は3月22日から23日にほぼその大きさ（59.5秒角）に達します。\n\n金星が太陽の通り道からかなり北にあるため、中緯度北部の観測者は、技術的にはまだ宵の明星であるのに朝の空で金星を見るという珍しい機会があります。3月18日頃に金星の夕方の最後の出現を探してください。そして3月21日には、日の出前に金星を探し始めることができますが、地平線のすぐ上（「泥の中」）に低く見えるでしょう。\n提供元：スカイ＆テレスコープ",
+      "credit": "ボブ・キング著（2025年3月12日）",
+      "shortDescription": "金星が夕方の空から朝方の空へ移行する様子を観察する方法",
+      "dateTime": "2025-03-12T00:00:00Z",
+      "endDateTime": "2025-03-23T23:59:59Z",
+      "category": "planets",
+      "priority": 2,
+      "expirationDate": "2025-03-24T12:00:00Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_1.jpg",
+          "type": "main",
+          "altText": "地球から見た金星"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_2.jpg",
+          "type": "photo",
+          "altText": "年間の金星の経路"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_3.jpg",
+          "type": "map",
+          "altText": "宇宙の中の金星"
+        }
+      ],
+      "links": [
+        {
+          "text": "記事全文を見る",
+          "url": "https://skyandtelescope.org/observing/venus-evening-to-morning-star-2025",
+          "isExternal": true
+        },
+        {
+          "text": "観察リマインダーを設定",
+          "url": "planetspotter://reminder?event=venus-conjunction-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "article-003",
+      "title": "今夜（3月13日～14日）の皆既月食を観察しよう",
+      "description": "素晴らしい皆既月食が今夜、北米と南米、西ヨーロッパ、西アフリカ全域で見られます。\n\n北米の人々にとって、この食は夜遅くに起こります。部分食（地球の影が最初に月に触れる時）は東部夏時間の金曜日午前1時09分に始まります。皆既食（月が完全に地球の影の中に入る時）は東部夏時間の午前2時26分に始まり、午前2時59分に中央に達し、午前3時32分に終わります。部分食は東部夏時間の午前4時48分に完全に終了します。\n\n月食の間、地球は太陽と満月の間に直接位置し、私たちの惑星の影を月に投げかけます。月は皆既中（完全に地球の影の中にある時間）に銅赤色に変わり、これは約66分間続きます。この赤い色は、地球の大気が太陽光を曲げ、赤以外のほとんどの色をフィルタリングし、赤い光が月に届くために起こります - これはちょうど地球のすべての日の出と日没が一度に月に投影されているようなものです！\n\n月はその軌道上で地球からの最も遠い点（アポジーと呼ばれる）の近くにあるため、平均的な満月よりもわずかに小さく見えます（時に「ミニムーン」と呼ばれます）。\n\nこれは2022年以来、この地域から見える最初の皆既月食です。月食を観察するのに特別な機器は必要ありませんが、双眼鏡や小型望遠鏡があれば、食の間に月の表面のより多くの詳細を見ることができます。\n\n日食とは異なり、月食は肉眼で見ても完全に安全です。月食を見るのに特別な目の保護は必要ありません。\n提供元：スカイ＆テレスコープ",
+      "credit": "スカイ＆テレスコープ編集部（2025年3月13日）",
+      "shortDescription": "今夜の皆既月食の観察方法",
+      "dateTime": "2025-03-13T21:00:00Z",
+      "endDateTime": "2025-03-14T09:30:00Z",
+      "category": "eclipse",
+      "priority": 3,
+      "expirationDate": "2025-03-15T12:00:00Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_1.jpg",
+          "type": "main",
+          "altText": "皆既月食の連続画像"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_2.jpg",
+          "type": "map",
+          "altText": "食の視認性を示す世界地図"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_3.jpg",
+          "type": "photo",
+          "altText": "月面上の地球の影"
+        }
+      ],
+      "links": [
+        {
+          "text": "記事全文を見る",
+          "url": "https://skyandtelescope.org/observing/total-lunar-eclipse-march-2025",
+          "isExternal": true
+        },
+        {
+          "text": "観察リマインダーを設定",
+          "url": "planetspotter://reminder?event=lunar-eclipse-2025",
+          "isAppLink": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "すべての記事",
+      "icon": "star.fill"
+    },
+    {
+      "id": "guide",
+      "name": "空のガイド",
+      "icon": "calendar"
+    },
+    {
+      "id": "planets",
+      "name": "惑星",
+      "icon": "globe"
+    },
+    {
+      "id": "eclipse",
+      "name": "食",
+      "icon": "moon.circle.fill"
+    }
+  ],
+  "acknowledgement": "記事の説明はスカイ＆テレスコープ誌（www.skyandtelescope.org）が発行した資料から翻案されています。これらの翻案は教育目的で使用され、元のソースに適切に帰属しています。画像や具体的なタイミング情報は、地元の天文学リソースで確認する必要があります。"
+}
