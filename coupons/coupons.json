@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-03-12T12:00:00Z",
+  "coupons": [
+    {
+      "code": "WELCOME05",
+      "type": "percent_discount",
+      "discountPercent": 5,
+      "description": "Spring special: 5% off subscriptions",
+      "expirationDate": "2025-06-21T23:59:59Z",
+      "maxRedemptions": 100,
+      "isActive": true
+    }
+  ]
+}
