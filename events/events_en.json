@@ -136,6 +136,54 @@
       ],
       "requiresPremium": false,
       "isHighlighted": true
+    },
+    {
+      "id": "article-004",
+      "title": "Celebrate the Vernal Equinox - The Astronomical Start of Spring",
+      "description": "The vernal equinox (spring equinox) happens on March 20, 2025, at 10:33 a.m. EDT (14:33 UTC). This special day marks the astronomical beginning of spring in the Northern Hemisphere and fall in the Southern Hemisphere.\n\nWhat exactly is an equinox? During the equinox, the Sun passes directly above Earth's equator, bringing nearly equal amounts of day and night to all parts of our planet - about 12 hours each! The word \"equinox\" actually comes from Latin words meaning \"equal night.\"\n\nUnlike meteorological seasons that follow the calendar (where spring starts on March 1), astronomical seasons are based on Earth's position in its orbit and the tilt of its axis. Our planet's 23.5° tilt is what gives us our seasons. During the March equinox, neither hemisphere is tilted toward or away from the Sun.\n\nIf you're in the Northern Hemisphere, the March equinox brings earlier sunrises, later sunsets, softer winds, and budding plants. You'll notice the Sun rising a bit farther north on the horizon each day until the June solstice, when it reverses direction and starts moving south again.\n\nThe equinox is celebrated in many cultures around the world:\n\n- In Japan, the spring equinox (Shunbun no Hi) is a national holiday and part of a seven-day festival called Higan, when people visit family graves and honor their ancestors.\n\n- In Iran and many Central Asian countries, the equinox marks Nowruz (Persian New Year), a celebration that goes back over 3,000 years with feasts, family visits, and spring cleaning.\n\n- Many ancient monuments align with the equinoxes, including the famous pyramid at Chichen Itza in Mexico, where the setting sun creates a snake-like shadow on the steps.\n\nCelebrate the equinox yourself by joining local events like the one at the Herschel Museum of Astronomy in Bath, UK! The Bath Astronomers will be in the garden from 10 a.m. to 4 p.m. with solar telescopes to help you safely observe the Sun and learn more about our nearest star. This is happening at the same place where the planet Uranus was discovered in 1781.\n\nWant to mark the occasion at home? Try the egg-balancing challenge! While it's mostly a myth that eggs balance more easily on the equinox (you can actually do it any day with enough patience), it's still a fun tradition to try.\nCredit: Adapted from NASA",
+      "credit": "By Jennifer A. Harbaugh & Lance D. Davis (March 18, 2025)",
+      "shortDescription": "Learn about the spring equinox on March 20 and how to celebrate this astronomical event",
+      "dateTime": "2025-03-20T14:33:00Z",
+      "endDateTime": "2025-03-20T23:59:59Z",
+      "category": "guide",
+      "priority": 2,
+      "expirationDate": "2025-03-21T12:00:00Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_1.jpg",
+          "type": "main",
+          "altText": "Earth during spring equinox"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_2.jpg",
+          "type": "map",
+          "altText": "Diagram showing Earth's position during equinox"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_3.jpg",
+          "type": "photo",
+          "altText": "Cultural celebrations of spring equinox"
+        }
+      ],
+      "links": [
+        {
+          "text": "View full article",
+          "url": "https://skyandtelescope.org/observing/vernal-equinox-2025",
+          "isExternal": true
+        },
+        {
+          "text": "Set viewing reminder",
+          "url": "planetspotter://reminder?event=vernal-equinox-2025",
+          "isAppLink": true
+        },
+        {
+          "text": "Bath Astronomers Event",
+          "url": "https://bathastronomers.org.uk/events/vernal-equinox-2025",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
     }
   ],
   "categories": [
@@ -160,5 +208,5 @@
       "icon": "moon.circle.fill"
     }
   ],
-  "acknowledgement": "Article descriptions adapted from materials published by Sky & Telescope magazine (www.skyandtelescope.org). These adaptations are used for educational purposes with proper attribution to the original sources. Images and specific timing information should be verified with local astronomical resources."
+  "acknowledgement": "Article descriptions adapted from materials published by Sky & Telescope magazine (www.skyandtelescope.org) and NASA. These adaptations are used for educational purposes with proper attribution to the original sources. Images and specific timing information should be verified with local astronomical resources."
 }
