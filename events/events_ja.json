@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "ja",
-  "lastUpdated": "2025-05-30T12:00:00Z",
+  "lastUpdated": "2025-05-02T12:00:00Z",
   "configuration": {
     "refreshIntervalHours": 24,
     "maxEventsToShow": 10,
@@ -9,41 +9,41 @@
   },
   "events": [
     {
-      "id": "june-001",
-      "title": "金星最大西方離角 - 明けの明星の復活！",
-      "description": "金星が見ることのできる最も明るい「明けの明星」になろうとしています！6月1日、金星は最大西方離角に達します。これは、金星が朝の空で太陽から最も離れた位置にあることを表す専門用語です。\n\n金星を、時には一緒に夜更かしをする友達（宵の明星）で、時には早起きをする友達（明けの明星）のように考えてみてください。今まさに、夕方のルーティンから朝のルーティンに切り替わっているところなのです！\n\n金星は太陽から46度離れた位置にあります。これは腕を伸ばして握りこぶし4つ半分の幅に相当します！これにより太陽の眩しさから十分離れているため、観測に最適な条件となります。\n\n等級-4.4の明るさで、金星は時には昼間でも見えるほど明るいのです！日の出の約45分前に東の空の低い位置を探してみてください。本物の星のようにまたたかない、輝く白い「星」として現れます。\n\nこれは、金星が2025年末まで朝の空を飾る素晴らしい7ヶ月間の始まりです。この機会を逃さず、隣の惑星を最も壮観な姿で見てください！",
-      "shortDescription": "6月1日に金星が輝く明けの明星になります - 等級-4.4で最も明るく！",
-      "dateTime": "2025-06-01T04:00:00Z",
-      "endDateTime": "2025-06-01T10:00:00Z",
-      "category": "planets",
+      "id": "may-001",
+      "title": "みずがめ座η(エータ)流星群 - ハレー彗星からの星降り!",
+      "description": "この名前は複雑に聞こえるかもしれませんが、分解して説明しましょう！「みずがめ座η」というのは、みずがめ座（水がめ座）とその中のη星から流星が現れるように見えることから来ています。「流星群」とは、たくさんの流れ星が一度に現れることを意味します！\n\nみずがめ座η流星群は、空の花火のようなものです！これらの流星は、有名なハレー彗星が残した氷とちりの小さな粒子から来ています。地球がこの軌道のデブリを通過すると、これらの粒子が大気圏で燃え尽き、空に美しい光の筋を作り出します。\n\nこう考えてください：雨の中を車で走ると、雨粒がフロントガラスに当たりますよね？同じように、地球が宇宙を移動すると、これらの小さな彗星の粒子に当たり、流れ星のように燃え尽きるのです！\n\nこの流星群は、ピーク時に1時間あたり50〜60個の流星を生み出すことができます - ほぼ1分に1個のペースです！最高の観測時間は5月6日の夜明け前です。2025年は、月が朝前に沈むため、暗い空での観測に適しています。\n\n観測方法：街明かりから離れた暗い場所を見つけ、ブランケットや椅子を持って寝ころべるようにし、東の空のみずがめ座の方向を見ます。望遠鏡は必要ありません - 目だけで大丈夫です！",
+      "shortDescription": "ハレー彗星からの流れ星を見よう！5月6日のピーク時は1時間で50〜60個の流星。",
+      "dateTime": "2025-05-05T03:00:00Z",
+      "endDateTime": "2025-05-06T09:00:00Z",
+      "category": "meteors",
       "priority": 1,
-      "expirationDate": "2025-06-30T23:59:59Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_elongation_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_1.jpg",
           "type": "main",
-          "altText": "金星最大西方離角の図解、朝の空での位置を示す"
+          "altText": "みずがめ座の星図"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_elongation_2.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_2.jpg",
           "type": "photo",
-          "altText": "東の朝の空で明るく輝く金星"
+          "altText": "みずがめ座の星図"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_elongation_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_3.jpg",
           "type": "map",
-          "altText": "日の出に対する金星の位置を示す星図"
+          "altText": "複数の流星の軌跡"
         }
       ],
       "links": [
         {
-          "text": "金星の位相について学ぶ",
-          "url": "https://skytonight.app/planets/venus",
+          "text": "流星群について詳しく学ぶ",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/meteors/learn",
           "isExternal": true
         },
         {
           "text": "観測リマインダーを設定",
-          "url": "skytonight://reminder?event=venus-elongation-2025",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/skytonight://reminder?event=eta-aquariids-2025",
           "isAppLink": true
         }
       ],
@@ -51,125 +51,31 @@
       "isHighlighted": true
     },
     {
-      "id": "june-002",
-      "title": "ストロベリームーン - 18年で最も極端な月！",
-      "description": "本当に特別なものに備えてください！6月11日の満月は普通の満月ではありません。ストロベリームーンで、2043年まで見ることのない最も極端な満月なのです！\n\nなぜ「ストロベリームーン」と呼ばれるのでしょうか？北アメリカの先住民族が、イチゴの収穫時期と重なることからこの名前を付けました。ヨーロッパでは、暖かく金色の色合いを見せることから、ローズムーンやハニームーンとも呼ばれています。\n\nこの月が特別極端な理由は？北半球では、これが18.6年で最も低い満月になるからです！地平線に非常に近く、以下のような特徴があります：\n- オレンジ色や金色に見える（大気による光の濾過のため）\n- 通常より大きく見える（月の錯視効果）\n- 風景写真に最適\n\n南半球では逆で、これが今年最も高く明るい満月になります！\n\n最適な観測時間は、地平線に低く位置する月の出直後です。南東の空を探してください。巨大でオレンジ色に見えますが、技術的には「スーパームーン」ではありません。これは低い位置による光学的錯覚なのです。\n\nこれは満月の美しさと、それを本当に忘れられないものにする特別な大気効果を組み合わせた稀な楽しみです！",
-      "shortDescription": "18年で最も低い満月！6月11日の金色のストロベリームーン。",
-      "dateTime": "2025-06-11T07:44:00Z",
-      "endDateTime": "2025-06-11T23:59:59Z",
-      "category": "moon",
-      "priority": 1,
-      "expirationDate": "2025-06-30T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/strawberry_moon_1.jpg",
-          "type": "main",
-          "altText": "地平線に低く位置する金色オレンジのストロベリームーン"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/strawberry_moon_2.jpg",
-          "type": "photo",
-          "altText": "地平線付近での月の錯視効果を示す比較"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/strawberry_moon_3.jpg",
-          "type": "map",
-          "altText": "低い軌道を示す月の経路図"
-        }
-      ],
-      "links": [
-        {
-          "text": "月がオレンジ色に見える理由",
-          "url": "https://skytonight.app/moon/colors",
-          "isExternal": true
-        },
-        {
-          "text": "月の写真撮影のコツ",
-          "url": "https://skytonight.app/photography/moon",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": true
-    },
-    {
-      "id": "june-003",
-      "title": "夏至 - 夏の始まり！（南半球では冬）",
-      "description": "6月21日の夏至は、一年で最も重要な天体現象の一つです！でも夏至とは正確には何でしょうか？\n\n地球を少し傾いたコマのように想像してください。地球が太陽の周りを公転するとき、時々北半球が太陽に向かって傾き、時々太陽から離れるように傾きます。夏至は、この傾きが最大になるときです。\n\n6月21日の2:42 UTCに、太陽は北半球の空で最も高い位置に達します。これは以下を意味します：\n- 一年で最も長い昼（北極付近では24時間の日照！）\n- 一年で最も短い夜\n- 太陽が最も北で昇り、最も北で沈む\n- 公式な夏の始まり\n\nしかし興味深いことに、南半球に住んでいる場合は全く逆になります！6月21日は最も短い昼と最も長い夜で冬の始まりを示します。\n\nなぜ最も長い昼に最も暑くないのでしょうか？これは「季節的遅れ」と呼ばれるものです。地球は温まるのに時間がかかり、ちょうど一日で最も暑い時間が正午ではなく数時間後であるように。最も暑い天気は7月と8月にやってきます。\n\nあなたの場所で夏至の正午の影をチェックしてみてください。一年で最も短い影になります！古代の人々は5,000年以上前にストーンヘンジなどの記念碑を建て、この特別な日を追跡していました。",
-      "shortDescription": "2025年最長の昼！6月21日の夏至で夏の始まり。",
-      "dateTime": "2025-06-21T02:42:00Z",
-      "endDateTime": "2025-06-21T23:59:59Z",
-      "category": "special",
-      "priority": 1,
-      "expirationDate": "2025-06-30T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/solstice_1.jpg",
-          "type": "main",
-          "altText": "夏至時の地球の傾きと太陽の位置"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/solstice_2.jpg",
-          "type": "photo",
-          "altText": "一年で最も高い太陽の軌道を示す比較"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/solstice_3.jpg",
-          "type": "map",
-          "altText": "夏至のストーンヘンジ日の出の配列"
-        }
-      ],
-      "links": [
-        {
-          "text": "なぜ季節があるのか？",
-          "url": "https://skytonight.app/earth/seasons",
-          "isExternal": true
-        },
-        {
-          "text": "夏至と春分・秋分の違いの説明",
-          "url": "https://skytonight.app/earth/solstices",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": true
-    },
-    {
-      "id": "june-004",
-      "title": "新月 - 星座観測に完璧な暗い空！",
-      "description": "6月25日は新月をもたらします。月の最も暗い夜で、星座観測には絶対に最高の時間です！\n\n新月とは正確には何でしょうか？月が地球と太陽の間に位置し、私たちに向いている側が照らされていない状態です。これは、私たちの夜空で月が基本的に見えないことを意味します。\n\nこれは、よりよく見るために部屋のすべての明かりを消すようなものです。新月が夜空に対してそれをしてくれるのです！星を洗い流す明るい月光がないため、以下のものを見ることができます：\n- 通常隠れている暗い星\n- 天の川銀河（街の明かりから離れていれば）\n- 銀河や星雲などの深宇宙天体\n- より明確な流星群\n- 頭上を通る人工衛星\n\nこの新月は夏に起こるため特に素晴らしく、天気が通常晴れて暖かく、一晩中外で空を見上げるのに完璧です！\n\nこの暗闇を最大限活用するには：\n1. 可能であれば街の明かりから離れる\n2. 目を20-30分間暗闇に慣らす\n3. 夜間視力を保つために赤いライトを使用\n4. 明るい星の夏の三角形を探す：ベガ、アルタイル、デネブ\n\nこれは自然が私たちに究極のプラネタリウム体験を与える方法です。入場料は不要です！",
-      "shortDescription": "月で最も暗い空！6月25日の星座観測に最適。",
-      "dateTime": "2025-06-25T10:31:00Z",
-      "endDateTime": "2025-06-25T23:59:59Z",
+      "id": "may-002",
+      "title": "新月 - 星空観測に最適！",
+      "description": "「新月」とは、月が夜空で完全に見えなくなることを意味します！これは月が地球と太陽の間にあり、照らされている部分が見えない時です。\n\n新月は月が地球と太陽の間にあり、私たちから見えなくなる状態です。これにより、月の中で最も暗い空が作られ、星を見るのに最適です！\n\n部屋の電気をすべて消してより良く見えるようにすることを想像してみてください - それが新月が夜空にしてくれることです。月明かりがないため、かすかな星、銀河、そして暗い場所にいれば天の川さえも見ることができます。\n\nこの新月は5月8日に起こり、5月10日にピークを迎えること座流星群の観測に理想的な条件を作り出します。",
+      "shortDescription": "月の最も暗い空！5月8日は星空観測に最適です。",
+      "dateTime": "2025-05-08T03:23:00Z",
+      "endDateTime": "2025-05-08T23:59:59Z",
       "category": "moon",
       "priority": 2,
-      "expirationDate": "2025-06-30T23:59:59Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_1.jpg",
           "type": "main",
-          "altText": "新月時の天の川を示す暗い空"
+          "altText": "新月時の地球、月、太陽の位置図"
         },
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_2.jpg",
-          "type": "photo",
-          "altText": "暗い新月の空の下で観測する天体観測者"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_3.jpg",
           "type": "map",
-          "altText": "新月時に見える夏の三角形の星"
+          "altText": "月のない暗い空と天の川"
         }
       ],
       "links": [
         {
-          "text": "最高の星座観測のコツ",
-          "url": "https://skytonight.app/stargazing/guide",
-          "isExternal": true
-        },
-        {
-          "text": "暗い空の場所を見つける",
-          "url": "https://skytonight.app/locations/dark",
+          "text": "月の満ち欠けについて",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/moon/phases",
           "isExternal": true
         }
       ],
@@ -177,41 +83,53 @@
       "isHighlighted": false
     },
     {
-      "id": "june-005",
-      "title": "火星の月による掩蔽 - 赤い惑星が消える！",
-      "description": "宇宙の手品に備えてください！6月29-30日、月が火星の直前を通り、赤い惑星を完全に消し、約1時間後に再び現れさせます！\n\n月による掩蔽とは正確には何でしょうか？日食のようなものですが、月が太陽を隠すのではなく、惑星を隠すのです。火星は月の何百万キロメートル後ろにあるため、はるかに小さく見え、月がその前を通ると火星が完全に消えます！\n\nこの特別な掩蔽は、6月29日22:57 GMTから6月30日03:35 GMTまで、ペルー西部、エクアドル、コロンビア西部、クリッパートン島から見ることができます。これらの幸運な地域にいなくても、火星と月は世界中でとても近くに見えます。美しい光景です！\n\nこれを特別にするのは：\n- 火星が現在明るく目立っている（衝の近く）\n- 肉眼で簡単に見ることができる\n- 双眼鏡や望遠鏡ではさらに劇的\n- イベントは比較的速く起こる - 火星が消えて1時間以内に再び現れる\n\n実際の掩蔽を見ることができなくても、火星と月の近い合を見逃さないでください！同じ望遠鏡の視野に収まるほど近くにあります。\n\nこれは、私たちの宇宙の隣人たちの正確な動きが稀で美しい配列を作り出す、天の時計仕掛けが作動しているのを見るようなものです！",
-      "shortDescription": "火星が月の後ろに消える！6月29-30日の月による掩蔽。",
-      "dateTime": "2025-06-29T22:57:00Z",
-      "endDateTime": "2025-06-30T03:35:00Z",
-      "category": "planets",
-      "priority": 2,
-      "expirationDate": "2025-06-30T23:59:59Z",
+      "id": "may-003",
+      "title": "こと座η流星群 - 真夜中の星のショー",
+      "description": "この流星群の名前は、こと座の「η星」（こぐま座のη星）と「流星群」（流れ星のこと）から来ています！\n\nこと座η流星群は、みずがめ座η流星群の静かないとこのようなものです。1時間あたり50個の流星の代わりに、1時間あたり約3個の流星が見られるかもしれません。こと座（リラ、たて琴）の方向から現れます。\n\n電子レンジでポップコーンがはじける様子を想像してください - 絶え間ない流れではなく、時々光のバーストが見られます。それでも、それぞれの流星は特別です！\n\n最適な観測時間は5月10日の真夜中以降で、こと座が空高く昇ります。5月8日の新月は、完璧な観測のために空をより暗くしてくれます。",
+      "shortDescription": "こと座からの小さいが美しい流星群、5月10日。",
+      "dateTime": "2025-05-10T00:00:00Z",
+      "endDateTime": "2025-05-10T06:00:00Z",
+      "category": "meteors",
+      "priority": 3,
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/mars_occultation_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_lyrid_1.jpg",
           "type": "main",
-          "altText": "掩蔽中に火星の前を通る月"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/mars_occultation_2.jpg",
-          "type": "photo",
-          "altText": "月の縁から再び現れる火星"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/mars_occultation_3.jpg",
-          "type": "map",
-          "altText": "掩蔽観測地域を示す可視性マップ"
+          "altText": "夜空のこと座η流星"
         }
       ],
       "links": [
         {
-          "text": "掩蔽とは何か？",
-          "url": "https://skytonight.app/events/occultations",
+          "text": "空の中のこと座を見つける",
+          "url": "https://skytonight.app/constellations/lyra",
           "isExternal": true
-        },
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "may-004",
+      "title": "月-火星-プレセペ星団：宇宙の三角形！",
+      "description": "このタイトルを説明しましょう！「合」とは天体が空で近くに見えることを意味します。火星は惑星で、プレセペ星団は蜂が飛び回っているように見える星のグループです！\n\n5月3日〜4日の夜に、空で3つのクールなものが近くに見えます：月、火星、そしてプレセペ星団（蜂の群れのように見える星のグループ）。\n\n空に三角形を描くことを想像してください - それがこれら3つの天体が見える様子です！火星は赤っぽい点として現れ、月はほぼ半月で、双眼鏡を使えばプレセペ星団をぼんやりした星の群れとして見ることができます。\n\nまるで私たちの宇宙の隣人たちがパーティーをしているようです！夕暮れ後の夜空で、かに座の方向を見てください。",
+      "shortDescription": "月、火星、プレセペ星団が5月3日〜4日に一緒に見られます。",
+      "dateTime": "2025-05-03T20:00:00Z",
+      "endDateTime": "2025-05-04T02:00:00Z",
+      "category": "planets",
+      "priority": 3,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
         {
-          "text": "火星観測ガイド",
-          "url": "https://skytonight.app/planets/mars",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/moon_mars_cluster_1.jpg",
+          "type": "main",
+          "altText": "月、火星、プレセペ星団の配置"
+        }
+      ],
+      "links": [
+        {
+          "text": "合とは何ですか？",
+          "url": "https://skytonight.app/guide/conjunctions",
           "isExternal": true
         }
       ],
@@ -219,46 +137,90 @@
       "isHighlighted": true
     },
     {
-      "id": "june-006",
-      "title": "土星と海王星の会合 - 三重合の第一弾！",
-      "description": "私たちの朝の空で稀なことが起こっています！6月29日、土星と海王星がうお座で非常に近くに現れます。これは、これらの遠い巨大惑星間の3回の特別な会合の最初のものです！\n\nこれがなぜそれほど特別なのでしょうか？これら2つの惑星は空をとてもゆっくりと移動するため、会合することは天文学的に大きな出来事なのです。これは天文学者が「三重合」と呼ぶものの始まりです。今後8ヶ月間で3回会合します！\n\n彼らの宇宙的ダンスのスケジュールは：\n1. 2025年6月29日（これです！）\n2. 2025年8月6日\n3. 2026年2月16日\n\nなぜ3回の会合？両惑星はまもなく背景の星に対して後ろ向きに動き始める（「逆行運動」と呼ばれる）からです。海王星は7月5日に逆行し、土星は7月14日に続きます。この前後の動きが複数の出会いを作り出します。\n\n観測のコツ：\n- 土星（等級1.0）は肉眼で黄色い「星」として簡単に見える\n- 海王星（等級7.9）は双眼鏡や小さな望遠鏡が必要\n- うお座の東の朝の空を見る\n- 1度未満の距離 - 満月の幅の約2倍！\n\nこれは、環のある巨大惑星と遠い氷の巨大惑星の間のスローモーション天空バレエを見るようなものです。外太陽系の2つの世界が同じ空の場所を共有するこの稀な機会を見逃さないでください！",
-      "shortDescription": "土星と海王星が会合！6月29日の稀な三重合の第一弾。",
-      "dateTime": "2025-06-29T08:20:00Z",
-      "endDateTime": "2025-06-29T18:00:00Z",
+      "id": "may-005",
+      "title": "金星：明けの明星が帰ってきた！",
+      "description": "タイトルを解説しましょう！金星は惑星（地球の隣の惑星）で、「明けの明星」とは日の出前に現れることを意味し、「離角」は空で金星が太陽からどれだけ離れているかを表します！\n\n金星がまもなく「明けの明星」に戻ります！通常、金星は夕方の空に見えます（「宵の明星」として）が、5月31日に太陽の東側の最遠点に達します。\n\n金星は、時々あなたと一緒に夜更かししてくれる友人（宵の明星）や、時々早起きしてくれる友人（明けの明星）のようです。今はその夜更かしから朝型に切り替わろうとしています！\n\n金星は空で最も明るい惑星で、時には日中でも見ることができるほど明るいです！日の出の約45分前に、東の空の低い位置を探してください。",
+      "shortDescription": "金星が5月31日に明るい明けの明星として戻ってくるのを見よう。",
+      "dateTime": "2025-05-31T00:00:00Z",
+      "endDateTime": "2025-05-31T23:59:59Z",
       "category": "planets",
-      "priority": 3,
-      "expirationDate": "2025-06-30T23:59:59Z",
+      "priority": 2,
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/saturn_neptune_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_1.jpg",
           "type": "main",
-          "altText": "うお座での土星と海王星の近い合"
+          "altText": "空での金星の位置"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/saturn_neptune_2.jpg",
-          "type": "photo",
-          "altText": "土星と海王星一緒の望遠鏡視野"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/saturn_neptune_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_2.jpg",
           "type": "map",
-          "altText": "三重合のタイムラインを示す星図"
+          "altText": "最大離角時の金星を示す図"
         }
       ],
       "links": [
         {
-          "text": "逆行運動とは何か？",
-          "url": "https://skytonight.app/concepts/retrograde",
+          "text": "金星観測ガイド",
+          "url": "https://skytonight.app/planets/venus",
           "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "may-006",
+      "title": "フラワームーン（マイクロムーン） - 小さめの満月",
+      "description": "5月12日の満月は「フラワームーン」と呼ばれています。これは春の花が咲く時期に起こるからです。この満月は「マイクロムーン」でもあります - 月が地球から遠い位置にあり、通常よりも少し小さく見えます。\n\n1円玉と5円玉を持っているところを想像してください。マイクロムーンと通常の満月の違いは、これらのコインの違いのようなものです。写真を比較しない限り、小さいことにおそらく気づかないでしょう！\n\n月は夜空を美しく照らすことに変わりはなく、特別な装置なしで安全に見ることができます。",
+      "shortDescription": "フラワームーンが5月12日に少し小さめ（マイクロムーン）で現れます。",
+      "dateTime": "2025-05-12T16:56:00Z",
+      "endDateTime": "2025-05-31T23:59:59Z",
+      "category": "moon",
+      "priority": 2,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_1.jpg",
+          "type": "main",
+          "altText": "月の様々な満ち欠け"
         },
         {
-          "text": "惑星合の説明",
-          "url": "https://skytonight.app/events/conjunctions",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_2.jpg",
+          "type": "photo",
+          "altText": "マイクロムーンと通常の満月の比較"
+        }
+      ],
+      "links": [
+        {
+          "text": "満月の名前について",
+          "url": "https://skytonight.app/moon/names",
           "isExternal": true
         }
       ],
       "requiresPremium": false,
       "isHighlighted": false
     }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "すべてのイベント",
+      "icon": "star.fill"
+    },
+    {
+      "id": "meteors",
+      "name": "流星群",
+      "icon": "sparkles"
+    },
+    {
+      "id": "planets",
+      "name": "惑星",
+      "icon": "globe"
+    },
+    {
+      "id": "moon",
+      "name": "月の満ち欠け",
+      "icon": "moon.circle.fill"
+    }
   ]
-} 
+}
