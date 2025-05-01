@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "en",
-  "lastUpdated": "2025-03-14T12:00:00Z",
+  "lastUpdated": "2025-05-02T12:00:00Z",
   "configuration": {
     "refreshIntervalHours": 24,
     "maxEventsToShow": 10,
@@ -9,42 +9,41 @@
   },
   "events": [
     {
-      "id": "article-001",
-      "title": "This Week's Sky at a Glance, March 7–16",
-      "description": "FRIDAY, MARCH 7\n\nThis evening the Moon, just past first quarter (half-moon shape), shines in the sky near Mars and the twin stars Castor and Pollux. As the night goes on, they all appear to rotate clockwise across the sky as Earth rotates.\n\nSATURDAY, MARCH 8\n\nThe Moon moves closer to Mars and the twin stars tonight. Watch how the Moon changes position compared to the background stars as hours pass. The Moon moves eastward in its orbit by about its own width every hour.\n\nDaylight-saving time starts at 2:00 a.m. Sunday morning March 9. Remember to set your clocks forward one hour (\"spring ahead\").\n\nSUNDAY, MARCH 9\n\nSpring is still a couple weeks away, but the bright spring star Arcturus is already rising in the east-northeast around 9 p.m. To find it, look for the Big Dipper high in the northeast, then follow the curve of its handle downward and to the right.\n\nMONDAY, MARCH 10\n\nMars, Pollux, and Castor in the constellation Gemini [the Twins] pass almost straight overhead after nightfall if you live in the mid-northern latitudes [areas like the northern United States or central Europe]. Mars is the brightest of the three and has a reddish color.\n\nTUESDAY, MARCH 11\n\nThe Moon appears near the bright star Regulus tonight. Watch as they get closer throughout the night, ending up just 1° apart (about the width of your pinky finger held at arm's length) by early dawn.\n\nThe star Algol will be at its dimmest around 11:37 p.m. EDT. Algol is a special star that changes brightness regularly because it's actually two stars that eclipse each other from our view on Earth.\n\nWEDNESDAY, MARCH 12\n\nBright Sirius (the brightest star in our night sky) is now due south as darkness falls. Sirius forms the bottom point of the Winter Triangle. The triangle's other two stars are orange Betelgeuse (to Sirius's upper right) and Procyon (to Sirius's upper left).\n\nTHURSDAY, MARCH 13\n\nThere will be a total lunar eclipse tonight visible from North and South America, western Europe, and western Africa.\n\nFor people in North America, the eclipse happens late at night. The partial eclipse (when Earth's shadow starts covering the Moon) begins at 1:09 a.m. Friday morning EDT. The total eclipse (when the Moon is fully in Earth's shadow) starts at 2:26 a.m. EDT, reaches its middle at 2:59 a.m. EDT, and ends at 3:32 a.m. EDT. The partial eclipse ends at 4:48 a.m. EDT.\n\nFRIDAY, MARCH 14\n\nThe full Moon rises at twilight today. As it climbs higher after dark, look below it for the bright star Spica to appear.\n\nAlgol will be at its dimmest again tonight, around 8:26 p.m. EDT.\n\nSATURDAY, MARCH 15\n\nTonight the Moon (now starting to wane or shrink) rises around the end of twilight, with the star Spica less than a fist-width below it when held at arm's length.\n\nSUNDAY, MARCH 16\n\nThe Moon continues to wane and now rises about an hour after full darkness, with Spica following it up into the sky.\nCredit: Sky & Telescope",
-      "credit": "By Alan MacRobert (March 7, 2025)",
-      "shortDescription": "Your weekly guide to watching the stars and planets from March 7 to 16",
-      "dateTime": "2025-03-07T00:00:00Z",
-      "endDateTime": "2025-03-16T23:59:59Z",
-      "category": "guide",
+      "id": "may-001",
+      "title": "Eta Aquariid Meteor Shower - Star Shower from Halley's Comet!",
+      "description": "The name might sound complicated, but let's break it down! 'Eta Aquariid' comes from the constellation Aquarius (the Water Bearer) and the star Eta Aquarii where the meteors seem to come from. 'Meteor Shower' means lots of shooting stars appearing at once!\n\nThe Eta Aquariids are like fireworks in the sky! These meteors come from tiny pieces of ice and dust left behind by Halley's Comet (yes, the famous one!). When Earth passes through this debris trail, these particles burn up in our atmosphere, creating beautiful streaks of light across the sky.\n\nThink of it like this: When you drive through rain, raindrops hit your windshield, right? Similarly, as Earth moves through space, it hits these tiny comet particles, and they burn up like shooting stars!\n\nThis shower can produce 50-60 meteors per hour at its peak - that's almost one every minute! The best viewing time is before dawn on May 6th. In 2025, the Moon will set before morning, giving us nice dark skies for watching.\n\nTo see them: Find a dark spot away from city lights, bring a blanket or chair to lie back on, and look toward the constellation Aquarius in the eastern sky. No telescope needed - just your eyes!",
+      "shortDescription": "See shooting stars from Halley's Comet! Up to 50-60 meteors per hour peak on May 6th.",
+      "dateTime": "2025-05-05T03:00:00Z",
+      "endDateTime": "2025-05-06T09:00:00Z",
+      "category": "meteors",
       "priority": 1,
-      "expirationDate": "2025-03-17T12:00:00Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_1.jpg",
           "type": "main",
-          "altText": "Week 1 Sky"
+          "altText": "Sky map showing the Aquarius constellation"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_2.jpg",
-          "type": "map",
-          "altText": "Week 2 Sky"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_2.jpg",
           "type": "photo",
-          "altText": "Week 3 Sky"
+          "altText": "Sky map showing the Aquarius constellation"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_3.jpg",
+          "type": "map",
+          "altText": "Multiple meteor trails"
         }
       ],
       "links": [
         {
-          "text": "View full article",
-          "url": "https://skyandtelescope.org/observing/this-weeks-sky-at-a-glance-march-7-16-2025",
+          "text": "Learn more about meteor showers",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/meteors/learn",
           "isExternal": true
         },
         {
-          "text": "Set viewing reminders",
-          "url": "planetspotter://calendar?week=mar7-16-2025",
+          "text": "Set viewing reminder",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/skytonight://reminder?event=eta-aquariids-2025",
           "isAppLink": true
         }
       ],
@@ -52,150 +51,166 @@
       "isHighlighted": true
     },
     {
-      "id": "article-002",
-      "title": "Venus Changes from Evening to Morning Star",
-      "description": "Venus is about to disappear from our evening view. If you haven't looked at this bright planet recently, time is running out! On March 12th, Venus will be just under 18° from the Sun (this distance is called its elongation) and getting closer to the Sun by more than 1° each day. As Venus moves away, it will appear close to Mercury. The two inner planets will be closest to each other (5.5° apart) on March 12th.\n\nOn March 23rd, Venus will pass between Earth and the Sun (called inferior conjunction) and then move into the morning sky, becoming the \"Morning Star\" instead of the \"Evening Star.\" Ancient Romans called Venus \"Lucifer\" when seen in the morning and \"Vesper\" when seen in the evening.\n\nUsually, Venus is hidden in the Sun's glare for about a week around conjunction. During this time, careful observers might try to spot it during daylight using telescopes, while being very careful to avoid looking at the Sun. When Venus is closest to Earth, it appears largest in telescopes and shows a super-thin crescent shape.\n\nAround conjunction, when Venus appears nearly in the same direction as the Sun, the points (or cusps) of Venus's crescent can extend beyond 180° because sunlight bends through Venus's atmosphere. Look for these extensions when Venus is less than 2.5% lit (from March 16-29). Venus will be only 1.0% lit on March 22-23.\n\nVenus will reach its farthest point north of the Sun's path (the ecliptic) on March 18th, sitting 8.5° north. Since this happens just before conjunction, Venus will pass well north of the Sun, making it easier (and safer) to spot in daylight.\n\nIf you have very sharp vision, you might even be able to see Venus's crescent shape without a telescope. The human eye can separate details as small as 60 arc-seconds (or 1 arc-minute). Venus reaches almost exactly that size (59.5 arc-seconds) on March 22-23.\n\nBecause Venus is so far north of the Sun's path, observers in mid-northern latitudes have a rare chance to see Venus in the morning sky while it's technically still the Evening Star. Look for Venus's last appearance in the evening around March 18th. Then on March 21st, you can start looking for it before sunrise, but it will be very low on the horizon (\"in the mud\").\nCredit: Sky & Telescope",
-      "credit": "By Bob King (March 12, 2025)",
-      "shortDescription": "How to watch Venus as it moves from the evening to the morning sky",
-      "dateTime": "2025-03-12T00:00:00Z",
-      "endDateTime": "2025-03-23T23:59:59Z",
+      "id": "may-002",
+      "title": "New Moon - Perfect for Stargazing!",
+      "description": "The 'New Moon' means the Moon is completely invisible in the night sky! It's when the Moon is between Earth and the Sun, so we can't see the part that's lit up.\n\nThe New Moon is when the Moon is between Earth and the Sun, making it invisible to us. This creates the darkest skies of the month - perfect for watching stars!\n\nImagine turning off all the lights in your room to see better - that's what the New Moon does for the night sky. Without moonlight, we can see fainter stars, galaxies, and even the Milky Way if you're in a dark area.\n\nThis New Moon happens on May 8th, creating ideal conditions for watching the Eta Lyrid meteor shower (which peaks on May 10th).",
+      "shortDescription": "Darkest skies of the month! Perfect for stargazing on May 8th.",
+      "dateTime": "2025-05-08T03:23:00Z",
+      "endDateTime": "2025-05-08T23:59:59Z",
+      "category": "moon",
+      "priority": 2,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_1.jpg",
+          "type": "main",
+          "altText": "Diagram showing Earth, Moon, and Sun positions during New Moon"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_2.jpg",
+          "type": "map",
+          "altText": "Dark sky without moon, showing Milky Way"
+        }
+      ],
+      "links": [
+        {
+          "text": "Moon phases explained",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/moon/phases",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "may-003",
+      "title": "Eta Lyrid Meteor Shower - Midnight Sky Show",
+      "description": "This shower's name comes from 'Eta Lyrae' (a star in the constellation Lyra) and 'meteor shower' which means falling stars!\n\nThe Eta Lyrids are like the quieter cousin of the Eta Aquariids. Instead of 50 meteors per hour, you might see about 3 meteors per hour. They come from the constellation Lyra (the Harp).\n\nThink of it like popcorn popping in the microwave - instead of a constant stream, you'll see occasional bursts of light. Each meteor is still special though!\n\nThe best viewing time is after midnight on May 10th, when the constellation Lyra is high in the sky. The New Moon on May 8th means the sky will be extra dark for perfect viewing.",
+      "shortDescription": "Smaller but beautiful meteor shower from Lyra constellation, May 10th.",
+      "dateTime": "2025-05-10T00:00:00Z",
+      "endDateTime": "2025-05-10T06:00:00Z",
+      "category": "meteors",
+      "priority": 3,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_lyrid_1.jpg",
+          "type": "main",
+          "altText": "Eta Lyrid meteor over the night sky"
+        }
+      ],
+      "links": [
+        {
+          "text": "Find Lyra in your sky",
+          "url": "https://skytonight.app/constellations/lyra",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "may-004",
+      "title": "Moon-Mars-Beehive Cluster: A Cosmic Triangle!",
+      "description": "Let me explain this title! 'Conjunction' means celestial objects appear close together in the sky. Mars is a planet, and the Beehive Cluster is a group of stars named because they look like bees buzzing around!\n\nOn the night of May 3-4, you'll see three cool things close together in the sky: the Moon, Mars, and the Beehive Cluster (a group of stars that looks like a swarm of bees).\n\nImagine drawing a triangle in the sky - that's what these three objects will look like! Mars will appear as a reddish dot, the Moon will be nearly half-full, and with binoculars, you can see the Beehive Cluster as a fuzzy patch of stars.\n\nIt's like our cosmic neighbors are having a party! Look in the Cancer constellation in the evening sky after sunset.",
+      "shortDescription": "See the Moon, Mars, and Beehive Cluster together on May 3-4.",
+      "dateTime": "2025-05-03T20:00:00Z",
+      "endDateTime": "2025-05-04T02:00:00Z",
+      "category": "planets",
+      "priority": 3,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/moon_mars_cluster_1.jpg",
+          "type": "main",
+          "altText": "Moon, Mars, and Beehive Cluster arrangement"
+        }
+      ],
+      "links": [
+        {
+          "text": "What are conjunctions?",
+          "url": "https://skytonight.app/guide/conjunctions",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "may-005",
+      "title": "Venus: The Morning Star Returns!",
+      "description": "Let's break down the title! Venus is a planet (Earth's neighbor), 'Morning Star' means it appears before sunrise, and 'elongation' describes how far Venus is from the Sun in our sky!\n\nVenus is about to become the 'Morning Star' again! Usually we see Venus in the evening sky (as the 'Evening Star'), but on May 31st, it reaches its farthest point east of the Sun.\n\nThink of Venus like a friend who sometimes stays up late with you (Evening Star) and sometimes gets up early (Morning Star). Right now, it's switching from its evening routine to its morning one!\n\nVenus is the brightest planet in our sky - so bright you can sometimes see it during the day! Look for it low in the eastern sky about 45 minutes before sunrise.",
+      "shortDescription": "Watch Venus return as the bright Morning Star on May 31st.",
+      "dateTime": "2025-05-31T00:00:00Z",
+      "endDateTime": "2025-05-31T23:59:59Z",
       "category": "planets",
       "priority": 2,
-      "expirationDate": "2025-03-24T12:00:00Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_1.jpg",
           "type": "main",
-          "altText": "Venus viewed from earth"
+          "altText": "Venus positions in the sky"
         },
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_2.jpg",
-          "type": "photo",
-          "altText": "Venus path around the year"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_3.jpg",
           "type": "map",
-          "altText": "Venus in space"
+          "altText": "Diagram showing Venus at greatest elongation"
         }
       ],
       "links": [
         {
-          "text": "View full article",
-          "url": "https://skyandtelescope.org/observing/venus-evening-to-morning-star-2025",
+          "text": "Venus viewing guide",
+          "url": "https://skytonight.app/planets/venus",
           "isExternal": true
-        },
-        {
-          "text": "Set viewing reminder",
-          "url": "planetspotter://reminder?event=venus-conjunction-2025",
-          "isAppLink": true
         }
       ],
       "requiresPremium": false,
       "isHighlighted": true
     },
     {
-      "id": "article-003",
-      "title": "Watch the Total Lunar Eclipse Tonight (March 13-14)",
-      "description": "An amazing total lunar eclipse will be visible tonight across North and South America, western Europe, and western Africa.\n\nFor people in North America, the eclipse happens late at night. The partial eclipse (when Earth's shadow first touches the Moon) begins at 1:09 a.m. Friday morning EDT. The total eclipse (when the Moon is completely inside Earth's shadow) starts at 2:26 a.m. EDT, reaches its middle at 2:59 a.m. EDT, and ends at 3:32 a.m. EDT. The partial eclipse ends completely at 4:48 a.m. EDT.\n\nDuring a lunar eclipse, Earth gets positioned directly between the Sun and the full Moon, casting our planet's shadow onto the Moon. The Moon turns a coppery-red color during totality (the time when it's fully in Earth's shadow), which lasts for about 66 minutes. This red color happens because Earth's atmosphere bends sunlight and filters out most colors except red, which reaches the Moon - it's like all Earth's sunrises and sunsets are being projected onto the Moon at once!\n\nThe Moon will be near its farthest point from Earth in its orbit (called apogee), making it appear slightly smaller than an average full Moon (sometimes called a \"minimoon\").\n\nThis is the first total lunar eclipse visible from this region since 2022. You don't need any special equipment to watch a lunar eclipse, but binoculars or a small telescope will let you see more details on the Moon's surface during the eclipse.\n\nUnlike solar eclipses, lunar eclipses are completely safe to look at with your naked eyes. You don't need any special eye protection to view a lunar eclipse.\nCredit: Sky & Telescope",
-      "credit": "By Sky & Telescope Editors (March 13, 2025)",
-      "shortDescription": "How to watch tonight's total lunar eclipse",
-      "dateTime": "2025-03-13T21:00:00Z",
-      "endDateTime": "2025-03-14T09:30:00Z",
-      "category": "eclipse",
-      "priority": 3,
-      "expirationDate": "2025-03-15T12:00:00Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_1.jpg",
-          "type": "main",
-          "altText": "Total lunar eclipse sequence"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_2.jpg",
-          "type": "map",
-          "altText": "World map showing eclipse visibility"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_3.jpg",
-          "type": "photo",
-          "altText": "Earth's shadow on the lunar surface"
-        }
-      ],
-      "links": [
-        {
-          "text": "View full article",
-          "url": "https://skyandtelescope.org/observing/total-lunar-eclipse-march-2025",
-          "isExternal": true
-        },
-        {
-          "text": "Set viewing reminder",
-          "url": "planetspotter://reminder?event=lunar-eclipse-2025",
-          "isAppLink": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": true
-    },
-    {
-      "id": "article-004",
-      "title": "Celebrate the Vernal Equinox - The Astronomical Start of Spring",
-      "description": "The vernal equinox (spring equinox) happens on March 20, 2025, at 10:33 a.m. EDT (14:33 UTC). This special day marks the astronomical beginning of spring in the Northern Hemisphere and fall in the Southern Hemisphere.\n\nWhat exactly is an equinox? During the equinox, the Sun passes directly above Earth's equator, bringing nearly equal amounts of day and night to all parts of our planet - about 12 hours each! The word \"equinox\" actually comes from Latin words meaning \"equal night.\"\n\nUnlike meteorological seasons that follow the calendar (where spring starts on March 1), astronomical seasons are based on Earth's position in its orbit and the tilt of its axis. Our planet's 23.5° tilt is what gives us our seasons. During the March equinox, neither hemisphere is tilted toward or away from the Sun.\n\nIf you're in the Northern Hemisphere, the March equinox brings earlier sunrises, later sunsets, softer winds, and budding plants. You'll notice the Sun rising a bit farther north on the horizon each day until the June solstice, when it reverses direction and starts moving south again.\n\nThe equinox is celebrated in many cultures around the world:\n\n- In Japan, the spring equinox (Shunbun no Hi) is a national holiday and part of a seven-day festival called Higan, when people visit family graves and honor their ancestors.\n\n- In Iran and many Central Asian countries, the equinox marks Nowruz (Persian New Year), a celebration that goes back over 3,000 years with feasts, family visits, and spring cleaning.\n\n- Many ancient monuments align with the equinoxes, including the famous pyramid at Chichen Itza in Mexico, where the setting sun creates a snake-like shadow on the steps.\nCredit: Adapted from NASA",
-      "credit": "By Jennifer A. Harbaugh & Lance D. Davis (March 18, 2025)",
-      "shortDescription": "Learn about the spring equinox on March 20 and how to celebrate this astronomical event",
-      "dateTime": "2025-03-20T14:33:00Z",
-      "endDateTime": "2025-03-20T23:59:59Z",
-      "category": "guide",
+      "id": "may-006",
+      "title": "Flower Moon (Micromoon) - A Smaller Full Moon",
+      "description": "The Full Moon on May 12th is nicknamed the 'Flower Moon' because it happens when spring flowers are blooming. This one is also a 'Micromoon' - when the Moon is farther from Earth, making it appear slightly smaller than usual.\n\nImagine holding two coins - a penny and a nickel. The difference between a Micromoon and a regular Full Moon is like the difference between those coins. You probably won't notice it's smaller unless you compare photos!\n\nThe Moon will still light up the night sky beautifully, and it's safe to look at without special equipment.",
+      "shortDescription": "Full Flower Moon appears slightly smaller on May 12th (Micromoon).",
+      "dateTime": "2025-05-12T16:56:00Z",
+      "endDateTime": "2025-05-31T23:59:59Z",
+      "category": "moon",
       "priority": 2,
-      "expirationDate": "2025-03-21T12:00:00Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_1.jpg",
           "type": "main",
-          "altText": "Earth during spring equinox"
+          "altText": "Various phase of the moon"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_2.jpg",
-          "type": "map",
-          "altText": "Diagram showing Earth's position during equinox"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_2.jpg",
           "type": "photo",
-          "altText": "Cultural celebrations of spring equinox"
+          "altText": "Comparison between Micromoon and regular Full Moon"
         }
       ],
       "links": [
         {
-          "text": "View full article",
-          "url": "https://skyandtelescope.org/observing/vernal-equinox-2025",
-          "isExternal": true
-        },
-        {
-          "text": "Set viewing reminder",
-          "url": "planetspotter://reminder?event=vernal-equinox-2025",
-          "isAppLink": true
-        },
-        {
-          "text": "Bath Astronomers Event",
-          "url": "https://bathastronomers.org.uk/events/vernal-equinox-2025",
+          "text": "Full moon names explained",
+          "url": "https://skytonight.app/moon/names",
           "isExternal": true
         }
       ],
       "requiresPremium": false,
-      "isHighlighted": true
+      "isHighlighted": false
     }
   ],
   "categories": [
     {
       "id": "all",
-      "name": "All Articles",
+      "name": "All Events",
       "icon": "star.fill"
     },
     {
-      "id": "guide",
-      "name": "Sky Guides",
-      "icon": "calendar"
+      "id": "meteors",
+      "name": "Meteor Showers",
+      "icon": "sparkles"
     },
     {
       "id": "planets",
@@ -203,10 +218,9 @@
       "icon": "globe"
     },
     {
-      "id": "eclipse",
-      "name": "Eclipses",
+      "id": "moon",
+      "name": "Moon Phases",
       "icon": "moon.circle.fill"
     }
-  ],
-  "acknowledgement": "Article descriptions adapted from materials published by Sky & Telescope magazine (www.skyandtelescope.org) and NASA. These adaptations are used for educational purposes with proper attribution to the original sources. Images and specific timing information should be verified with local astronomical resources."
+  ]
 }
