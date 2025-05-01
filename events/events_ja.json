@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "ja",
-  "lastUpdated": "2025-03-14T12:00:00Z",
+  "lastUpdated": "2025-05-02T12:00:00Z",
   "configuration": {
     "refreshIntervalHours": 24,
     "maxEventsToShow": 10,
@@ -9,42 +9,41 @@
   },
   "events": [
     {
-      "id": "article-001",
-      "title": "今週の空の見どころ、3月7日～16日",
-      "description": "3月7日（金）\n\n今夜、上弦（半月の形）を過ぎた月は、火星と双子星のカストルとポルックスの近くで輝いています。夜が進むにつれて、地球の回転に伴い、これらは空を時計回りに回転しているように見えます。\n\n3月8日（土）\n\n今夜、月は火星と双子星にさらに近づきます。時間が経つにつれ、月が背景の星々に対してどのように位置を変えるか観察してください。月は軌道上を毎時間約自分の幅分だけ東へ移動します。\n\n夏時間は3月9日日曜日の午前2時に始まります。時計を1時間進めることを忘れないでください（「春前進」）。\n\n3月9日（日）\n\n春はまだ2週間ほど先ですが、明るい春の星アルクトゥルスは午後9時頃には東北東に昇っています。見つけるには、北東の高い位置にある北斗七星を探し、その柄の曲線をたどって下方右へ行きます。\n\n3月10日（月）\n\n火星、ポルックス、カストルは双子座でほぼ真上を通過します（北半球中緯度地域［北米北部や中央ヨーロッパなどの地域］に住んでいる場合）。火星は3つの中で最も明るく、赤みがかった色をしています。\n\n3月11日（火）\n\n今夜、月は明るい星レグルスの近くに見えます。夜を通じて近づいていき、夜明け前には約1°（腕を伸ばした時の小指の幅ほど）離れた場所に位置します。\n\nアルゴル星は東部夏時間の午後11時37分頃に最も暗くなります。アルゴルは特別な星で、実は地球から見ると互いに食を起こす2つの星であるため、定期的に明るさが変わります。\n\n3月12日（水）\n\n明るいシリウス（夜空で最も明るい星）は、暗くなるとちょうど南に位置します。シリウスは冬の大三角形の底辺を形成します。三角形の他の2つの星は、オレンジ色のベテルギウス（シリウスの右上）とプロキオン（シリウスの左上）です。\n\n3月13日（木）\n\n今夜、北米と南米、西ヨーロッパ、西アフリカから見える皆既月食があります。\n\n北米の人々にとって、この食は夜遅くに起こります。部分食（地球の影が月を覆い始める時）は東部夏時間の金曜日午前1時09分に始まります。皆既食（月が完全に地球の影に入る時）は東部夏時間の午前2時26分に始まり、午前2時59分に最大となり、午前3時32分に終了します。部分食は東部夏時間の午前4時48分に終了します。\n\n3月14日（金）\n\n満月は今日、薄明時に昇ります。暗くなった後に高く昇るにつれて、その下に明るい星スピカが現れます。\n\nアルゴルは今夜も東部夏時間の午後8時26分頃に最も暗くなります。\n\n3月15日（土）\n\n今夜、月（今や満ち欠けが始まり、縮小中）は薄明の終わり頃に昇り、星スピカはその下に腕を伸ばした時の拳の幅より少し小さい距離にあります。\n\n3月16日（日）\n\n月は引き続き欠けて、完全な暗闇の約1時間後に昇り、スピカがその後に空へと続きます。\nクレジット：Sky & Telescope",
-      "credit": "アラン・マクロバート（2025年3月7日）",
-      "shortDescription": "3月7日から16日までの星と惑星観測の週間ガイド",
-      "dateTime": "2025-03-07T00:00:00Z",
-      "endDateTime": "2025-03-16T23:59:59Z",
-      "category": "guide",
+      "id": "may-001",
+      "title": "みずがめ座η(エータ)流星群 - ハレー彗星からの星降り!",
+      "description": "この名前は複雑に聞こえるかもしれませんが、分解して説明しましょう！「みずがめ座η」というのは、みずがめ座（水がめ座）とその中のη星から流星が現れるように見えることから来ています。「流星群」とは、たくさんの流れ星が一度に現れることを意味します！\n\nみずがめ座η流星群は、空の花火のようなものです！これらの流星は、有名なハレー彗星が残した氷とちりの小さな粒子から来ています。地球がこの軌道のデブリを通過すると、これらの粒子が大気圏で燃え尽き、空に美しい光の筋を作り出します。\n\nこう考えてください：雨の中を車で走ると、雨粒がフロントガラスに当たりますよね？同じように、地球が宇宙を移動すると、これらの小さな彗星の粒子に当たり、流れ星のように燃え尽きるのです！\n\nこの流星群は、ピーク時に1時間あたり50〜60個の流星を生み出すことができます - ほぼ1分に1個のペースです！最高の観測時間は5月6日の夜明け前です。2025年は、月が朝前に沈むため、暗い空での観測に適しています。\n\n観測方法：街明かりから離れた暗い場所を見つけ、ブランケットや椅子を持って寝ころべるようにし、東の空のみずがめ座の方向を見ます。望遠鏡は必要ありません - 目だけで大丈夫です！",
+      "shortDescription": "ハレー彗星からの流れ星を見よう！5月6日のピーク時は1時間で50〜60個の流星。",
+      "dateTime": "2025-05-05T03:00:00Z",
+      "endDateTime": "2025-05-06T09:00:00Z",
+      "category": "meteors",
       "priority": 1,
-      "expirationDate": "2025-03-17T12:00:00Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_1.jpg",
           "type": "main",
-          "altText": "第1週の空"
+          "altText": "みずがめ座の星図"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_2.jpg",
-          "type": "map",
-          "altText": "第2週の空"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_2.jpg",
           "type": "photo",
-          "altText": "第3週の空"
+          "altText": "みずがめ座の星図"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_3.jpg",
+          "type": "map",
+          "altText": "複数の流星の軌跡"
         }
       ],
       "links": [
         {
-          "text": "全記事を見る",
-          "url": "https://skyandtelescope.org/observing/this-weeks-sky-at-a-glance-march-7-16-2025",
+          "text": "流星群について詳しく学ぶ",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/meteors/learn",
           "isExternal": true
         },
         {
           "text": "観測リマインダーを設定",
-          "url": "planetspotter://calendar?week=mar7-16-2025",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/skytonight://reminder?event=eta-aquariids-2025",
           "isAppLink": true
         }
       ],
@@ -52,150 +51,166 @@
       "isHighlighted": true
     },
     {
-      "id": "article-002",
-      "title": "金星が宵の明星から明けの明星へ変わる",
-      "description": "金星はまもなく夕方の視界から消えようとしています。この明るい惑星をまだ見ていないなら、時間が限られています！3月12日、金星は太陽から約18°の距離（これは離角と呼ばれます）にあり、毎日1°以上のペースで太陽に近づいています。金星が移動するにつれて、水星の近くに見えるようになります。この2つの内側の惑星は3月12日に最も近くなり（5.5°離れて）います。\n\n3月23日、金星は地球と太陽の間を通過し（下合と呼ばれる）、その後朝方の空に移動して、「宵の明星」ではなく「明けの明星」となります。古代ローマ人は朝に見える金星を「ルシファー」、夕方に見える時を「ベスペル」と呼んでいました。\n\n通常、金星は合の前後約1週間は太陽の眩しさに隠れています。この期間中、注意深い観測者は望遠鏡を使って日中に見つけようとするかもしれませんが、太陽を直接見ることのないよう非常に注意が必要です。金星が地球に最も近づくと、望遠鏡では最大に見え、非常に薄い三日月形を示します。\n\n合の頃、金星が太陽とほぼ同じ方向に見えるとき、金星の大気を通して太陽光が曲がるため、金星の三日月の先端（または尖端）は180°を超えて延びることがあります。これらの延長部分は、金星が2.5％未満の照明状態（3月16日から29日）のときに探してください。3月22日から23日には金星は1.0％だけ照らされます。\n\n金星は3月18日に太陽の軌道（黄道）から最も北に位置し、8.5°北にあります。これが合の直前に起こるため、金星は太陽の北をかなり離れて通過し、日中に見つけやすく（そして安全に）なります。\n\n非常に鋭い視力があれば、望遠鏡なしでも金星の三日月形を見ることができるかもしれません。人間の目は60秒角（または1分角）ほどの小さな細部を区別できます。金星は3月22日から23日にほぼちょうどそのサイズ（59.5秒角）に達します。\n\n金星が太陽の軌道からかなり北にあるため、中北緯度の観測者は、技術的にはまだ宵の明星であるにもかかわらず、朝の空で金星を見るという珍しい機会があります。3月18日頃に夕方に金星が最後に姿を見せるのを見てください。その後、3月21日には日の出前に金星を探し始めることができますが、地平線上かなり低い位置（「泥の中」）にあります。\nクレジット：Sky & Telescope",
-      "credit": "ボブ・キング（2025年3月12日）",
-      "shortDescription": "金星が夕方の空から朝方の空へ移動する様子を観察する方法",
-      "dateTime": "2025-03-12T00:00:00Z",
-      "endDateTime": "2025-03-23T23:59:59Z",
+      "id": "may-002",
+      "title": "新月 - 星空観測に最適！",
+      "description": "「新月」とは、月が夜空で完全に見えなくなることを意味します！これは月が地球と太陽の間にあり、照らされている部分が見えない時です。\n\n新月は月が地球と太陽の間にあり、私たちから見えなくなる状態です。これにより、月の中で最も暗い空が作られ、星を見るのに最適です！\n\n部屋の電気をすべて消してより良く見えるようにすることを想像してみてください - それが新月が夜空にしてくれることです。月明かりがないため、かすかな星、銀河、そして暗い場所にいれば天の川さえも見ることができます。\n\nこの新月は5月8日に起こり、5月10日にピークを迎えること座流星群の観測に理想的な条件を作り出します。",
+      "shortDescription": "月の最も暗い空！5月8日は星空観測に最適です。",
+      "dateTime": "2025-05-08T03:23:00Z",
+      "endDateTime": "2025-05-08T23:59:59Z",
+      "category": "moon",
+      "priority": 2,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_1.jpg",
+          "type": "main",
+          "altText": "新月時の地球、月、太陽の位置図"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_2.jpg",
+          "type": "map",
+          "altText": "月のない暗い空と天の川"
+        }
+      ],
+      "links": [
+        {
+          "text": "月の満ち欠けについて",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/moon/phases",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "may-003",
+      "title": "こと座η流星群 - 真夜中の星のショー",
+      "description": "この流星群の名前は、こと座の「η星」（こぐま座のη星）と「流星群」（流れ星のこと）から来ています！\n\nこと座η流星群は、みずがめ座η流星群の静かないとこのようなものです。1時間あたり50個の流星の代わりに、1時間あたり約3個の流星が見られるかもしれません。こと座（リラ、たて琴）の方向から現れます。\n\n電子レンジでポップコーンがはじける様子を想像してください - 絶え間ない流れではなく、時々光のバーストが見られます。それでも、それぞれの流星は特別です！\n\n最適な観測時間は5月10日の真夜中以降で、こと座が空高く昇ります。5月8日の新月は、完璧な観測のために空をより暗くしてくれます。",
+      "shortDescription": "こと座からの小さいが美しい流星群、5月10日。",
+      "dateTime": "2025-05-10T00:00:00Z",
+      "endDateTime": "2025-05-10T06:00:00Z",
+      "category": "meteors",
+      "priority": 3,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_lyrid_1.jpg",
+          "type": "main",
+          "altText": "夜空のこと座η流星"
+        }
+      ],
+      "links": [
+        {
+          "text": "空の中のこと座を見つける",
+          "url": "https://skytonight.app/constellations/lyra",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "may-004",
+      "title": "月-火星-プレセペ星団：宇宙の三角形！",
+      "description": "このタイトルを説明しましょう！「合」とは天体が空で近くに見えることを意味します。火星は惑星で、プレセペ星団は蜂が飛び回っているように見える星のグループです！\n\n5月3日〜4日の夜に、空で3つのクールなものが近くに見えます：月、火星、そしてプレセペ星団（蜂の群れのように見える星のグループ）。\n\n空に三角形を描くことを想像してください - それがこれら3つの天体が見える様子です！火星は赤っぽい点として現れ、月はほぼ半月で、双眼鏡を使えばプレセペ星団をぼんやりした星の群れとして見ることができます。\n\nまるで私たちの宇宙の隣人たちがパーティーをしているようです！夕暮れ後の夜空で、かに座の方向を見てください。",
+      "shortDescription": "月、火星、プレセペ星団が5月3日〜4日に一緒に見られます。",
+      "dateTime": "2025-05-03T20:00:00Z",
+      "endDateTime": "2025-05-04T02:00:00Z",
+      "category": "planets",
+      "priority": 3,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/moon_mars_cluster_1.jpg",
+          "type": "main",
+          "altText": "月、火星、プレセペ星団の配置"
+        }
+      ],
+      "links": [
+        {
+          "text": "合とは何ですか？",
+          "url": "https://skytonight.app/guide/conjunctions",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "may-005",
+      "title": "金星：明けの明星が帰ってきた！",
+      "description": "タイトルを解説しましょう！金星は惑星（地球の隣の惑星）で、「明けの明星」とは日の出前に現れることを意味し、「離角」は空で金星が太陽からどれだけ離れているかを表します！\n\n金星がまもなく「明けの明星」に戻ります！通常、金星は夕方の空に見えます（「宵の明星」として）が、5月31日に太陽の東側の最遠点に達します。\n\n金星は、時々あなたと一緒に夜更かししてくれる友人（宵の明星）や、時々早起きしてくれる友人（明けの明星）のようです。今はその夜更かしから朝型に切り替わろうとしています！\n\n金星は空で最も明るい惑星で、時には日中でも見ることができるほど明るいです！日の出の約45分前に、東の空の低い位置を探してください。",
+      "shortDescription": "金星が5月31日に明るい明けの明星として戻ってくるのを見よう。",
+      "dateTime": "2025-05-31T00:00:00Z",
+      "endDateTime": "2025-05-31T23:59:59Z",
       "category": "planets",
       "priority": 2,
-      "expirationDate": "2025-03-24T12:00:00Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_1.jpg",
           "type": "main",
-          "altText": "地球から見た金星"
+          "altText": "空での金星の位置"
         },
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_2.jpg",
-          "type": "photo",
-          "altText": "1年を通じた金星の軌道"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_3.jpg",
           "type": "map",
-          "altText": "宇宙での金星"
+          "altText": "最大離角時の金星を示す図"
         }
       ],
       "links": [
         {
-          "text": "全記事を見る",
-          "url": "https://skyandtelescope.org/observing/venus-evening-to-morning-star-2025",
+          "text": "金星観測ガイド",
+          "url": "https://skytonight.app/planets/venus",
           "isExternal": true
-        },
-        {
-          "text": "観測リマインダーを設定",
-          "url": "planetspotter://reminder?event=venus-conjunction-2025",
-          "isAppLink": true
         }
       ],
       "requiresPremium": false,
       "isHighlighted": true
     },
     {
-      "id": "article-003",
-      "title": "今夜（3月13日～14日）の皆既月食を観察しよう",
-      "description": "素晴らしい皆既月食が今夜、北米と南米、西ヨーロッパ、西アフリカから見えます。\n\n北米の人々にとって、この食は夜遅くに起こります。部分食（地球の影が初めて月に触れる時）は東部夏時間の金曜日午前1時09分に始まります。皆既食（月が完全に地球の影の中に入る時）は東部夏時間の午前2時26分に始まり、午前2時59分に最大となり、午前3時32分に終了します。部分食は東部夏時間の午前4時48分に完全に終了します。\n\n月食の間、地球は太陽と満月の間に直接位置し、私たちの惑星の影を月に投げかけます。月は皆既中（地球の影の中に完全に入っている時間）に銅赤色に変わり、これは約66分間続きます。この赤い色は、地球の大気が太陽光を曲げ、赤以外のほとんどの色をフィルタリングし、赤色だけが月に到達するためです - これはまるで地球上のすべての日の出と日没が一度に月に投影されているようなものです！\n\n月はその軌道上で地球から最も遠い点（アポジーと呼ばれる）の近くにあり、平均的な満月よりも少し小さく見えます（時々「ミニムーン」と呼ばれることもあります）。\n\nこれは2022年以来この地域から見える最初の皆既月食です。月食を観察するために特別な機器は必要ありませんが、双眼鏡や小型望遠鏡があれば、食の間に月の表面上のより多くの詳細を見ることができます。\n\n日食とは異なり、月食は肉眼で見ても完全に安全です。月食を見るために特別な目の保護は必要ありません。\nクレジット：Sky & Telescope",
-      "credit": "Sky & Telescope編集者（2025年3月13日）",
-      "shortDescription": "今夜の皆既月食の観察方法",
-      "dateTime": "2025-03-13T21:00:00Z",
-      "endDateTime": "2025-03-14T09:30:00Z",
-      "category": "eclipse",
-      "priority": 3,
-      "expirationDate": "2025-03-15T12:00:00Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_1.jpg",
-          "type": "main",
-          "altText": "皆既月食の連続画像"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_2.jpg",
-          "type": "map",
-          "altText": "食の可視性を示す世界地図"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_3.jpg",
-          "type": "photo",
-          "altText": "月面上の地球の影"
-        }
-      ],
-      "links": [
-        {
-          "text": "全記事を見る",
-          "url": "https://skyandtelescope.org/observing/total-lunar-eclipse-march-2025",
-          "isExternal": true
-        },
-        {
-          "text": "観測リマインダーを設定",
-          "url": "planetspotter://reminder?event=lunar-eclipse-2025",
-          "isAppLink": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": true
-    },
-    {
-      "id": "article-004",
-      "title": "春分を祝おう - 天文学的な春の始まり",
-      "description": "春分は2025年3月20日、東部夏時間の午前10時33分（UTC 14:33）に起こります。この特別な日は、北半球では天文学的な春の始まり、南半球では秋の始まりを示します。\n\n分点とは正確には何でしょうか？分点の間、太陽は地球の赤道の真上を通過し、地球上のすべての場所にほぼ等しい昼と夜をもたらします - 各約12時間ずつ！「分点」という言葉は実際にはラテン語の「等しい夜」を意味する言葉に由来します。\n\n暦に従う気象学的な季節（春は3月1日に始まる）とは異なり、天文学的な季節は地球の軌道上の位置と軸の傾きに基づいています。私たちの惑星の23.5°の傾きが季節を生み出します。3月の分点では、どちらの半球も太陽に向かって傾いたり、太陽から離れたりしていません。\n\n北半球にいる場合、3月の分点は日の出の時間が早くなり、日没の時間が遅くなり、風が穏やかになり、植物が芽吹き始めることを意味します。6月の至点までは太陽が地平線上で毎日少し北に昇るのに気づき、その後方向が逆転して再び南へ移動し始めます。\n\n分点は世界中の多くの文化で祝われています：\n\n- 日本では、春分（春分の日）は国民の祝日であり、彼岸と呼ばれる7日間の祭りの一部で、人々は家族の墓を訪れ、先祖を敬います。\n\n- イランや多くの中央アジア諸国では、分点はノウルーズ（ペルシャの新年）を示し、これは御馳走、家族訪問、春の大掃除を伴う3000年以上前に遡るお祝いです。\n\n- メキシコのチチェン・イツァの有名なピラミッドを含む多くの古代の記念碑は分点に合わせられており、そこでは沈む太陽が階段に蛇のような影を作り出します。\nクレジット：NASAから適応",
-      "credit": "ジェニファー・A・ハーボー＆ランス・D・デイビス（2025年3月18日）",
-      "shortDescription": "3月20日の春分について学び、この天文学的な出来事を祝う方法",
-      "dateTime": "2025-03-20T14:33:00Z",
-      "endDateTime": "2025-03-20T23:59:59Z",
-      "category": "guide",
+      "id": "may-006",
+      "title": "フラワームーン（マイクロムーン） - 小さめの満月",
+      "description": "5月12日の満月は「フラワームーン」と呼ばれています。これは春の花が咲く時期に起こるからです。この満月は「マイクロムーン」でもあります - 月が地球から遠い位置にあり、通常よりも少し小さく見えます。\n\n1円玉と5円玉を持っているところを想像してください。マイクロムーンと通常の満月の違いは、これらのコインの違いのようなものです。写真を比較しない限り、小さいことにおそらく気づかないでしょう！\n\n月は夜空を美しく照らすことに変わりはなく、特別な装置なしで安全に見ることができます。",
+      "shortDescription": "フラワームーンが5月12日に少し小さめ（マイクロムーン）で現れます。",
+      "dateTime": "2025-05-12T16:56:00Z",
+      "endDateTime": "2025-05-31T23:59:59Z",
+      "category": "moon",
       "priority": 2,
-      "expirationDate": "2025-03-21T12:00:00Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_1.jpg",
           "type": "main",
-          "altText": "春分時の地球"
+          "altText": "月の様々な満ち欠け"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_2.jpg",
-          "type": "map",
-          "altText": "分点時の地球の位置を示す図"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_2.jpg",
           "type": "photo",
-          "altText": "春分の文化的なお祝い"
+          "altText": "マイクロムーンと通常の満月の比較"
         }
       ],
       "links": [
         {
-          "text": "全記事を見る",
-          "url": "https://skyandtelescope.org/observing/vernal-equinox-2025",
-          "isExternal": true
-        },
-        {
-          "text": "観測リマインダーを設定",
-          "url": "planetspotter://reminder?event=vernal-equinox-2025",
-          "isAppLink": true
-        },
-        {
-          "text": "バス天文学者イベント",
-          "url": "https://bathastronomers.org.uk/events/vernal-equinox-2025",
+          "text": "満月の名前について",
+          "url": "https://skytonight.app/moon/names",
           "isExternal": true
         }
       ],
       "requiresPremium": false,
-      "isHighlighted": true
+      "isHighlighted": false
     }
   ],
   "categories": [
     {
       "id": "all",
-      "name": "すべての記事",
+      "name": "すべてのイベント",
       "icon": "star.fill"
     },
     {
-      "id": "guide",
-      "name": "空のガイド",
-      "icon": "calendar"
+      "id": "meteors",
+      "name": "流星群",
+      "icon": "sparkles"
     },
     {
       "id": "planets",
@@ -203,10 +218,9 @@
       "icon": "globe"
     },
     {
-      "id": "eclipse",
-      "name": "日食・月食",
+      "id": "moon",
+      "name": "月の満ち欠け",
       "icon": "moon.circle.fill"
     }
-  ],
-  "acknowledgement": "記事の説明はSky & Telescope誌（www.skyandtelescope.org）とNASAによって公開された資料から適応されています。これらの適応は元のソースに適切に帰属させて教育目的で使用されています。画像や特定のタイミング情報は地元の天文学リソースで確認してください。"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "de",
-  "lastUpdated": "2025-03-14T12:00:00Z",
+  "lastUpdated": "2025-05-02T12:00:00Z",
   "configuration": {
     "refreshIntervalHours": 24,
     "maxEventsToShow": 10,
@@ -9,42 +9,41 @@
   },
   "events": [
     {
-      "id": "article-001",
-      "title": "Der Himmel dieser Woche auf einen Blick, 7.–16. März",
-      "description": "FREITAG, 7. MÄRZ\n\nHeute Abend scheint der Mond, kurz nach dem ersten Viertel (Halbmondform), am Himmel nahe dem Mars und den Zwillingssternen Castor und Pollux. Im Laufe der Nacht scheinen sie alle im Uhrzeigersinn über den Himmel zu rotieren, während sich die Erde dreht.\n\nSAMSTAG, 8. MÄRZ\n\nDer Mond bewegt sich heute Abend näher zum Mars und den Zwillingssternen. Beobachten Sie, wie der Mond seine Position im Vergleich zu den Hintergrundsternen im Laufe der Stunden verändert. Der Mond bewegt sich in seiner Umlaufbahn etwa um seine eigene Breite pro Stunde nach Osten.\n\nDie Sommerzeit beginnt am Sonntagmorgen, dem 9. März, um 2:00 Uhr. Denken Sie daran, Ihre Uhren eine Stunde vorzustellen (\"spring ahead\").\n\nSONNTAG, 9. MÄRZ\n\nDer Frühling ist noch ein paar Wochen entfernt, aber der helle Frühlingsstern Arktur geht bereits gegen 21 Uhr im Ostnordosten auf. Um ihn zu finden, suchen Sie nach dem Großen Wagen hoch im Nordosten, dann folgen Sie der Kurve seines Griffs nach unten und rechts.\n\nMONTAG, 10. MÄRZ\n\nMars, Pollux und Castor im Sternbild Gemini [die Zwillinge] ziehen nach Einbruch der Dunkelheit fast direkt über den Kopf, wenn Sie in den mittleren nördlichen Breiten leben [Gebiete wie der nördliche Teil der Vereinigten Staaten oder Mitteleuropa]. Mars ist der hellste der drei und hat eine rötliche Farbe.\n\nDIENSTAG, 11. MÄRZ\n\nDer Mond erscheint heute Abend nahe dem hellen Stern Regulus. Beobachten Sie, wie sie im Laufe der Nacht näher zusammenrücken und bis zum frühen Morgengrauen nur 1° auseinander liegen (etwa die Breite Ihres kleinen Fingers, wenn Sie ihn auf Armlänge halten).\n\nDer Stern Algol wird gegen 23:37 Uhr EDT am dunkelsten sein. Algol ist ein besonderer Stern, der regelmäßig seine Helligkeit ändert, weil es sich eigentlich um zwei Sterne handelt, die sich aus unserer Sicht auf der Erde gegenseitig verdunkeln.\n\nMITTWOCH, 12. MÄRZ\n\nDer helle Sirius (der hellste Stern an unserem Nachthimmel) steht jetzt bei Einbruch der Dunkelheit genau im Süden. Sirius bildet den unteren Punkt des Winterdreiecks. Die anderen beiden Sterne des Dreiecks sind der orangefarbene Beteigeuze (rechts oben von Sirius) und Prokyon (links oben von Sirius).\n\nDONNERSTAG, 13. MÄRZ\n\nHeute Abend wird eine totale Mondfinsternis zu sehen sein, die von Nord- und Südamerika, Westeuropa und Westafrika aus beobachtet werden kann.\n\nFür Menschen in Nordamerika findet die Finsternis spät in der Nacht statt. Die partielle Finsternis (wenn der Schatten der Erde beginnt, den Mond zu bedecken) beginnt um 1:09 Uhr am Freitagmorgen EDT. Die totale Finsternis (wenn der Mond vollständig im Schatten der Erde steht) beginnt um 2:26 Uhr EDT, erreicht ihren Mittelpunkt um 2:59 Uhr EDT und endet um 3:32 Uhr EDT. Die partielle Finsternis endet um 4:48 Uhr EDT.\n\nFREITAG, 14. MÄRZ\n\nDer Vollmond geht heute in der Dämmerung auf. Wenn er nach Einbruch der Dunkelheit höher steigt, schauen Sie unter ihm nach dem hellen Stern Spica.\n\nAlgol wird heute Abend wieder am dunkelsten sein, gegen 20:26 Uhr EDT.\n\nSAMSTAG, 15. MÄRZ\n\nHeute Abend geht der Mond (der nun anfängt abzunehmen oder zu schrumpfen) gegen Ende der Dämmerung auf, mit dem Stern Spica weniger als eine Faustbreite darunter, wenn man die Faust auf Armlänge hält.\n\nSONNTAG, 16. MÄRZ\n\nDer Mond nimmt weiter ab und geht nun etwa eine Stunde nach völliger Dunkelheit auf, wobei Spica ihm am Himmel folgt.\nQuelle: Sky & Telescope",
-      "credit": "Von Alan MacRobert (7. März 2025)",
-      "shortDescription": "Ihr wöchentlicher Leitfaden zur Beobachtung der Sterne und Planeten vom 7. bis 16. März",
-      "dateTime": "2025-03-07T00:00:00Z",
-      "endDateTime": "2025-03-16T23:59:59Z",
-      "category": "guide",
+      "id": "may-001",
+      "title": "Eta-Aquariden Meteorschauer - Sternschnuppen von Halley's Komet!",
+      "description": "Der Name klingt vielleicht kompliziert, aber lassen Sie uns das aufschlüsseln! 'Eta-Aquariden' kommt vom Sternbild Wassermann (der Wasserträger) und dem Stern Eta Aquarii, von wo die Meteore zu kommen scheinen. 'Meteorschauer' bedeutet, dass viele Sternschnuppen auf einmal erscheinen!\n\nDie Eta-Aquariden sind wie Feuerwerk am Himmel! Diese Meteore stammen von winzigen Eis- und Staubpartikeln, die von Halley's Komet (ja, dem berühmten!) übriggeblieben sind. Wenn die Erde durch diese Trümmerspur zieht, verglühen diese Partikel in unserer Atmosphäre und erzeugen wunderschöne Lichtstreifen am Himmel.\n\nStellen Sie sich das so vor: Wenn Sie durch den Regen fahren, treffen Regentropfen auf Ihre Windschutzscheibe, richtig? Ähnlich trifft die Erde auf ihrer Reise durch den Weltraum auf diese winzigen Kometenteilchen, und sie verglühen wie Sternschnuppen!\n\nDieser Schauer kann auf seinem Höhepunkt 50-60 Meteore pro Stunde produzieren - das ist fast einer pro Minute! Die beste Beobachtungszeit ist vor Sonnenaufgang am 6. Mai. Im Jahr 2025 wird der Mond vor dem Morgen untergehen und uns einen schönen dunklen Himmel zur Beobachtung bieten.\n\nUm sie zu sehen: Finden Sie einen dunklen Ort fernab von Stadtlichtern, bringen Sie eine Decke oder einen Stuhl zum Hinlegen mit und schauen Sie Richtung Osten zum Sternbild Wassermann. Kein Teleskop nötig - nur Ihre Augen!",
+      "shortDescription": "Sehen Sie Sternschnuppen von Halley's Komet! Bis zu 50-60 Meteore pro Stunde am 6. Mai.",
+      "dateTime": "2025-05-05T03:00:00Z",
+      "endDateTime": "2025-05-06T09:00:00Z",
+      "category": "meteors",
       "priority": 1,
-      "expirationDate": "2025-03-17T12:00:00Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_1.jpg",
           "type": "main",
-          "altText": "Woche 1 Himmel"
+          "altText": "Himmelskarte mit dem Sternbild Wassermann"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_2.jpg",
-          "type": "map",
-          "altText": "Woche 2 Himmel"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_2.jpg",
           "type": "photo",
-          "altText": "Woche 3 Himmel"
+          "altText": "Himmelskarte mit dem Sternbild Wassermann"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_3.jpg",
+          "type": "map",
+          "altText": "Mehrere Meteorspuren"
         }
       ],
       "links": [
         {
-          "text": "Vollständigen Artikel ansehen",
-          "url": "https://skyandtelescope.org/observing/this-weeks-sky-at-a-glance-march-7-16-2025",
+          "text": "Mehr über Meteorschauer erfahren",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/meteors/learn",
           "isExternal": true
         },
         {
-          "text": "Beobachtungserinnerungen einstellen",
-          "url": "planetspotter://calendar?week=mar7-16-2025",
+          "text": "Beobachtungserinnerung einstellen",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/skytonight://reminder?event=eta-aquariids-2025",
           "isAppLink": true
         }
       ],
@@ -52,150 +51,166 @@
       "isHighlighted": true
     },
     {
-      "id": "article-002",
-      "title": "Venus wechselt vom Abend- zum Morgenstern",
-      "description": "Die Venus ist im Begriff, aus unserem Abendhimmel zu verschwinden. Wenn Sie diesen hellen Planeten in letzter Zeit nicht betrachtet haben, läuft Ihnen die Zeit davon! Am 12. März wird die Venus nur noch knapp 18° von der Sonne entfernt sein (diese Entfernung wird als Elongation bezeichnet) und sich täglich um mehr als 1° der Sonne nähern. Während sich die Venus entfernt, wird sie in der Nähe des Merkurs erscheinen. Die beiden inneren Planeten werden am 12. März am nächsten beieinander sein (5,5° Abstand).\n\nAm 23. März wird die Venus zwischen der Erde und der Sonne hindurchgehen (untere Konjunktion genannt) und dann in den Morgenhimmel wechseln, wobei sie vom \"Abendstern\" zum \"Morgenstern\" wird. Die alten Römer nannten die Venus \"Lucifer\", wenn sie am Morgen zu sehen war, und \"Vesper\", wenn sie am Abend sichtbar war.\n\nNormalerweise ist die Venus für etwa eine Woche um die Konjunktion herum im Glanz der Sonne verborgen. Während dieser Zeit könnten vorsichtige Beobachter versuchen, sie bei Tageslicht mit Teleskopen zu erspähen, wobei sie sehr darauf achten müssen, nicht in die Sonne zu schauen. Wenn die Venus der Erde am nächsten ist, erscheint sie in Teleskopen am größten und zeigt eine extrem dünne Sichelform.\n\nUm die Konjunktion herum, wenn die Venus fast in der gleichen Richtung wie die Sonne erscheint, können sich die Spitzen (oder Hörner) der Venussichel über 180° hinaus erstrecken, weil das Sonnenlicht durch die Atmosphäre der Venus gebeugt wird. Achten Sie auf diese Verlängerungen, wenn die Venus weniger als 2,5% beleuchtet ist (vom 16. bis 29. März). Die Venus wird am 22. und 23. März nur zu 1,0% beleuchtet sein.\n\nDie Venus wird am 18. März ihren nördlichsten Punkt vom Pfad der Sonne (der Ekliptik) erreichen und sich 8,5° nördlich befinden. Da dies kurz vor der Konjunktion geschieht, wird die Venus weit nördlich der Sonne vorbeiziehen, was es leichter (und sicherer) macht, sie bei Tageslicht zu erspähen.\n\nWenn Sie eine sehr scharfe Sehkraft haben, könnten Sie sogar in der Lage sein, die Sichelform der Venus ohne Teleskop zu sehen. Das menschliche Auge kann Details so klein wie 60 Bogensekunden (oder 1 Bogenminute) unterscheiden. Die Venus erreicht am 22. und 23. März fast genau diese Größe (59,5 Bogensekunden).\n\nDa die Venus so weit nördlich vom Pfad der Sonne steht, haben Beobachter in mittleren nördlichen Breiten eine seltene Chance, die Venus am Morgenhimmel zu sehen, während sie technisch gesehen noch der Abendstern ist. Schauen Sie nach dem letzten Erscheinen der Venus am Abend um den 18. März. Dann können Sie am 21. März anfangen, nach ihr vor Sonnenaufgang zu suchen, aber sie wird sehr tief am Horizont sein (\"im Schlamm\").\nQuelle: Sky & Telescope",
-      "credit": "Von Bob King (12. März 2025)",
-      "shortDescription": "Wie man die Venus beobachtet, wenn sie vom Abend- zum Morgenhimmel wechselt",
-      "dateTime": "2025-03-12T00:00:00Z",
-      "endDateTime": "2025-03-23T23:59:59Z",
+      "id": "may-002",
+      "title": "Neumond - Perfekt für Sternbeobachtung!",
+      "description": "'Neumond' bedeutet, dass der Mond am Nachthimmel völlig unsichtbar ist! Es ist der Zeitpunkt, wenn der Mond zwischen Erde und Sonne steht, sodass wir die beleuchtete Seite nicht sehen können.\n\nDer Neumond ist der Moment, wenn der Mond zwischen Erde und Sonne steht und für uns unsichtbar ist. Dies schafft die dunkelsten Himmel des Monats - perfekt für die Sternbeobachtung!\n\nStellen Sie sich vor, Sie schalten alle Lichter in Ihrem Zimmer aus, um besser zu sehen - genau das macht der Neumond für den Nachthimmel. Ohne Mondlicht können wir schwächere Sterne, Galaxien und sogar die Milchstraße sehen, wenn Sie an einem dunklen Ort sind.\n\nDieser Neumond ereignet sich am 8. Mai und schafft ideale Bedingungen zur Beobachtung des Eta-Lyriden-Meteorschauers (der am 10. Mai seinen Höhepunkt erreicht).",
+      "shortDescription": "Dunkelster Himmel des Monats! Perfekt für Sternbeobachtung am 8. Mai.",
+      "dateTime": "2025-05-08T03:23:00Z",
+      "endDateTime": "2025-05-08T23:59:59Z",
+      "category": "moon",
+      "priority": 2,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_1.jpg",
+          "type": "main",
+          "altText": "Diagramm der Positionen von Erde, Mond und Sonne bei Neumond"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_2.jpg",
+          "type": "map",
+          "altText": "Dunkler Himmel ohne Mond, die Milchstraße zeigend"
+        }
+      ],
+      "links": [
+        {
+          "text": "Mondphasen erklärt",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/moon/phases",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "may-003",
+      "title": "Eta-Lyriden Meteorschauer - Mitternächtliche Himmelsshow",
+      "description": "Der Name dieses Schauers stammt von 'Eta Lyrae' (einem Stern im Sternbild Leier) und 'Meteorschauer', was fallende Sterne bedeutet!\n\nDie Eta-Lyriden sind wie der ruhigere Cousin der Eta-Aquariden. Anstatt 50 Meteore pro Stunde könnten Sie etwa 3 Meteore pro Stunde sehen. Sie stammen aus dem Sternbild Leier (die Harfe).\n\nStellen Sie sich das wie Popcorn in der Mikrowelle vor - anstatt eines konstanten Stroms sehen Sie gelegentliche Lichtausbrüche. Jeder Meteor ist trotzdem etwas Besonderes!\n\nDie beste Beobachtungszeit ist nach Mitternacht am 10. Mai, wenn das Sternbild Leier hoch am Himmel steht. Der Neumond am 8. Mai bedeutet, dass der Himmel extra dunkel für perfekte Beobachtung sein wird.",
+      "shortDescription": "Kleinerer aber schöner Meteorschauer vom Sternbild Leier, 10. Mai.",
+      "dateTime": "2025-05-10T00:00:00Z",
+      "endDateTime": "2025-05-10T06:00:00Z",
+      "category": "meteors",
+      "priority": 3,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_lyrid_1.jpg",
+          "type": "main",
+          "altText": "Eta-Lyriden-Meteor über dem Nachthimmel"
+        }
+      ],
+      "links": [
+        {
+          "text": "Leier am Himmel finden",
+          "url": "https://skytonight.app/constellations/lyra",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "may-004",
+      "title": "Mond-Mars-Bienenstock-Haufen: Ein kosmisches Dreieck!",
+      "description": "Lassen Sie mich diesen Titel erklären! 'Konjunktion' bedeutet, dass Himmelsobjekte am Himmel nahe beieinander erscheinen. Mars ist ein Planet, und der Bienenstock-Haufen ist eine Gruppe von Sternen, die so genannt wird, weil sie wie Bienen aussieht, die herumschwirren!\n\nIn der Nacht vom 3. auf den 4. Mai werden Sie drei coole Dinge eng beieinander am Himmel sehen: den Mond, Mars und den Bienenstock-Haufen (eine Gruppe von Sternen, die wie ein Schwarm Bienen aussieht).\n\nStellen Sie sich vor, Sie zeichnen ein Dreieck am Himmel - so werden diese drei Objekte aussehen! Mars wird als rötlicher Punkt erscheinen, der Mond wird fast halbvoll sein, und mit einem Fernglas können Sie den Bienenstock-Haufen als verschwommenen Fleck von Sternen sehen.\n\nEs ist, als hätten unsere kosmischen Nachbarn eine Party! Schauen Sie abends nach Sonnenuntergang ins Sternbild Krebs.",
+      "shortDescription": "Sehen Sie Mond, Mars und Bienenstock-Haufen zusammen am 3.-4. Mai.",
+      "dateTime": "2025-05-03T20:00:00Z",
+      "endDateTime": "2025-05-04T02:00:00Z",
+      "category": "planets",
+      "priority": 3,
+      "expirationDate": "2025-05-31T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/moon_mars_cluster_1.jpg",
+          "type": "main",
+          "altText": "Anordnung von Mond, Mars und Bienenstock-Haufen"
+        }
+      ],
+      "links": [
+        {
+          "text": "Was sind Konjunktionen?",
+          "url": "https://skytonight.app/guide/conjunctions",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "may-005",
+      "title": "Venus: Der Morgenstern kehrt zurück!",
+      "description": "Lassen Sie uns den Titel aufschlüsseln! Venus ist ein Planet (Nachbar der Erde), 'Morgenstern' bedeutet, dass er vor Sonnenaufgang erscheint, und 'Elongation' beschreibt, wie weit Venus von der Sonne in unserem Himmel entfernt ist!\n\nVenus wird wieder zum 'Morgenstern'! Normalerweise sehen wir Venus am Abendhimmel (als 'Abendstern'), aber am 31. Mai erreicht sie ihren östlichsten Punkt von der Sonne.\n\nStellen Sie sich Venus wie einen Freund vor, der manchmal lange mit Ihnen aufbleibt (Abendstern) und manchmal früh aufsteht (Morgenstern). Gerade jetzt wechselt sie von ihrer Abend- zu ihrer Morgenroutine!\n\nVenus ist der hellste Planet an unserem Himmel - so hell, dass man sie manchmal sogar am Tag sehen kann! Suchen Sie sie tief am östlichen Himmel etwa 45 Minuten vor Sonnenaufgang.",
+      "shortDescription": "Beobachten Sie Venus als hellen Morgenstern am 31. Mai.",
+      "dateTime": "2025-05-31T00:00:00Z",
+      "endDateTime": "2025-05-31T23:59:59Z",
       "category": "planets",
       "priority": 2,
-      "expirationDate": "2025-03-24T12:00:00Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_1.jpg",
           "type": "main",
-          "altText": "Venus von der Erde aus gesehen"
+          "altText": "Venus-Positionen am Himmel"
         },
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_2.jpg",
-          "type": "photo",
-          "altText": "Venusbahn im Jahresverlauf"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_3.jpg",
           "type": "map",
-          "altText": "Venus im Weltraum"
+          "altText": "Diagramm der Venus bei größter Elongation"
         }
       ],
       "links": [
         {
-          "text": "Vollständigen Artikel ansehen",
-          "url": "https://skyandtelescope.org/observing/venus-evening-to-morning-star-2025",
+          "text": "Venus-Beobachtungsführer",
+          "url": "https://skytonight.app/planets/venus",
           "isExternal": true
-        },
-        {
-          "text": "Beobachtungserinnerung einstellen",
-          "url": "planetspotter://reminder?event=venus-conjunction-2025",
-          "isAppLink": true
         }
       ],
       "requiresPremium": false,
       "isHighlighted": true
     },
     {
-      "id": "article-003",
-      "title": "Beobachten Sie die totale Mondfinsternis heute Abend (13.-14. März)",
-      "description": "Eine erstaunliche totale Mondfinsternis wird heute Abend in Nord- und Südamerika, Westeuropa und Westafrika zu sehen sein.\n\nFür Menschen in Nordamerika findet die Finsternis spät in der Nacht statt. Die partielle Finsternis (wenn der Schatten der Erde den Mond zum ersten Mal berührt) beginnt um 1:09 Uhr am Freitagmorgen EDT. Die totale Finsternis (wenn der Mond vollständig im Schatten der Erde steht) beginnt um 2:26 Uhr EDT, erreicht ihren Mittelpunkt um 2:59 Uhr EDT und endet um 3:32 Uhr EDT. Die partielle Finsternis endet vollständig um 4:48 Uhr EDT.\n\nWährend einer Mondfinsternis positioniert sich die Erde direkt zwischen der Sonne und dem Vollmond und wirft den Schatten unseres Planeten auf den Mond. Der Mond nimmt während der Totalität (der Zeit, in der er vollständig im Erdschatten steht) eine kupferrote Farbe an, die etwa 66 Minuten dauert. Diese rote Farbe entsteht, weil die Erdatmosphäre das Sonnenlicht bricht und die meisten Farben herausfiltert, außer Rot, das den Mond erreicht - es ist, als würden alle Sonnenauf- und -untergänge der Erde gleichzeitig auf den Mond projiziert!\n\nDer Mond wird sich in der Nähe seines am weitesten von der Erde entfernten Punktes in seiner Umlaufbahn (Apogäum genannt) befinden, wodurch er etwas kleiner erscheint als ein durchschnittlicher Vollmond (manchmal als \"Minimond\" bezeichnet).\n\nDies ist die erste totale Mondfinsternis, die seit 2022 in dieser Region sichtbar ist. Sie benötigen keine spezielle Ausrüstung, um eine Mondfinsternis zu beobachten, aber ein Fernglas oder ein kleines Teleskop ermöglichen es Ihnen, mehr Details auf der Mondoberfläche während der Finsternis zu sehen.\n\nIm Gegensatz zu Sonnenfinsternissen sind Mondfinsternisse völlig ungefährlich für die Betrachtung mit bloßem Auge. Sie benötigen keinen speziellen Augenschutz, um eine Mondfinsternis zu betrachten.\nQuelle: Sky & Telescope",
-      "credit": "Von Sky & Telescope Redakteuren (13. März 2025)",
-      "shortDescription": "Wie man die heutige totale Mondfinsternis beobachtet",
-      "dateTime": "2025-03-13T21:00:00Z",
-      "endDateTime": "2025-03-14T09:30:00Z",
-      "category": "eclipse",
-      "priority": 3,
-      "expirationDate": "2025-03-15T12:00:00Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_1.jpg",
-          "type": "main",
-          "altText": "Sequenz der totalen Mondfinsternis"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_2.jpg",
-          "type": "map",
-          "altText": "Weltkarte mit Sichtbarkeit der Finsternis"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_3.jpg",
-          "type": "photo",
-          "altText": "Erdschatten auf der Mondoberfläche"
-        }
-      ],
-      "links": [
-        {
-          "text": "Vollständigen Artikel ansehen",
-          "url": "https://skyandtelescope.org/observing/total-lunar-eclipse-march-2025",
-          "isExternal": true
-        },
-        {
-          "text": "Beobachtungserinnerung einstellen",
-          "url": "planetspotter://reminder?event=lunar-eclipse-2025",
-          "isAppLink": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": true
-    },
-    {
-      "id": "article-004",
-      "title": "Feiern Sie die Frühlingstagundnachtgleiche - Den astronomischen Frühlingsanfang",
-      "description": "Die Frühlingstagundnachtgleiche findet am 20. März 2025 um 10:33 Uhr EDT (14:33 UTC) statt. Dieser besondere Tag markiert den astronomischen Beginn des Frühlings auf der Nordhalbkugel und des Herbstes auf der Südhalbkugel.\n\nWas genau ist eine Tagundnachtgleiche? Während der Tagundnachtgleiche passiert die Sonne direkt über dem Äquator der Erde und bringt fast gleiche Mengen an Tag und Nacht in alle Teile unseres Planeten - etwa 12 Stunden jeweils! Das Wort \"Äquinoktium\" (Tagundnachtgleiche) stammt tatsächlich aus lateinischen Wörtern, die \"gleiche Nacht\" bedeuten.\n\nIm Gegensatz zu meteorologischen Jahreszeiten, die dem Kalender folgen (wo der Frühling am 1. März beginnt), basieren astronomische Jahreszeiten auf der Position der Erde in ihrer Umlaufbahn und der Neigung ihrer Achse. Die 23,5°-Neigung unseres Planeten ist es, die uns unsere Jahreszeiten gibt. Während der März-Tagundnachtgleiche ist keine der Hemisphären zur Sonne hin oder von ihr weg geneigt.\n\nWenn Sie sich auf der Nordhalbkugel befinden, bringt die März-Tagundnachtgleiche frühere Sonnenaufgänge, spätere Sonnenuntergänge, sanftere Winde und knospende Pflanzen mit sich. Sie werden bemerken, dass die Sonne jeden Tag ein bisschen weiter nördlich am Horizont aufgeht, bis zur Juni-Sonnenwende, wenn sie die Richtung ändert und wieder beginnt, sich nach Süden zu bewegen.\n\nDie Tagundnachtgleiche wird in vielen Kulturen rund um die Welt gefeiert:\n\n- In Japan ist die Frühlingstagundnachtgleiche (Shunbun no Hi) ein nationaler Feiertag und Teil eines siebentägigen Festes namens Higan, bei dem die Menschen Familiengräber besuchen und ihre Vorfahren ehren.\n\n- Im Iran und vielen zentralasiatischen Ländern markiert die Tagundnachtgleiche Nowruz (Persisches Neujahr), eine Feier, die mehr als 3.000 Jahre zurückreicht, mit Festessen, Familienbesuchen und Frühjahrsputz.\n\n- Viele antike Monumente richten sich nach den Tagundnachtgleichen, darunter die berühmte Pyramide in Chichen Itza in Mexiko, wo die untergehende Sonne einen schlangenähnlichen Schatten auf den Stufen erzeugt.\nQuelle: Adaptiert von der NASA",
-      "credit": "Von Jennifer A. Harbaugh & Lance D. Davis (18. März 2025)",
-      "shortDescription": "Erfahren Sie mehr über die Frühlingstagundnachtgleiche am 20. März und wie Sie dieses astronomische Ereignis feiern können",
-      "dateTime": "2025-03-20T14:33:00Z",
-      "endDateTime": "2025-03-20T23:59:59Z",
-      "category": "guide",
+      "id": "may-006",
+      "title": "Blumenmond (Mikromond) - Ein kleinerer Vollmond",
+      "description": "Der Vollmond am 12. Mai wird 'Blumenmond' genannt, weil er während der Frühlingsblüte stattfindet. Dieser hier ist auch ein 'Mikromond' - wenn der Mond weiter von der Erde entfernt ist und dadurch etwas kleiner erscheint als üblich.\n\nStellen Sie sich zwei Münzen vor - einen Pfennig und einen Fünfziger. Der Unterschied zwischen einem Mikromond und einem normalen Vollmond ist wie der Unterschied zwischen diesen Münzen. Sie werden wahrscheinlich nicht bemerken, dass er kleiner ist, es sei denn, Sie vergleichen Fotos!\n\nDer Mond wird den Nachthimmel trotzdem wunderschön erhellen, und er kann ohne spezielle Ausrüstung beobachtet werden.",
+      "shortDescription": "Vollmond Blumenmond erscheint etwas kleiner am 12. Mai (Mikromond).",
+      "dateTime": "2025-05-12T16:56:00Z",
+      "endDateTime": "2025-05-31T23:59:59Z",
+      "category": "moon",
       "priority": 2,
-      "expirationDate": "2025-03-21T12:00:00Z",
+      "expirationDate": "2025-05-31T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_1.jpg",
           "type": "main",
-          "altText": "Erde während der Frühlingstagundnachtgleiche"
+          "altText": "Verschiedene Mondphasen"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_2.jpg",
-          "type": "map",
-          "altText": "Diagramm, das die Position der Erde während der Tagundnachtgleiche zeigt"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_2.jpg",
           "type": "photo",
-          "altText": "Kulturelle Feiern der Frühlingstagundnachtgleiche"
+          "altText": "Vergleich zwischen Mikromond und normalem Vollmond"
         }
       ],
       "links": [
         {
-          "text": "Vollständigen Artikel ansehen",
-          "url": "https://skyandtelescope.org/observing/vernal-equinox-2025",
-          "isExternal": true
-        },
-        {
-          "text": "Beobachtungserinnerung einstellen",
-          "url": "planetspotter://reminder?event=vernal-equinox-2025",
-          "isAppLink": true
-        },
-        {
-          "text": "Veranstaltung der Bath Astronomen",
-          "url": "https://bathastronomers.org.uk/events/vernal-equinox-2025",
+          "text": "Vollmond-Namen erklärt",
+          "url": "https://skytonight.app/moon/names",
           "isExternal": true
         }
       ],
       "requiresPremium": false,
-      "isHighlighted": true
+      "isHighlighted": false
     }
   ],
   "categories": [
     {
       "id": "all",
-      "name": "Alle Artikel",
+      "name": "Alle Ereignisse",
       "icon": "star.fill"
     },
     {
-      "id": "guide",
-      "name": "Himmelsleitfäden",
-      "icon": "calendar"
+      "id": "meteors",
+      "name": "Meteorschauer",
+      "icon": "sparkles"
     },
     {
       "id": "planets",
@@ -203,10 +218,9 @@
       "icon": "globe"
     },
     {
-      "id": "eclipse",
-      "name": "Finsternisse",
+      "id": "moon",
+      "name": "Mondphasen",
       "icon": "moon.circle.fill"
     }
-  ],
-  "acknowledgement": "Artikelbeschreibungen adaptiert aus Materialien, die von Sky & Telescope Magazin (www.skyandtelescope.org) und NASA veröffentlicht wurden. Diese Adaptionen werden für Bildungszwecke mit ordnungsgemäßer Zuschreibung an die Originalquellen verwendet. Bilder und spezifische Zeitinformationen sollten mit lokalen astronomischen Ressourcen verifiziert werden."
+  ]
 }
