@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "en",
-  "lastUpdated": "2025-05-02T12:00:00Z",
+  "lastUpdated": "2025-05-30T12:00:00Z",
   "configuration": {
     "refreshIntervalHours": 24,
     "maxEventsToShow": 10,
@@ -9,41 +9,41 @@
   },
   "events": [
     {
-      "id": "may-001",
-      "title": "Eta Aquariid Meteor Shower - Star Shower from Halley's Comet!",
-      "description": "The name might sound complicated, but let's break it down! 'Eta Aquariid' comes from the constellation Aquarius (the Water Bearer) and the star Eta Aquarii where the meteors seem to come from. 'Meteor Shower' means lots of shooting stars appearing at once!\n\nThe Eta Aquariids are like fireworks in the sky! These meteors come from tiny pieces of ice and dust left behind by Halley's Comet (yes, the famous one!). When Earth passes through this debris trail, these particles burn up in our atmosphere, creating beautiful streaks of light across the sky.\n\nThink of it like this: When you drive through rain, raindrops hit your windshield, right? Similarly, as Earth moves through space, it hits these tiny comet particles, and they burn up like shooting stars!\n\nThis shower can produce 50-60 meteors per hour at its peak - that's almost one every minute! The best viewing time is before dawn on May 6th. In 2025, the Moon will set before morning, giving us nice dark skies for watching.\n\nTo see them: Find a dark spot away from city lights, bring a blanket or chair to lie back on, and look toward the constellation Aquarius in the eastern sky. No telescope needed - just your eyes!",
-      "shortDescription": "See shooting stars from Halley's Comet! Up to 50-60 meteors per hour peak on May 6th.",
-      "dateTime": "2025-05-05T03:00:00Z",
-      "endDateTime": "2025-05-06T09:00:00Z",
-      "category": "meteors",
+      "id": "june-001",
+      "title": "Venus at Greatest Western Elongation - Morning Star Returns!",
+      "description": "Venus is about to become the brightest 'Morning Star' you can see! On June 1st, Venus reaches its greatest western elongation - that's a fancy way of saying it's at its farthest point from the Sun in our morning sky.\n\nThink of Venus like a friend who sometimes stays up late with you (Evening Star) and sometimes gets up early (Morning Star). Right now, it's switching from its evening routine to its morning one!\n\nVenus will be 46 degrees away from the Sun - that's about the width of four and a half fists held at arm's length! This makes it perfect for viewing because it's far enough from the Sun's glare.\n\nAt magnitude -4.4, Venus is so bright you can sometimes even see it during the day! Look for it low in the eastern sky about 45 minutes before sunrise. It will appear as a brilliant white 'star' that doesn't twinkle like real stars do.\n\nThis is the start of an amazing 7-month period where Venus will grace our morning skies until late 2025. Don't miss this chance to see our neighboring planet at its most spectacular!",
+      "shortDescription": "Venus becomes the brilliant Morning Star on June 1st - brightest at magnitude -4.4!",
+      "dateTime": "2025-06-01T04:00:00Z",
+      "endDateTime": "2025-06-01T10:00:00Z",
+      "category": "planets",
       "priority": 1,
-      "expirationDate": "2025-05-31T23:59:59Z",
+      "expirationDate": "2025-06-30T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_elongation_1.jpg",
           "type": "main",
-          "altText": "Sky map showing the Aquarius constellation"
+          "altText": "Venus at greatest western elongation diagram showing morning sky position"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_2.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_elongation_2.jpg",
           "type": "photo",
-          "altText": "Sky map showing the Aquarius constellation"
+          "altText": "Venus shining brightly in the eastern morning sky"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_elongation_3.jpg",
           "type": "map",
-          "altText": "Multiple meteor trails"
+          "altText": "Sky map showing Venus position relative to sunrise"
         }
       ],
       "links": [
         {
-          "text": "Learn more about meteor showers",
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/meteors/learn",
+          "text": "Learn about Venus phases",
+          "url": "https://skytonight.app/planets/venus",
           "isExternal": true
         },
         {
           "text": "Set viewing reminder",
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/skytonight://reminder?event=eta-aquariids-2025",
+          "url": "skytonight://reminder?event=venus-elongation-2025",
           "isAppLink": true
         }
       ],
@@ -51,176 +51,214 @@
       "isHighlighted": true
     },
     {
-      "id": "may-002",
-      "title": "New Moon - Perfect for Stargazing!",
-      "description": "The 'New Moon' means the Moon is completely invisible in the night sky! It's when the Moon is between Earth and the Sun, so we can't see the part that's lit up.\n\nThe New Moon is when the Moon is between Earth and the Sun, making it invisible to us. This creates the darkest skies of the month - perfect for watching stars!\n\nImagine turning off all the lights in your room to see better - that's what the New Moon does for the night sky. Without moonlight, we can see fainter stars, galaxies, and even the Milky Way if you're in a dark area.\n\nThis New Moon happens on May 8th, creating ideal conditions for watching the Eta Lyrid meteor shower (which peaks on May 10th).",
-      "shortDescription": "Darkest skies of the month! Perfect for stargazing on May 8th.",
-      "dateTime": "2025-05-08T03:23:00Z",
-      "endDateTime": "2025-05-08T23:59:59Z",
+      "id": "june-002",
+      "title": "Strawberry Full Moon - The Most Extreme Moon in 18 Years!",
+      "description": "Get ready for something truly special! The June 11th Full Moon isn't just any ordinary Full Moon - it's the Strawberry Moon, and it's the most extreme Full Moon we'll see until 2043!\n\nWhy is it called the 'Strawberry Moon'? Native American tribes named it this because it coincided with strawberry harvesting season. In Europe, it's also called the Rose Moon or Honey Moon because of the warm, golden colors it displays.\n\nWhat makes this Moon so extreme? In the Northern Hemisphere, this will be the LOWEST Full Moon in 18.6 years! It will hang very close to the horizon, making it appear:\n- Orange or golden colored (due to atmospheric filtering)\n- Larger than normal (the Moon illusion effect)\n- Perfect for photography with landscapes\n\nIn the Southern Hemisphere, it's the opposite - this will be the highest and brightest Full Moon of the year!\n\nThe best viewing time is just after moonrise when it's low on the horizon. Look for it in the southeastern sky. Even though it appears huge and orange, it's not technically a 'Supermoon' - that's just an optical illusion caused by its low position.\n\nThis is a rare treat that combines the beauty of a Full Moon with the special atmospheric effects that make it truly unforgettable!",
+      "shortDescription": "The lowest Full Moon in 18 years! Golden Strawberry Moon on June 11th.",
+      "dateTime": "2025-06-11T07:44:00Z",
+      "endDateTime": "2025-06-11T23:59:59Z",
+      "category": "moon",
+      "priority": 1,
+      "expirationDate": "2025-06-30T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/strawberry_moon_1.jpg",
+          "type": "main",
+          "altText": "Golden orange Strawberry Moon low on the horizon"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/strawberry_moon_2.jpg",
+          "type": "photo",
+          "altText": "Comparison showing moon illusion effect near horizon"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/strawberry_moon_3.jpg",
+          "type": "map",
+          "altText": "Moon path diagram showing low trajectory"
+        }
+      ],
+      "links": [
+        {
+          "text": "Why do moons appear orange?",
+          "url": "https://skytonight.app/moon/colors",
+          "isExternal": true
+        },
+        {
+          "text": "Moon photography tips",
+          "url": "https://skytonight.app/photography/moon",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "june-003",
+      "title": "June Solstice - Summer Begins! (Or Winter Down Under)",
+      "description": "The June Solstice on June 21st is one of the most important astronomical events of the year! But what exactly is a solstice?\n\nImagine Earth like a spinning top that's slightly tilted. As Earth orbits the Sun, sometimes the Northern Hemisphere tilts toward the Sun, and sometimes away from it. The solstice is when this tilt is at its maximum.\n\nOn June 21st at 2:42 UTC, the Sun reaches its highest point in the sky for the Northern Hemisphere. This means:\n- Longest day of the year (up to 24 hours of daylight near the Arctic!)\n- Shortest night of the year\n- Sun rises and sets farthest north\n- Official start of summer\n\nBut here's the cool part - if you live in the Southern Hemisphere, it's exactly the opposite! June 21st marks the start of winter, with the shortest day and longest night.\n\nWhy isn't it hottest on the longest day? That's due to something called 'seasonal lag.' Earth takes time to warm up, just like how the hottest part of the day isn't at noon but a few hours later. The hottest weather comes in July and August.\n\nAt your location, check your noontime shadow on the solstice - it will be the shortest shadow of the entire year! Ancient people built monuments like Stonehenge to track this special day over 5,000 years ago.",
+      "shortDescription": "Longest day of 2025! June Solstice marks summer's start on June 21st.",
+      "dateTime": "2025-06-21T02:42:00Z",
+      "endDateTime": "2025-06-21T23:59:59Z",
+      "category": "special",
+      "priority": 1,
+      "expirationDate": "2025-06-30T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/solstice_1.jpg",
+          "type": "main",
+          "altText": "Earth's tilt and sun position during June solstice"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/solstice_2.jpg",
+          "type": "photo",
+          "altText": "Sun path comparison showing highest arc of the year"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/solstice_3.jpg",
+          "type": "map",
+          "altText": "Stonehenge sunrise alignment on summer solstice"
+        }
+      ],
+      "links": [
+        {
+          "text": "Why do we have seasons?",
+          "url": "https://skytonight.app/earth/seasons",
+          "isExternal": true
+        },
+        {
+          "text": "Solstice vs Equinox explained",
+          "url": "https://skytonight.app/earth/solstices",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "june-004",
+      "title": "New Moon - Perfect Dark Skies for Stargazing!",
+      "description": "June 25th brings us the New Moon - the darkest night of the month and the absolute best time for stargazing!\n\nWhat exactly is a New Moon? It's when the Moon is positioned between Earth and the Sun, so the side facing us isn't lit up at all. This means the Moon is essentially invisible in our night sky.\n\nThink of it like turning off all the lights in your room to see better - that's what the New Moon does for the night sky! Without the Moon's bright light washing out the stars, we can see:\n- Fainter stars that are usually hidden\n- The Milky Way galaxy (if you're away from city lights)\n- Deep space objects like galaxies and nebulae\n- Meteor showers more clearly\n- Satellites passing overhead\n\nThis New Moon is especially great because it occurs during summer when the weather is usually clear and warm - perfect for spending the night outside looking up!\n\nTo make the most of this dark sky opportunity:\n1. Get away from city lights if possible\n2. Let your eyes adjust to the darkness for 20-30 minutes\n3. Use a red flashlight to preserve your night vision\n4. Look for the summer triangle of bright stars: Vega, Altair, and Deneb\n\nThis is nature's way of giving us the ultimate planetarium experience - no admission required!",
+      "shortDescription": "Darkest skies of the month! Perfect for stargazing on June 25th.",
+      "dateTime": "2025-06-25T10:31:00Z",
+      "endDateTime": "2025-06-25T23:59:59Z",
       "category": "moon",
       "priority": 2,
-      "expirationDate": "2025-05-31T23:59:59Z",
+      "expirationDate": "2025-06-30T23:59:59Z",
       "images": [
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_1.jpg",
           "type": "main",
-          "altText": "Diagram showing Earth, Moon, and Sun positions during New Moon"
+          "altText": "Dark sky showing Milky Way during new moon"
         },
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_2.jpg",
-          "type": "map",
-          "altText": "Dark sky without moon, showing Milky Way"
-        }
-      ],
-      "links": [
-        {
-          "text": "Moon phases explained",
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/moon/phases",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": false
-    },
-    {
-      "id": "may-003",
-      "title": "Eta Lyrid Meteor Shower - Midnight Sky Show",
-      "description": "This shower's name comes from 'Eta Lyrae' (a star in the constellation Lyra) and 'meteor shower' which means falling stars!\n\nThe Eta Lyrids are like the quieter cousin of the Eta Aquariids. Instead of 50 meteors per hour, you might see about 3 meteors per hour. They come from the constellation Lyra (the Harp).\n\nThink of it like popcorn popping in the microwave - instead of a constant stream, you'll see occasional bursts of light. Each meteor is still special though!\n\nThe best viewing time is after midnight on May 10th, when the constellation Lyra is high in the sky. The New Moon on May 8th means the sky will be extra dark for perfect viewing.",
-      "shortDescription": "Smaller but beautiful meteor shower from Lyra constellation, May 10th.",
-      "dateTime": "2025-05-10T00:00:00Z",
-      "endDateTime": "2025-05-10T06:00:00Z",
-      "category": "meteors",
-      "priority": 3,
-      "expirationDate": "2025-05-31T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_lyrid_1.jpg",
-          "type": "main",
-          "altText": "Eta Lyrid meteor over the night sky"
-        }
-      ],
-      "links": [
-        {
-          "text": "Find Lyra in your sky",
-          "url": "https://skytonight.app/constellations/lyra",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": false
-    },
-    {
-      "id": "may-004",
-      "title": "Moon-Mars-Beehive Cluster: A Cosmic Triangle!",
-      "description": "Let me explain this title! 'Conjunction' means celestial objects appear close together in the sky. Mars is a planet, and the Beehive Cluster is a group of stars named because they look like bees buzzing around!\n\nOn the night of May 3-4, you'll see three cool things close together in the sky: the Moon, Mars, and the Beehive Cluster (a group of stars that looks like a swarm of bees).\n\nImagine drawing a triangle in the sky - that's what these three objects will look like! Mars will appear as a reddish dot, the Moon will be nearly half-full, and with binoculars, you can see the Beehive Cluster as a fuzzy patch of stars.\n\nIt's like our cosmic neighbors are having a party! Look in the Cancer constellation in the evening sky after sunset.",
-      "shortDescription": "See the Moon, Mars, and Beehive Cluster together on May 3-4.",
-      "dateTime": "2025-05-03T20:00:00Z",
-      "endDateTime": "2025-05-04T02:00:00Z",
-      "category": "planets",
-      "priority": 3,
-      "expirationDate": "2025-05-31T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/moon_mars_cluster_1.jpg",
-          "type": "main",
-          "altText": "Moon, Mars, and Beehive Cluster arrangement"
-        }
-      ],
-      "links": [
-        {
-          "text": "What are conjunctions?",
-          "url": "https://skytonight.app/guide/conjunctions",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": true
-    },
-    {
-      "id": "may-005",
-      "title": "Venus: The Morning Star Returns!",
-      "description": "Let's break down the title! Venus is a planet (Earth's neighbor), 'Morning Star' means it appears before sunrise, and 'elongation' describes how far Venus is from the Sun in our sky!\n\nVenus is about to become the 'Morning Star' again! Usually we see Venus in the evening sky (as the 'Evening Star'), but on May 31st, it reaches its farthest point east of the Sun.\n\nThink of Venus like a friend who sometimes stays up late with you (Evening Star) and sometimes gets up early (Morning Star). Right now, it's switching from its evening routine to its morning one!\n\nVenus is the brightest planet in our sky - so bright you can sometimes see it during the day! Look for it low in the eastern sky about 45 minutes before sunrise.",
-      "shortDescription": "Watch Venus return as the bright Morning Star on May 31st.",
-      "dateTime": "2025-05-31T00:00:00Z",
-      "endDateTime": "2025-05-31T23:59:59Z",
-      "category": "planets",
-      "priority": 2,
-      "expirationDate": "2025-05-31T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_1.jpg",
-          "type": "main",
-          "altText": "Venus positions in the sky"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_2.jpg",
-          "type": "map",
-          "altText": "Diagram showing Venus at greatest elongation"
-        }
-      ],
-      "links": [
-        {
-          "text": "Venus viewing guide",
-          "url": "https://skytonight.app/planets/venus",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": true
-    },
-    {
-      "id": "may-006",
-      "title": "Flower Moon (Micromoon) - A Smaller Full Moon",
-      "description": "The Full Moon on May 12th is nicknamed the 'Flower Moon' because it happens when spring flowers are blooming. This one is also a 'Micromoon' - when the Moon is farther from Earth, making it appear slightly smaller than usual.\n\nImagine holding two coins - a penny and a nickel. The difference between a Micromoon and a regular Full Moon is like the difference between those coins. You probably won't notice it's smaller unless you compare photos!\n\nThe Moon will still light up the night sky beautifully, and it's safe to look at without special equipment.",
-      "shortDescription": "Full Flower Moon appears slightly smaller on May 12th (Micromoon).",
-      "dateTime": "2025-05-12T16:56:00Z",
-      "endDateTime": "2025-05-31T23:59:59Z",
-      "category": "moon",
-      "priority": 2,
-      "expirationDate": "2025-05-31T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_1.jpg",
-          "type": "main",
-          "altText": "Various phase of the moon"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_2.jpg",
           "type": "photo",
-          "altText": "Comparison between Micromoon and regular Full Moon"
+          "altText": "Stargazer observing under dark new moon skies"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_3.jpg",
+          "type": "map",
+          "altText": "Summer triangle stars visible during new moon"
         }
       ],
       "links": [
         {
-          "text": "Full moon names explained",
-          "url": "https://skytonight.app/moon/names",
+          "text": "Best stargazing tips",
+          "url": "https://skytonight.app/stargazing/guide",
+          "isExternal": true
+        },
+        {
+          "text": "Find dark sky locations",
+          "url": "https://skytonight.app/locations/dark",
           "isExternal": true
         }
       ],
       "requiresPremium": false,
       "isHighlighted": false
-    }
-  ],
-  "categories": [
-    {
-      "id": "all",
-      "name": "All Events",
-      "icon": "star.fill"
     },
     {
-      "id": "meteors",
-      "name": "Meteor Showers",
-      "icon": "sparkles"
+      "id": "june-005",
+      "title": "Lunar Occultation of Mars - The Red Planet Disappears!",
+      "description": "Get ready for a cosmic magic trick! On June 29-30, the Moon will pass directly in front of Mars, making the Red Planet completely disappear and then reappear about an hour later!\n\nWhat exactly is a lunar occultation? Think of it like a solar eclipse, but instead of the Moon blocking the Sun, it's blocking a planet. Since Mars is millions of miles behind the Moon, it appears much smaller, so when the Moon passes in front of it, Mars vanishes completely!\n\nThis particular occultation will be visible from western Peru, Ecuador, western Colombia, and Clipperton Island from 22:57 GMT on June 29 to 03:35 GMT on June 30. Even if you're not in these lucky locations, Mars and the Moon will appear very close together worldwide - a beautiful sight!\n\nHere's what makes this special:\n- Mars is currently bright and prominent (near opposition)\n- You can see it easily with the naked eye\n- With binoculars or a telescope, it's even more dramatic\n- The event happens relatively quickly - Mars disappears and reappears within an hour\n\nEven if you can't see the actual occultation, don't miss the close conjunction of Mars and the Moon! They'll be so close they'll fit in the same telescopic field of view.\n\nIt's like watching celestial clockwork in action - the precise movements of our cosmic neighbors creating a rare and beautiful alignment!",
+      "shortDescription": "Mars disappears behind the Moon! Lunar occultation on June 29-30.",
+      "dateTime": "2025-06-29T22:57:00Z",
+      "endDateTime": "2025-06-30T03:35:00Z",
+      "category": "planets",
+      "priority": 2,
+      "expirationDate": "2025-06-30T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/mars_occultation_1.jpg",
+          "type": "main",
+          "altText": "Moon passing in front of Mars during occultation"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/mars_occultation_2.jpg",
+          "type": "photo",
+          "altText": "Mars reappearing from behind the moon's limb"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/mars_occultation_3.jpg",
+          "type": "map",
+          "altText": "Visibility map showing occultation viewing zones"
+        }
+      ],
+      "links": [
+        {
+          "text": "What are occultations?",
+          "url": "https://skytonight.app/events/occultations",
+          "isExternal": true
+        },
+        {
+          "text": "Observing Mars guide",
+          "url": "https://skytonight.app/planets/mars",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
     },
     {
-      "id": "planets",
-      "name": "Planets",
-      "icon": "globe"
-    },
-    {
-      "id": "moon",
-      "name": "Moon Phases",
-      "icon": "moon.circle.fill"
+      "id": "june-006",
+      "title": "Saturn Meets Neptune - First of Triple Conjunction!",
+      "description": "Something rare is happening in our morning sky! On June 29th, Saturn and Neptune will appear very close together in the constellation Pisces - this is the first of three special meetings between these distant giants!\n\nWhat makes this so special? These two planets move very slowly across the sky, so when they meet up, it's a big deal in astronomical terms. This is the beginning of what astronomers call a 'triple conjunction' - they'll meet three times over the next 8 months!\n\nHere's the schedule of their cosmic dance:\n1. June 29, 2025 (this one!)\n2. August 6, 2025\n3. February 16, 2026\n\nWhy three meetings? Both planets will soon start moving backward (called 'retrograde motion') relative to the background stars. Neptune goes retrograde on July 5th, and Saturn follows on July 14th. This backward and forward motion creates multiple encounters.\n\nObserving tips:\n- Saturn (magnitude 1.0) is easily visible to the naked eye as a yellowish 'star'\n- Neptune (magnitude 7.9) requires binoculars or a small telescope\n- Look in the pre-dawn eastern sky in the constellation Pisces\n- They'll be less than 1 degree apart - that's about twice the width of the Full Moon!\n\nThis is like watching a slow-motion celestial ballet between the ringed giant and the distant ice giant. Don't miss this rare opportunity to see two worlds from the outer solar system sharing the same patch of sky!",
+      "shortDescription": "Saturn and Neptune meet! First of rare triple conjunction on June 29th.",
+      "dateTime": "2025-06-29T08:20:00Z",
+      "endDateTime": "2025-06-29T18:00:00Z",
+      "category": "planets",
+      "priority": 3,
+      "expirationDate": "2025-06-30T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/saturn_neptune_1.jpg",
+          "type": "main",
+          "altText": "Saturn and Neptune close conjunction in Pisces"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/saturn_neptune_2.jpg",
+          "type": "photo",
+          "altText": "Telescopic view of Saturn and Neptune together"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/saturn_neptune_3.jpg",
+          "type": "map",
+          "altText": "Sky chart showing triple conjunction timeline"
+        }
+      ],
+      "links": [
+        {
+          "text": "What is retrograde motion?",
+          "url": "https://skytonight.app/concepts/retrograde",
+          "isExternal": true
+        },
+        {
+          "text": "Planet conjunctions explained",
+          "url": "https://skytonight.app/events/conjunctions",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
     }
   ]
-}
+} 
