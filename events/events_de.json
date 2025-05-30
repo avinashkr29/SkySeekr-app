@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "de",
-  "lastUpdated": "2025-05-02T12:00:00Z",
+  "lastUpdated": "2025-05-30T12:00:00Z",
   "configuration": {
     "refreshIntervalHours": 24,
     "maxEventsToShow": 10,
@@ -9,41 +9,41 @@
   },
   "events": [
     {
-      "id": "may-001",
-      "title": "Eta-Aquariden Meteorschauer - Sternschnuppen von Halley's Komet!",
-      "description": "Der Name klingt vielleicht kompliziert, aber lassen Sie uns das aufschlüsseln! 'Eta-Aquariden' kommt vom Sternbild Wassermann (der Wasserträger) und dem Stern Eta Aquarii, von wo die Meteore zu kommen scheinen. 'Meteorschauer' bedeutet, dass viele Sternschnuppen auf einmal erscheinen!\n\nDie Eta-Aquariden sind wie Feuerwerk am Himmel! Diese Meteore stammen von winzigen Eis- und Staubpartikeln, die von Halley's Komet (ja, dem berühmten!) übriggeblieben sind. Wenn die Erde durch diese Trümmerspur zieht, verglühen diese Partikel in unserer Atmosphäre und erzeugen wunderschöne Lichtstreifen am Himmel.\n\nStellen Sie sich das so vor: Wenn Sie durch den Regen fahren, treffen Regentropfen auf Ihre Windschutzscheibe, richtig? Ähnlich trifft die Erde auf ihrer Reise durch den Weltraum auf diese winzigen Kometenteilchen, und sie verglühen wie Sternschnuppen!\n\nDieser Schauer kann auf seinem Höhepunkt 50-60 Meteore pro Stunde produzieren - das ist fast einer pro Minute! Die beste Beobachtungszeit ist vor Sonnenaufgang am 6. Mai. Im Jahr 2025 wird der Mond vor dem Morgen untergehen und uns einen schönen dunklen Himmel zur Beobachtung bieten.\n\nUm sie zu sehen: Finden Sie einen dunklen Ort fernab von Stadtlichtern, bringen Sie eine Decke oder einen Stuhl zum Hinlegen mit und schauen Sie Richtung Osten zum Sternbild Wassermann. Kein Teleskop nötig - nur Ihre Augen!",
-      "shortDescription": "Sehen Sie Sternschnuppen von Halley's Komet! Bis zu 50-60 Meteore pro Stunde am 6. Mai.",
-      "dateTime": "2025-05-05T03:00:00Z",
-      "endDateTime": "2025-05-06T09:00:00Z",
-      "category": "meteors",
+      "id": "june-001",
+      "title": "Venus in größter westlicher Elongation - Der Morgenstern kehrt zurück!",
+      "description": "Die Venus wird zum hellsten 'Morgenstern', den du sehen kannst! Am 1. Juni erreicht die Venus ihre größte westliche Elongation - das ist ein wissenschaftlicher Begriff dafür, dass sie am weitesten von der Sonne entfernt in unserem Morgenhimmel steht.\n\nStell dir die Venus wie eine Freundin vor, die manchmal lange mit dir aufbleibt (Abendstern) und manchmal früh aufsteht (Morgenstern). Gerade jetzt wechselt sie von ihrem Abendritual zu ihrem Morgenritual!\n\nDie Venus wird 46 Grad von der Sonne entfernt sein - das entspricht etwa der Breite von viereinhalb Fäusten, die du in Armeslänge hältst! Dies macht sie perfekt für die Beobachtung, da sie weit genug vom Sonnenlicht entfernt ist.\n\nMit einer Helligkeit von -4,4 mag ist die Venus so hell, dass du sie manchmal sogar tagsüber sehen kannst! Suche sie etwa 45 Minuten vor Sonnenaufgang tief am östlichen Himmel. Sie erscheint als brillanter weißer 'Stern', der nicht wie echte Sterne funkelt.\n\nDies ist der Beginn einer fantastischen 7-Monats-Periode, in der die Venus bis Ende 2025 unseren Morgenhimmel schmücken wird. Lass dir diese Chance nicht entgehen, unseren Nachbarplaneten in seiner spektakulärsten Form zu sehen!",
+      "shortDescription": "Venus wird am 1. Juni zum brillanten Morgenstern - hellster mit -4,4 mag!",
+      "dateTime": "2025-06-01T04:00:00Z",
+      "endDateTime": "2025-06-01T10:00:00Z",
+      "category": "planets",
       "priority": 1,
-      "expirationDate": "2025-05-31T23:59:59Z",
+      "expirationDate": "2025-06-30T23:59:59Z",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_1.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_1.jpg",
           "type": "main",
-          "altText": "Himmelskarte mit dem Sternbild Wassermann"
+          "altText": "Venus in größter westlicher Elongation Diagramm zeigt Morgenhimmel Position"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_2.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_2.jpg",
           "type": "photo",
-          "altText": "Himmelskarte mit dem Sternbild Wassermann"
+          "altText": "Venus strahlt hell am östlichen Morgenhimmel"
         },
         {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_aquariids_3.jpg",
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_3.jpg",
           "type": "map",
-          "altText": "Mehrere Meteorspuren"
+          "altText": "Sternkarte zeigt Venus Position relativ zum Sonnenaufgang"
         }
       ],
       "links": [
         {
-          "text": "Mehr über Meteorschauer erfahren",
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/meteors/learn",
+          "text": "Lerne über Venusphasen",
+          "url": "https://skytonight.app/planets/venus",
           "isExternal": true
         },
         {
-          "text": "Beobachtungserinnerung einstellen",
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/skytonight://reminder?event=eta-aquariids-2025",
+          "text": "Beobachtungs-Erinnerung setzen",
+          "url": "skytonight://reminder?event=venus-elongation-2025",
           "isAppLink": true
         }
       ],
@@ -51,149 +51,209 @@
       "isHighlighted": true
     },
     {
-      "id": "may-002",
-      "title": "Neumond - Perfekt für Sternbeobachtung!",
-      "description": "'Neumond' bedeutet, dass der Mond am Nachthimmel völlig unsichtbar ist! Es ist der Zeitpunkt, wenn der Mond zwischen Erde und Sonne steht, sodass wir die beleuchtete Seite nicht sehen können.\n\nDer Neumond ist der Moment, wenn der Mond zwischen Erde und Sonne steht und für uns unsichtbar ist. Dies schafft die dunkelsten Himmel des Monats - perfekt für die Sternbeobachtung!\n\nStellen Sie sich vor, Sie schalten alle Lichter in Ihrem Zimmer aus, um besser zu sehen - genau das macht der Neumond für den Nachthimmel. Ohne Mondlicht können wir schwächere Sterne, Galaxien und sogar die Milchstraße sehen, wenn Sie an einem dunklen Ort sind.\n\nDieser Neumond ereignet sich am 8. Mai und schafft ideale Bedingungen zur Beobachtung des Eta-Lyriden-Meteorschauers (der am 10. Mai seinen Höhepunkt erreicht).",
-      "shortDescription": "Dunkelster Himmel des Monats! Perfekt für Sternbeobachtung am 8. Mai.",
-      "dateTime": "2025-05-08T03:23:00Z",
-      "endDateTime": "2025-05-08T23:59:59Z",
+      "id": "june-002",
+      "title": "Erdbeermond - Der extremste Mond seit 18 Jahren!",
+      "description": "Bereite dich auf etwas wirklich Besonderes vor! Der Vollmond am 11. Juni ist nicht nur ein gewöhnlicher Vollmond - es ist der Erdbeermond, und er ist der extremste Vollmond, den wir bis 2043 sehen werden!\n\nWarum heißt er 'Erdbeermond'? Indianerstämme Nordamerikas nannten ihn so, weil er mit der Erdbeerernte zusammenfiel. In Europa wird er auch Rosenmond oder Honigmond genannt wegen der warmen, goldenen Farben, die er zeigt.\n\nWas macht diesen Mond so extrem? In der Nordhalbkugel wird dies der TIEFSTE Vollmond seit 18,6 Jahren sein! Er wird sehr nah am Horizont hängen und dadurch:\n- Orange oder golden gefärbt erscheinen (durch atmosphärische Filterung)\n- Größer als normal aussehen (der Mondillusions-Effekt)\n- Perfekt für Fotografie mit Landschaften sein\n\nIn der Südhalbkugel ist es umgekehrt - dies wird der höchste und hellste Vollmond des Jahres!\n\nDie beste Beobachtungszeit ist gleich nach Mondaufgang, wenn er tief am Horizont steht. Suche ihn am südöstlichen Himmel. Obwohl er riesig und orange erscheint, ist er technisch gesehen kein 'Supermond' - das ist nur eine optische Täuschung durch seine tiefe Position.\n\nDies ist ein seltener Genuss, der die Schönheit eines Vollmonds mit besonderen atmosphärischen Effekten kombiniert, die ihn wirklich unvergesslich machen!",
+      "shortDescription": "Der tiefste Vollmond seit 18 Jahren! Goldener Erdbeermond am 11. Juni.",
+      "dateTime": "2025-06-11T07:44:00Z",
+      "endDateTime": "2025-06-11T23:59:59Z",
       "category": "moon",
-      "priority": 2,
-      "expirationDate": "2025-05-31T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_1.jpg",
-          "type": "main",
-          "altText": "Diagramm der Positionen von Erde, Mond und Sonne bei Neumond"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_2.jpg",
-          "type": "map",
-          "altText": "Dunkler Himmel ohne Mond, die Milchstraße zeigend"
-        }
-      ],
-      "links": [
-        {
-          "text": "Mondphasen erklärt",
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/https://skytonight.app/moon/phases",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": false
-    },
-    {
-      "id": "may-003",
-      "title": "Eta-Lyriden Meteorschauer - Mitternächtliche Himmelsshow",
-      "description": "Der Name dieses Schauers stammt von 'Eta Lyrae' (einem Stern im Sternbild Leier) und 'Meteorschauer', was fallende Sterne bedeutet!\n\nDie Eta-Lyriden sind wie der ruhigere Cousin der Eta-Aquariden. Anstatt 50 Meteore pro Stunde könnten Sie etwa 3 Meteore pro Stunde sehen. Sie stammen aus dem Sternbild Leier (die Harfe).\n\nStellen Sie sich das wie Popcorn in der Mikrowelle vor - anstatt eines konstanten Stroms sehen Sie gelegentliche Lichtausbrüche. Jeder Meteor ist trotzdem etwas Besonderes!\n\nDie beste Beobachtungszeit ist nach Mitternacht am 10. Mai, wenn das Sternbild Leier hoch am Himmel steht. Der Neumond am 8. Mai bedeutet, dass der Himmel extra dunkel für perfekte Beobachtung sein wird.",
-      "shortDescription": "Kleinerer aber schöner Meteorschauer vom Sternbild Leier, 10. Mai.",
-      "dateTime": "2025-05-10T00:00:00Z",
-      "endDateTime": "2025-05-10T06:00:00Z",
-      "category": "meteors",
-      "priority": 3,
-      "expirationDate": "2025-05-31T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eta_lyrid_1.jpg",
-          "type": "main",
-          "altText": "Eta-Lyriden-Meteor über dem Nachthimmel"
-        }
-      ],
-      "links": [
-        {
-          "text": "Leier am Himmel finden",
-          "url": "https://skytonight.app/constellations/lyra",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": false
-    },
-    {
-      "id": "may-004",
-      "title": "Mond-Mars-Bienenstock-Haufen: Ein kosmisches Dreieck!",
-      "description": "Lassen Sie mich diesen Titel erklären! 'Konjunktion' bedeutet, dass Himmelsobjekte am Himmel nahe beieinander erscheinen. Mars ist ein Planet, und der Bienenstock-Haufen ist eine Gruppe von Sternen, die so genannt wird, weil sie wie Bienen aussieht, die herumschwirren!\n\nIn der Nacht vom 3. auf den 4. Mai werden Sie drei coole Dinge eng beieinander am Himmel sehen: den Mond, Mars und den Bienenstock-Haufen (eine Gruppe von Sternen, die wie ein Schwarm Bienen aussieht).\n\nStellen Sie sich vor, Sie zeichnen ein Dreieck am Himmel - so werden diese drei Objekte aussehen! Mars wird als rötlicher Punkt erscheinen, der Mond wird fast halbvoll sein, und mit einem Fernglas können Sie den Bienenstock-Haufen als verschwommenen Fleck von Sternen sehen.\n\nEs ist, als hätten unsere kosmischen Nachbarn eine Party! Schauen Sie abends nach Sonnenuntergang ins Sternbild Krebs.",
-      "shortDescription": "Sehen Sie Mond, Mars und Bienenstock-Haufen zusammen am 3.-4. Mai.",
-      "dateTime": "2025-05-03T20:00:00Z",
-      "endDateTime": "2025-05-04T02:00:00Z",
-      "category": "planets",
-      "priority": 3,
-      "expirationDate": "2025-05-31T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/moon_mars_cluster_1.jpg",
-          "type": "main",
-          "altText": "Anordnung von Mond, Mars und Bienenstock-Haufen"
-        }
-      ],
-      "links": [
-        {
-          "text": "Was sind Konjunktionen?",
-          "url": "https://skytonight.app/guide/conjunctions",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": true
-    },
-    {
-      "id": "may-005",
-      "title": "Venus: Der Morgenstern kehrt zurück!",
-      "description": "Lassen Sie uns den Titel aufschlüsseln! Venus ist ein Planet (Nachbar der Erde), 'Morgenstern' bedeutet, dass er vor Sonnenaufgang erscheint, und 'Elongation' beschreibt, wie weit Venus von der Sonne in unserem Himmel entfernt ist!\n\nVenus wird wieder zum 'Morgenstern'! Normalerweise sehen wir Venus am Abendhimmel (als 'Abendstern'), aber am 31. Mai erreicht sie ihren östlichsten Punkt von der Sonne.\n\nStellen Sie sich Venus wie einen Freund vor, der manchmal lange mit Ihnen aufbleibt (Abendstern) und manchmal früh aufsteht (Morgenstern). Gerade jetzt wechselt sie von ihrer Abend- zu ihrer Morgenroutine!\n\nVenus ist der hellste Planet an unserem Himmel - so hell, dass man sie manchmal sogar am Tag sehen kann! Suchen Sie sie tief am östlichen Himmel etwa 45 Minuten vor Sonnenaufgang.",
-      "shortDescription": "Beobachten Sie Venus als hellen Morgenstern am 31. Mai.",
-      "dateTime": "2025-05-31T00:00:00Z",
-      "endDateTime": "2025-05-31T23:59:59Z",
-      "category": "planets",
-      "priority": 2,
-      "expirationDate": "2025-05-31T23:59:59Z",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_1.jpg",
-          "type": "main",
-          "altText": "Venus-Positionen am Himmel"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/venus_2.jpg",
-          "type": "map",
-          "altText": "Diagramm der Venus bei größter Elongation"
-        }
-      ],
-      "links": [
-        {
-          "text": "Venus-Beobachtungsführer",
-          "url": "https://skytonight.app/planets/venus",
-          "isExternal": true
-        }
-      ],
-      "requiresPremium": false,
-      "isHighlighted": true
-    },
-    {
-      "id": "may-006",
-      "title": "Blumenmond (Mikromond) - Ein kleinerer Vollmond",
-      "description": "Der Vollmond am 12. Mai wird 'Blumenmond' genannt, weil er während der Frühlingsblüte stattfindet. Dieser hier ist auch ein 'Mikromond' - wenn der Mond weiter von der Erde entfernt ist und dadurch etwas kleiner erscheint als üblich.\n\nStellen Sie sich zwei Münzen vor - einen Pfennig und einen Fünfziger. Der Unterschied zwischen einem Mikromond und einem normalen Vollmond ist wie der Unterschied zwischen diesen Münzen. Sie werden wahrscheinlich nicht bemerken, dass er kleiner ist, es sei denn, Sie vergleichen Fotos!\n\nDer Mond wird den Nachthimmel trotzdem wunderschön erhellen, und er kann ohne spezielle Ausrüstung beobachtet werden.",
-      "shortDescription": "Vollmond Blumenmond erscheint etwas kleiner am 12. Mai (Mikromond).",
-      "dateTime": "2025-05-12T16:56:00Z",
-      "endDateTime": "2025-05-31T23:59:59Z",
-      "category": "moon",
-      "priority": 2,
-      "expirationDate": "2025-05-31T23:59:59Z",
+      "priority": 1,
+      "expirationDate": "2025-06-30T23:59:59Z",
       "images": [
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_1.jpg",
           "type": "main",
-          "altText": "Verschiedene Mondphasen"
+          "altText": "Goldorangener Erdbeermond tief am Horizont"
         },
         {
           "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/flower_moon_2.jpg",
           "type": "photo",
-          "altText": "Vergleich zwischen Mikromond und normalem Vollmond"
+          "altText": "Vergleich zeigt Mondillusions-Effekt nahe dem Horizont"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/moon_mars_cluster_1.jpg",
+          "type": "map",
+          "altText": "Mondbahn-Diagramm zeigt tiefe Trajektorie"
         }
       ],
       "links": [
         {
-          "text": "Vollmond-Namen erklärt",
-          "url": "https://skytonight.app/moon/names",
+          "text": "Warum erscheinen Monde orange?",
+          "url": "https://skytonight.app/moon/colors",
+          "isExternal": true
+        },
+        {
+          "text": "Mondfotografie-Tipps",
+          "url": "https://skytonight.app/photography/moon",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "june-003",
+      "title": "Juni-Sonnenwende - Der Sommer beginnt! (Oder Winter im Süden)",
+      "description": "Die Juni-Sonnenwende am 21. Juni ist eines der wichtigsten astronomischen Ereignisse des Jahres! Aber was genau ist eine Sonnenwende?\n\nStell dir die Erde wie einen Kreisel vor, der leicht geneigt ist. Während die Erde die Sonne umkreist, neigt sich manchmal die Nordhalbkugel zur Sonne hin und manchmal von ihr weg. Die Sonnenwende ist, wenn diese Neigung maximal ist.\n\nAm 21. Juni um 2:42 UTC erreicht die Sonne ihren höchsten Punkt am Himmel für die Nordhalbkugel. Das bedeutet:\n- Längster Tag des Jahres (bis zu 24 Stunden Tageslicht nahe der Arktis!)\n- Kürzeste Nacht des Jahres\n- Sonne geht am weitesten nördlich auf und unter\n- Offizieller Sommerbeginn\n\nAber hier ist das Coole - wenn du in der Südhalbkugel lebst, ist es genau umgekehrt! Der 21. Juni markiert den Winterbeginn mit dem kürzesten Tag und der längsten Nacht.\n\nWarum ist es nicht am längsten Tag am heißesten? Das liegt an etwas, das 'saisonale Verzögerung' genannt wird. Die Erde braucht Zeit zum Aufwärmen, genau wie der heißeste Teil des Tages nicht mittags, sondern ein paar Stunden später ist. Das heißeste Wetter kommt im Juli und August.\n\nPrüfe an deinem Standort deinen Mittagsschatten zur Sonnenwende - er wird der kürzeste Schatten des ganzen Jahres sein! Antike Menschen bauten Monumente wie Stonehenge, um diesen besonderen Tag vor über 5.000 Jahren zu verfolgen.",
+      "shortDescription": "Längster Tag 2025! Juni-Sonnenwende markiert Sommerbeginn am 21. Juni.",
+      "dateTime": "2025-06-21T02:42:00Z",
+      "endDateTime": "2025-06-21T23:59:59Z",
+      "category": "special",
+      "priority": 1,
+      "expirationDate": "2025-06-30T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_1.jpg",
+          "type": "main",
+          "altText": "Erdneigung und Sonnenposition während Juni-Sonnenwende"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_2.jpg",
+          "type": "photo",
+          "altText": "Sonnenbahn-Vergleich zeigt höchsten Bogen des Jahres"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/equinox_3.jpg",
+          "type": "map",
+          "altText": "Stonehenge Sonnenaufgang-Ausrichtung zur Sommersonnenwende"
+        }
+      ],
+      "links": [
+        {
+          "text": "Warum haben wir Jahreszeiten?",
+          "url": "https://skytonight.app/earth/seasons",
+          "isExternal": true
+        },
+        {
+          "text": "Sonnenwende vs Tagundnachtgleiche erklärt",
+          "url": "https://skytonight.app/earth/solstices",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "june-004",
+      "title": "Neumond - Perfekte dunkle Himmel für Sternbeobachtung!",
+      "description": "Der 25. Juni bringt uns den Neumond - die dunkelste Nacht des Monats und die absolut beste Zeit für Sternbeobachtung!\n\nWas genau ist ein Neumond? Es ist, wenn der Mond zwischen Erde und Sonne positioniert ist, sodass die uns zugewandte Seite nicht beleuchtet ist. Das bedeutet, der Mond ist in unserem Nachthimmel praktisch unsichtbar.\n\nStell es dir vor wie das Ausschalten aller Lichter in deinem Zimmer, um besser zu sehen - das macht der Neumond für den Nachthimmel! Ohne das helle Mondlicht, das die Sterne überstrahlt, können wir sehen:\n- Schwächere Sterne, die normalerweise verborgen sind\n- Die Milchstraße (wenn du weg von Stadtlichtern bist)\n- Tiefraum-Objekte wie Galaxien und Nebel\n- Meteoritenschauer klarer\n- Vorbeiziehende Satelliten\n\nDieser Neumond ist besonders toll, weil er im Sommer auftritt, wenn das Wetter meist klar und warm ist - perfekt, um die Nacht draußen zu verbringen und nach oben zu schauen!\n\nUm das Beste aus dieser Dunkelheit zu machen:\n1. Gehe wenn möglich weg von Stadtlichtern\n2. Lass deine Augen sich 20-30 Minuten an die Dunkelheit gewöhnen\n3. Verwende eine rote Taschenlampe, um deine Nachtsicht zu erhalten\n4. Suche nach dem Sommerdreieck heller Sterne: Wega, Altair und Deneb\n\nDas ist die Art der Natur, uns das ultimative Planetarium-Erlebnis zu geben - kein Eintritt erforderlich!",
+      "shortDescription": "Dunkelste Himmel des Monats! Perfekt für Sternbeobachtung am 25. Juni.",
+      "dateTime": "2025-06-25T10:31:00Z",
+      "endDateTime": "2025-06-25T23:59:59Z",
+      "category": "moon",
+      "priority": 2,
+      "expirationDate": "2025-06-30T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_1.jpg",
+          "type": "main",
+          "altText": "Dunkler Himmel zeigt Milchstraße während Neumond"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_2.jpg",
+          "type": "photo",
+          "altText": "Sterngucker beobachtet unter dunklen Neumond-Himmeln"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/new_moon_3.png",
+          "type": "map",
+          "altText": "Sommerdreieck-Sterne sichtbar während Neumond"
+        }
+      ],
+      "links": [
+        {
+          "text": "Beste Sternbeobachtungs-Tipps",
+          "url": "https://skytonight.app/stargazing/guide",
+          "isExternal": true
+        },
+        {
+          "text": "Dunkle Himmel Standorte finden",
+          "url": "https://skytonight.app/locations/dark",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": false
+    },
+    {
+      "id": "june-005",
+      "title": "Mondbedeckung des Mars - Der Rote Planet verschwindet!",
+      "description": "Bereite dich auf einen kosmischen Zaubertrick vor! Am 29.-30. Juni wird der Mond direkt vor dem Mars vorbeiziehen und den Roten Planeten vollständig verschwinden und etwa eine Stunde später wieder erscheinen lassen!\n\nWas genau ist eine Mondbedeckung? Stell es dir wie eine Sonnenfinsternis vor, aber anstatt dass der Mond die Sonne blockiert, blockiert er einen Planeten. Da Mars Millionen von Kilometern hinter dem Mond ist, erscheint er viel kleiner, sodass Mars vollständig verschwindet, wenn der Mond vor ihm vorbeizieht!\n\nDiese besondere Bedeckung wird von West-Peru, Ecuador, West-Kolumbien und Clipperton Island von 22:57 GMT am 29. Juni bis 03:35 GMT am 30. Juni sichtbar sein. Auch wenn du nicht in diesen glücklichen Gebieten bist, werden Mars und der Mond weltweit sehr nah zusammen erscheinen - ein schöner Anblick!\n\nHier ist, was dies besonders macht:\n- Mars ist derzeit hell und prominent (nahe der Opposition)\n- Du kannst ihn leicht mit bloßen Augen sehen\n- Mit Fernglas oder Teleskop ist es noch dramatischer\n- Das Ereignis passiert relativ schnell - Mars verschwindet und erscheint wieder innerhalb einer Stunde\n\nSelbst wenn du die eigentliche Bedeckung nicht sehen kannst, verpasse nicht die enge Konjunktion von Mars und Mond! Sie werden so nah sein, dass sie in dasselbe Teleskop-Sichtfeld passen.\n\nEs ist wie das Beobachten himmlischer Uhrwerke in Aktion - die präzisen Bewegungen unserer kosmischen Nachbarn schaffen eine seltene und schöne Ausrichtung!",
+      "shortDescription": "Mars verschwindet hinter dem Mond! Mondbedeckung am 29.-30. Juni.",
+      "dateTime": "2025-06-29T22:57:00Z",
+      "endDateTime": "2025-06-30T03:35:00Z",
+      "category": "planets",
+      "priority": 2,
+      "expirationDate": "2025-06-30T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_1.jpg",
+          "type": "main",
+          "altText": "Mond zieht vor Mars während Bedeckung vorbei"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipe_2.jpg",
+          "type": "photo",
+          "altText": "Mars erscheint wieder hinter Mondrand"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/eclipse_3.jpg",
+          "type": "map",
+          "altText": "Sichtbarkeitskarte zeigt Bedeckungs-Beobachtungszonen"
+        }
+      ],
+      "links": [
+        {
+          "text": "Was sind Bedeckungen?",
+          "url": "https://skytonight.app/events/occultations",
+          "isExternal": true
+        },
+        {
+          "text": "Mars-Beobachtungsführer",
+          "url": "https://skytonight.app/planets/mars",
+          "isExternal": true
+        }
+      ],
+      "requiresPremium": false,
+      "isHighlighted": true
+    },
+    {
+      "id": "june-006",
+      "title": "Saturn trifft Neptun - Erste der dreifachen Konjunktion!",
+      "description": "Etwas Seltenes passiert in unserem Morgenhimmel! Am 29. Juni werden Saturn und Neptun sehr nah zusammen im Sternbild Fische erscheinen - dies ist das erste von drei besonderen Treffen zwischen diesen fernen Riesen!\n\nWas macht dies so besonders? Diese beiden Planeten bewegen sich sehr langsam über den Himmel, also wenn sie sich treffen, ist das eine große Sache in astronomischen Begriffen. Dies ist der Beginn von dem, was Astronomen eine 'dreifache Konjunktion' nennen - sie werden sich dreimal über die nächsten 8 Monate treffen!\n\nHier ist der Zeitplan ihres kosmischen Tanzes:\n1. 29. Juni 2025 (dieser hier!)\n2. 6. August 2025\n3. 16. Februar 2026\n\nWarum drei Treffen? Beide Planeten werden bald anfangen, sich rückwärts zu bewegen (genannt 'rückläufige Bewegung') relativ zu den Hintergrundsternen. Neptun wird am 5. Juli rückläufig, und Saturn folgt am 14. Juli. Diese Rückwärts- und Vorwärtsbewegung schafft mehrere Begegnungen.\n\nBeobachtungstipps:\n- Saturn (Helligkeit 1,0) ist leicht mit bloßen Augen als gelblicher 'Stern' sichtbar\n- Neptun (Helligkeit 7,9) benötigt Fernglas oder kleines Teleskop\n- Schaue am Morgenhimmel im Osten im Sternbild Fische\n- Sie werden weniger als 1 Grad voneinander entfernt sein - das ist etwa doppelt so breit wie der Vollmond!\n\nDas ist wie das Beobachten eines Zeitlupen-himmlischen Balletts zwischen dem beringten Riesen und dem fernen Eisriesen. Verpasse nicht diese seltene Gelegenheit, zwei Welten aus dem äußeren Sonnensystem zu sehen, die sich denselben Himmelsfleck teilen!",
+      "shortDescription": "Saturn und Neptun treffen sich! Erste der seltenen dreifachen Konjunktion am 29. Juni.",
+      "dateTime": "2025-06-29T08:20:00Z",
+      "endDateTime": "2025-06-29T18:00:00Z",
+      "category": "planets",
+      "priority": 3,
+      "expirationDate": "2025-06-30T23:59:59Z",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_1.jpg",
+          "type": "main",
+          "altText": "Saturn und Neptun enge Konjunktion in Fische"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/weekly_2.jpg",
+          "type": "photo",
+          "altText": "Teleskopische Ansicht von Saturn und Neptun zusammen"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/avinashkr29/SkySeekr-app/main/events/images/week_3.jpg",
+          "type": "map",
+          "altText": "Sternkarte zeigt dreifache Konjunktions-Zeitleiste"
+        }
+      ],
+      "links": [
+        {
+          "text": "Was ist rückläufige Bewegung?",
+          "url": "https://skytonight.app/concepts/retrograde",
+          "isExternal": true
+        },
+        {
+          "text": "Planetenkonjunktionen erklärt",
+          "url": "https://skytonight.app/events/conjunctions",
           "isExternal": true
         }
       ],
